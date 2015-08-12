@@ -1556,4 +1556,8 @@ FUNCTION {end.bib}
 { newline$
   "\end{thebibliography}" write$ newline$
 }
+<<<<<<< HEAD
 EXECUTE {end.bib}
+=======
+EXECUTE {end.bib}
+>>>>>>> 1528c49b69aa568ef669e68c8345d7b1a0c80f19
