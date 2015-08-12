@@ -1502,8 +1502,4 @@ guarantee the accuracy of such information thereafter.
 \fi
 
 
-<<<<<<< HEAD
 \endinput
-=======
-\endinput
->>>>>>> 1528c49b69aa568ef669e68c8345d7b1a0c80f19
