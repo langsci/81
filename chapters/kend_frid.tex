@@ -1,7 +1,7 @@
 \documentclass[output=paper]{LSP/langsci}  
 \author{Tyler Kendall\affiliation{University of Oregon}\and Valerie Fridlan\affiliation{University of Nevada, Reno}} 
 \title{Mapping the perception of linguistic form: Dialectometry with perceptual data}
-\abstract{In this paper we examine the geographic distribution of perceptual data from over 550 participants from around the U.S. in an experiment testing the categorical perception of vowel continua across several word pairs (e.g. bet\~{}bait, bid\~{}bead, sad\~{}sod). Previous research has demonstrated that vowel identification, at least for certain vowel pairs like /e/ and /$\varepsilon $/, is significantly different across the major dialect regions of the U.S. and that vowel identification can be influenced by individual participants’ own vowel configurations in production \citep{fridland_exploring_2012}. Here, we focus for the first time on the actual geographic distribution of the participants, to ask to what extent modern methods of dialectometry, in particular spatial autocorrelation \citep{grieve_statistical_2011}, can help us to understand these data, and the regional patterning of perception differences more generally.
+\abstract{In this paper we examine the geographic distribution of perceptual data from over 550 participants from around the U.S. in an experiment testing the categorical perception of vowel continua across several word pairs (e.g. \textit{bet}{\textasciitilde}\textit{bait}, \textit{bid}{\textasciitilde}\textit{bead}, \textit{sad}{\textasciitilde}\textit{sod}). Previous research has demonstrated that vowel identification, at least for certain vowel pairs like /e/ and /$\varepsilon $/, is significantly different across the major dialect regions of the U.S. and that vowel identification can be influenced by individual participants’ own vowel configurations in production \citep{fridland_exploring_2012}. Here, we focus for the first time on the actual geographic distribution of the participants, to ask to what extent modern methods of dialectometry, in particular spatial autocorrelation \citep{grieve_statistical_2011}, can help us to understand these data, and the regional patterning of perception differences more generally.
 
 }
 
@@ -20,16 +20,9 @@
 % \end{multicols}
  
 \section{Introduction}
-
-%%%
-%%% check ipa ɛ
-%%%
-In this paper we consider how methods from dialectometry can aid our understanding of regional differences in perception by geospatially examining the results from a large-scale, web-based vowel identification experiment, where listeners throughout many parts of the U.S. were asked to identify which word they heard when stimuli were played with synthesized and somewhat ambiguous vowel acoustics (e.g. a range between \textit{bait}\~{}\textit{bet}). This work comes from a larger, long-term project in which we have sought to understand regional differences in the perception of U.S. English vowels and linkages between perception and production at both the regional and individual level \citep{fridland_exploring_2012,kendall_mapping_2010,kendall_variation_2012}, as well as lesser studied aspects of the vowel systems of U.S. English (e.g. \citealt{fridland_durational_2014}). Those projects have identified a number of regional patterns in perception. For instance, in \cite{kendall_variation_2012} we identified that Southerners performed significantly differently from non-Southerners for the vowel continua probing the relationship between the mid-front vowels, /e/ and 
-%/ɛ/. 
-In the present paper, we turn our attention to recent developments in dialectometry, the statistical evaluation and visualization of geographic variation in language, to ask whether we can shed better, more granular light on the regional distribution of perceptual patterns in our data. 
+In this paper we consider how methods from dialectometry can aid our understanding of regional differences in perception by geospatially examining the results from a large-scale, web-based vowel identification experiment, where listeners throughout many parts of the U.S. were asked to identify which word they heard when stimuli were played with synthesized and somewhat ambiguous vowel acoustics (e.g. a range between \textit{bait}{\textasciitilde}\textit{bet}). This work comes from a larger, long-term project in which we have sought to understand regional differences in the perception of U.S. English vowels and linkages between perception and production at both the regional and individual level \citep{fridland_exploring_2012,kendall_mapping_2010,kendall_variation_2012}, as well as lesser studied aspects of the vowel systems of U.S. English (e.g. \citealt{fridland_durational_2014}). Those projects have identified a number of regional patterns in perception. For instance, in \cite{kendall_variation_2012} we identified that Southerners performed significantly differently from non-Southerners for the vowel continua probing the relationship between the mid-front vowels, /e/ and /ɛ/. In the present paper, we turn our attention to recent developments in dialectometry, the statistical evaluation and visualization of geographic variation in language, to ask whether we can shed better, more granular light on the regional distribution of perceptual patterns in our data. 
 
 In terms of speech production in the traditional domain of dialectology, researchers have long utilized mapping techniques to isolate the use of a feature or form in geographic space. In doing so, dialectology has brought to light much about the way such features interact with social and geographic barriers and, in wave or gravity models, about the way change spreads across space and time (cf. \citealt{chambers_dialectology_1998}). Recent work in understanding regional variation has increasingly focused on quantitative and statistical approaches to the analysis and mapping of regional forms. This work, under the heading \textsc{dialectometry}, has developed more sophisticated approaches to understanding the regional distribution of variants (cf. \citealt{lee_spatial_1993}, \citealt{nerbonne_introducing_2003}, \citealt{nerbonne_data-driven_2009}, \citealt{szmrecsanyi_grammatical_2012}) and intersected modern dialectological work with advances in geographical information systems (GIS) more generally. It has also allowed researchers to take advantage of the vast accumulations of dialectological data now available. However, mapping perception is still in its infancy and researchers have not explored whether the same techniques that have been used on production data by linguistic geographers so successfully might be as useful for understanding regional variation in perception.   
-
 In this paper, we attempt to tease out some of the ways in which the methods utilized in production contexts can be used to illuminate if and how perception maps across space. We largely draw on work from dialectometry, and in particular recent work by Jack Grieve and colleagues \citep{grieve_corpus-based_2009,grieve_statistical_2011,grieve_multivariate_2013}, which applies \textsc{geospatial autocorrelation} \textsc{techniques} to assess regional patterns in (typically productive) language data. As we consider the future of dialects and dialectology, we hope the work here can suggest new uses for geospatial mapping techniques and also illustrate the value of looking past production to perception in assessing dialect differences. Can these approaches help us identify patterns in perception across and within more traditionally defined dialect regions (of e.g. \citealt{carver_american_1987}, \citealt{labov_atlas_2006-1})? Can we find significant regional patterns in perception like we do for production?
 
 \section{Background}
@@ -59,26 +52,12 @@ The data for our studies come from a computer-based vowel identification task th
 \end{figure}
 
 \subsection{Study design}
-In the test, vowel tokens from a number of continua were randomly played for listeners who were then asked, in a forced-choice format, to indicate the token they just heard from two choices \citep{strange_cross-language_1995,thomas_sociophonetic_2002}. Each continuum range was synthesized into 7 steps based on a sample speaker’s production values for each of two selected endpoint vowel categories. The stimuli were created using estimated beginning and endpoint values for F1 and F2 for each vowel pair (based on regional vowel patterns). At each analysis frame, a distance in frequency was estimated between the trajectories of each vowel in the pair. Because duration was held constant, each vowel has the same number of analysis frames. Increments of change in frequency were estimated (using a linear interpolation) for consecutive steps of a 7-step continuum spanning the distance in F1 and F2 trajectories across the vowel pair. More information about the perception stimuli, as well as details exemplifying the synthesis (for the /e/\~{}
-%/ɛ/
-test) is available in \citet{fridland_exploring_2012}.
+In the test, vowel tokens from a number of continua were randomly played for listeners who were then asked, in a forced-choice format, to indicate the token they just heard from two choices \citep{strange_cross-language_1995,thomas_sociophonetic_2002}. Each continuum range was synthesized into 7 steps based on a sample speaker’s production values for each of two selected endpoint vowel categories. The stimuli were created using estimated beginning and endpoint values for F1 and F2 for each vowel pair (based on regional vowel patterns). At each analysis frame, a distance in frequency was estimated between the trajectories of each vowel in the pair. Because duration was held constant, each vowel has the same number of analysis frames. Increments of change in frequency were estimated (using a linear interpolation) for consecutive steps of a 7-step continuum spanning the distance in F1 and F2 trajectories across the vowel pair. More information about the perception stimuli, as well as details exemplifying the synthesis (for the /e/{\textasciitilde}/ɛ/ test) is available in \citet{fridland_exploring_2012}.
 
-The sample speaker was a 40 year-old male from Reno, Nevada, who was chosen as representing unmarked dialectal features in line with \citet{clopper_acoustic_2004}. The tokens were embedded between a single consonant onset and single consonant coda (C\_C) and two consonant contexts were used for each vowel pair of interest (a post-bilabial context and a post-alveolar context, e.g. for /e/\~{}
-%/ɛ/
-, \textit{bait} \& \textit{bet} and\textit{ date} \& \textit{debt}). All following environments were alveolar obstruents. For the test, each trial presented a single vowel continuum step (played once) and participants were asked to indicate the token they just heard from two choices drawn from the relevant vowel categories (e.g. for the post-bilabial /e/\~{}
-%/ɛ/
-test, \textit{bait} or \textit{bet}). To investigate how much of a role vowel dynamics plays in vowel category perception and whether this varies across dialects, two different conditions were created for each vowel continuum, one which altered dynamic information for each step along with steady state information and another which removed dynamic information. The static tokens were created with target formant values fixed based on midpoint values across the entire vowel trajectory while the dynamic tokens included the formant variability of the original tokens across time. Thus, the test included both versions for all vowels so that each participant’s vowel thresholds were measured in both static and dynamic contexts for the two different consonant contexts. 
+The sample speaker was a 40 year-old male from Reno, Nevada, who was chosen as representing unmarked dialectal features in line with \citet{clopper_acoustic_2004}. The tokens were embedded between a single consonant onset and single consonant coda (C\_C) and two consonant contexts were used for each vowel pair of interest (a post-bilabial context and a post-alveolar context, e.g. for /e/{\textasciitilde}/ɛ/, \textit{bait} \& \textit{bet} and\textit{ date} \& \textit{debt}). All following environments were alveolar obstruents. For the test, each trial presented a single vowel continuum step (played once) and participants were asked to indicate the token they just heard from two choices drawn from the relevant vowel categories (e.g. for the post-bilabial /e/{\textasciitilde}/ɛ/ test, \textit{bait} or \textit{bet}). To investigate how much of a role vowel dynamics plays in vowel category perception and whether this varies across dialects, two different conditions were created for each vowel continuum, one which altered dynamic information for each step along with steady state information and another which removed dynamic information. The static tokens were created with target formant values fixed based on midpoint values across the entire vowel trajectory while the dynamic tokens included the formant variability of the original tokens across time. Thus, the test included both versions for all vowels so that each participant’s vowel thresholds were measured in both static and dynamic contexts for the two different consonant contexts. 
 
 \subsection{Test procedure}
-In order to be simultaneously implemented across regions, the test was developed and administered through a website. Each step in each vowel continuum had four iterations – i.e. was played 4 times randomized over the course of the study. Thus, this vowel identification test included 20 perception continua over a total of 560 trials – 5 vowel pairs (/e/\~{}
-%/ɛ/
-, /i/\~{}
-%/ɪ/, /æ/
-\~{}
-%/ɑ/, /ʌ/
-\~{}/o/, and 
-%/ɪ/
-\~{}/u/) X 2 consonantal environments (post-bilabial and post-alveolar) X 2 conditions (static and dynamic) X 7 steps per continua X 4 repetitions. The study was also randomized by trial. 
+In order to be simultaneously implemented across regions, the test was developed and administered through a website. Each step in each vowel continuum had four iterations – i.e. was played 4 times randomized over the course of the study. Thus, this vowel identification test included 20 perception continua over a total of 560 trials – 5 vowel pairs (/e/{\textasciitilde}/ɛ/, /i/{\textasciitilde}/ɪ/, /æ/{\textasciitilde}/ɑ/, /ʌ/{\textasciitilde}/o/, and /ɪ/{\textasciitilde}/u/) $\times$ 2 consonantal environments (post-bilabial and post-alveolar) $\times$ 2 conditions (static and dynamic) $\times$ 7 steps per continua $\times$ 4 repetitions. The study was also randomized by trial. 
 
 \section{Analysis and results}
 
@@ -87,49 +66,37 @@ In our previous work, we have focused entirely on subsets of our total perceptio
 
 As noted above, participants in the perception experiment heard vowels synthesized along a 7-step continuum and rated each step as one of two words in a minimal pair (e.g. \textit{bait} or \textit{bet}). The majority of our analyses have examined the data at this level through mixed-effect logistic regression (e.g. \citealt{kendall_variation_2012}). However, we can also examine the data in terms of the participants’ cross-over points – the place in each 7-step continuum where a subject first “crossed over” the 50\% point of hearing predominately one vowel category to predominantly another. We chose this measure of the “first” point at which participants crossed over from recognition of one vowel quality to another to provide a more simple test case for the present analysis than assessing the full continuum data for stimuli set.\footnote{We also examined the cross-over data briefly in Kendall and Fridland (\citeyear{kendall_mapping_2010,kendall_variation_2012}).} Using a cross-over measure provides a single value for each stimuli set (henceforth also referred to as a variable) for each participant and is less complex as input for some of the methods we utilize in this paper. Future work can assess whether the geospatial techniques we employ can be usefully applied to, e.g., full logistic models of the continua data.
 
-To exemplify the cross-over points and perception data more generally, \figref{fig:2} illustrates the identification functions and cross-over points for /e/\~{}
-%/ɛ/
-in the post-bilabial context (\textit{bait\~{}bet}) for two individuals, Kim1111, a female from Memphis, TN in the South (on left), and Kristen147, a female from Rochester, NY in the Inland North (on right). Kim1111 highlights a Southern pattern for /e/\~{}
-%/ɛ/
-, with a relatively later cross-over in comparison to Kristen147, who shows a more Northern pattern, crossing-over to 
-%/ɛ/
-earlier in the continuum \citep{kendall_variation_2012}.
+To exemplify the cross-over points and perception data more generally, \figref{fig:2} illustrates the identification functions and cross-over points for /e/{\textasciitilde}/ɛ/ in the post-bilabial context (\textit{bait{\textasciitilde}bet}) for two individuals, Kim1111, a female from Memphis, TN in the South (on left), and Kristen147, a female from Rochester, NY in the Inland North (on right). Kim1111 highlights a Southern pattern for /e/{\textasciitilde}/ɛ/, with a relatively later cross-over in comparison to Kristen147, who shows a more Northern pattern, crossing-over to /ɛ/ earlier in the continuum \citep{kendall_variation_2012}.
 
 \begin{figure}
 \includegraphics[width=\textwidth]{illustrations/kend_frid_fig2}
-\caption{Identification function for /e/\~{}
-%/ɛ/
-in dynamic post-bilabial context (bait\~{}bet) for two individuals.}
+\caption{Identification function for /e/{\textasciitilde}/ɛ/ in dynamic post-bilabial context (bait{\textasciitilde}bet) for two individuals.}
 \label{fig:2}
 \end{figure}
 
 To begin to consider these cross-over data in more detail, we first examine the 507 speakers we have previously grouped into regional categories (South vs. North vs. West; these are the non-white dots in \figref{fig:1}). \tabref{tab:1} presents a breakdown of the results of a series of ANOVA tests, which ask whether region differentiates cross-over points for each variable. The table shows results for Tukey post-hoc tests for the ANOVAs with \textit{p }values below 0.05. Due to the large number of statistical tests, it is judicious to use a Bonferroni corrected \textit{p }value as a more conservative measure of significance. Thus, while the table notes variables with \textit{p }values below 0.05 (noted by *), \textit{p }{\textless} 0.0025 (noted by **) is a better assessment of significance.
 
-\tabref{tab:1} also includes ANOVA results for the first 3 Principal Components (PCs) from a Principal Components Analysis (PCA) for all 20 variables. PCA is a common dimensionality reduction and cluster analysis technique, and examining the Principal Components (PCs) provides a convenient way to assess trends across the whole (large) set of variables simultaneously. For sake of space, we do not discuss the PCA in depth here but note that PC1 accounts for 32.4\% of the variance, PC2 accounts for 14.8\%, and PC3 accounts for 11.0\%. Focusing on the individual variables (the first 5 rows of \tabref{tab:1}), we see that ANOVAs yield \textit{p }{\textless} 0.05 for 11 of the 20 variables and \textit{p }{\textless} 0.0025 for 3 of these variables, the static and dynamic post-bilabial /e/\~{}
-%/ɛ/ 
-continua and the dynamic post-alveolar 
-%/ʌ/
-\~{}/o/ continuum. Overall, the majority of cases show the South having higher cross-over points than other regions, a finding inline with our results for the data examined elsewhere that showed, for example, Southerners tending to perceive /e/ farther along the synthesized F1/F2 continuum (e.g. \citealt{kendall_variation_2012}). The general finding of a difference between the South and the North in particular is confirmed in the results for the first two PCs. These patterns align with production differences in regional vowel patterns between the North and the South (e.g. \cite{labov_atlas_2006-1}) and demonstrate that, similar to perception, perception is also sensitive to geographic identity \citep{fridland_exploring_2012}.
+\tabref{tab:1} also includes ANOVA results for the first 3 Principal Components (PCs) from a Principal Components Analysis (PCA) for all 20 variables. PCA is a common dimensionality reduction and cluster analysis technique, and examining the Principal Components (PCs) provides a convenient way to assess trends across the whole (large) set of variables simultaneously. For sake of space, we do not discuss the PCA in depth here but note that PC1 accounts for 32.4\% of the variance, PC2 accounts for 14.8\%, and PC3 accounts for 11.0\%. Focusing on the individual variables (the first 5 rows of \tabref{tab:1}), we see that ANOVAs yield \textit{p }{\textless} 0.05 for 11 of the 20 variables and \textit{p }{\textless} 0.0025 for 3 of these variables, the static and dynamic post-bilabial /e/{\textasciitilde}/ɛ/ continua and the dynamic post-alveolar /ʌ/{\textasciitilde}/o/ continuum. Overall, the majority of cases show the South having higher cross-over points than other regions, a finding inline with our results for the data examined elsewhere that showed, for example, Southerners tending to perceive /e/ farther along the synthesized F1/F2 continuum (e.g. \citealt{kendall_variation_2012}). The general finding of a difference between the South and the North in particular is confirmed in the results for the first two PCs. These patterns align with production differences in regional vowel patterns between the North and the South (e.g. \cite{labov_atlas_2006-1}) and demonstrate that, similar to perception, perception is also sensitive to geographic identity \citep{fridland_exploring_2012}.
 
-%%%
-%%% check ipa
-%%%
 \begin{table}
-\begin{tabular}{lllll} & {\bfseries Bilabial} &  & {\bfseries Alveolar} & \\
-\lsptoprule
+\begin{tabular}{lllll}
+\lsptoprule 
+& {\bfseries Bilabial} &  & {\bfseries Alveolar} & \\
+\midrule
 {\bfseries Continuum} & {\bfseries Dynamic} & {\bfseries Static} & {\bfseries Dynamic} & {\bfseries Static}\\
-%{\mdseries /i/ \~{} /ɪ/} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries * S {\textgreater} N, W} & {\mdseries * S {\textgreater} N}\\
-%{\mdseries /e/ \~{} /ɛ/ } & {\mdseries ** S {\textgreater} N, W} & {\mdseries ** S {\textgreater} N, W} & {\mdseries * S {\textgreater} N, \~{}W} & {\mdseries * S, W {\textgreater} \~{}N}\\
-%{\mdseries /æ/ \~{} /ɑ/ } & {\mdseries {}-} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries * S {\textgreater} N, W}\\
-%{\mdseries  /ʌ/ \~{} /o/} & {\mdseries {}-} & {\mdseries * S {\textgreater} \~{}N} & {\mdseries ** S, W {\textgreater} N} & {\mdseries {}-}\\
-%{\mdseries /ɪ/ \~{} /u/} & {\mdseries * S {\textgreater} W} & {\mdseries * S {\textgreater} W} & {\mdseries {}-} & {\mdseries {}-}\\
-{\mdseries PC1} & \multicolumn{4}{l}{ * S {\textless} N\par}\\
-{\mdseries PC2} & \multicolumn{4}{l}{ * S {\textless} N, \~{}W\par}\\
-{\mdseries PC3} & \multicolumn{4}{l}{ {}-\par}\\
+{\mdseries /i/ {\textasciitilde} /ɪ/} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries * S {\textgreater} N, W} & {\mdseries * S {\textgreater} N}\\
+{\mdseries /e/ {\textasciitilde} /ɛ/ } & {\mdseries ** S {\textgreater} N, W} & {\mdseries ** S {\textgreater} N, W} & {\mdseries * S {\textgreater} N, {\textasciitilde}W} & {\mdseries * S, W {\textgreater} {\textasciitilde}N}\\
+{\mdseries /æ/ {\textasciitilde} /ɑ/ } & {\mdseries {}-} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries * S {\textgreater} N, W}\\
+{\mdseries  /ʌ/ {\textasciitilde} /o/} & {\mdseries {}-} & {\mdseries * S {\textgreater} {\textasciitilde}N} & {\mdseries ** S, W {\textgreater} N} & {\mdseries {}-}\\
+{\mdseries /ɪ/ {\textasciitilde} /u/} & {\mdseries * S {\textgreater} W} & {\mdseries * S {\textgreater} W} & {\mdseries {}-} & {\mdseries {}-}\\
+\midrule
+{\mdseries PC1} & \multicolumn{4}{c}{ * S {\textless} N\par}\\
+{\mdseries PC2} & \multicolumn{4}{c}{ * S {\textless} N, {\textasciitilde}W\par}\\
+{\mdseries PC3} & \multicolumn{4}{c}{ {}-\par}\\
 \lspbottomrule
 \end{tabular}
 \label{tab:1}
-\caption{Results for ANOVA tests with Tukey post-hoc comparisons. - denotes region p {\textgreater} 0.05; * denotes region p {\textless} 0.05; ** denotes region p {\textless} 0.0025; {\textgreater} indicates e.g. S {\textgreater} W = “South has a significantly higher cross-over than West”; \textasciitilde ~denotes marginally significant (0.075 {\textgreater} p {\textgreater} 0.05 post hoc comparison)}
+\caption{Results for ANOVA tests with Tukey post-hoc comparisons. - denotes region p {\textgreater} 0.05; * denotes region p {\textless} 0.05; ** denotes region p {\textless} 0.0025; {\textgreater} indicates e.g. S {\textgreater} W = “South has a significantly higher cross-over than West”; {\textasciitilde} ~denotes marginally significant (0.075 {\textgreater} p {\textgreater} 0.05 post hoc comparison)}
 \end{table}
 
 Beyond noting differences in perception among the major regions of U.S. English, our present interest is in examining the perception data at a finer-level of regional granularity and to move away from our preexisting regional categories, which are based on production patterns and regional assignments from the \textit{ANAE }\citep{labov_atlas_2006-1}. We turn now to spatial autocorrelation techniques to ask whether we can learn anything new from examining the perception data from a geospatial perspective, where participants are considered in terms of the geospatial coordinates of their self-reported “hometowns” rather than as members of a predefined dialect region. 
@@ -140,54 +107,45 @@ In this short paper, we limit our description of these methods and point readers
 
 For the Moran’s \textit{I }test, we find global spatial autocorrelation at \textit{p }{\textless} 0.0025 for six of the 20 perception variables. We do not find significant Moran’s \textit{I} results for any of the Principal Components, with PC1 obtaining a \textit{p} value of 0.095. The Moran’s \textit{I }results are shown in \tabref{tab:2}. Thus, six of the variables are characterized as having global spatial clustering according to a conservative \textit{p} value assessment.
 
-Getis-Ord \textit{G}\textit{\textsubscript{i}}\textit{*} analysis allows us to look at the spatial autocorrelation for each individual participant and to ask whether that participant is a member of a spatial cluster of like-valued participants. While examining all of the variables for local spatial autocorrelation would be useful, due to space constraints, we focus our attention on the dynamic variables which showed global spatial clustering by Moran’s \textit{I}. Maps for the static versions of these stimuli are not shown, despite that they also reached significance in the Moran’s \textit{I} analysis, also due to space limitations. Figures 3-6 display the Getis-Ord \textit{G}\textit{\textsubscript{i}}\textit{* }scores overlaid on maps of the U.S. for the three perception variables and for PC1. These maps depict the scores as colors (see the legend of each map for keys to the colors). Light gray lines on the maps indicate the neighbor relationships from the spatial weighting function, so clusters are assessed in terms of relationships between connected participants. These maps highlight important regional and sub-regional clusters. However, before discussing these clusters, we must also note that these clusters are best taken more as visual “suggestions” than as statistically significant proof of regional differences. The \textit{G}\textit{\textsubscript{i}}\textit{* }scores are effectively geospatially smoothed values for the variables (see e.g. \citealt[37]{grieve_multivariate_2013}). \citet{ord_local_1995} provide a measure of significance for \textit{G}\textit{\textsubscript{i}}\textit{* }values (here, for a dataset of this size, significant values should be {\textgreater} \~{}{\textbar}3.72{\textbar}), but many of our mapped participants do not reach this level. Nonetheless, the maps can provide useful visual clues to fine-grained regional patterns and we see the \textit{G}\textit{\textsubscript{i}}\textit{*} scores as a tool for better understanding our data regardless of the degree of significance of the values obtained. \figref{fig:3} displays the \textit{G}\textit{\textsubscript{i}}\textit{*} scores for /e/\~{}
-%/ɛ/
-in the dynamic post-bilabial context, \figref{fig:4} displays the scores for 
-%/ʌ/
-\~{}/o/ in the dynamic post-alveolar context, and \figref{fig:5} displays the scores for 
-%/ɪ/
-\~{}/u/ in the dynamic post-bilabial context. Maps of static scores pattern similarly but, as stated above, are not included for sake of space. Again, while none of the PCs yielded significant Moran’s \textit{I} values, \figref{fig:6} shows the \textit{G}\textit{\textsubscript{i}}\textit{*} scores for PC1, which helpfully capture some of the larger patterns across the maps.
+Getis-Ord \textit{G}\textit{\textsubscript{i}}\textit{*} analysis allows us to look at the spatial autocorrelation for each individual participant and to ask whether that participant is a member of a spatial cluster of like-valued participants. While examining all of the variables for local spatial autocorrelation would be useful, due to space constraints, we focus our attention on the dynamic variables which showed global spatial clustering by Moran’s \textit{I}. Maps for the static versions of these stimuli are not shown, despite that they also reached significance in the Moran’s \textit{I} analysis, also due to space limitations. Figures 3-6 display the Getis-Ord \textit{G}\textit{\textsubscript{i}}\textit{* }scores overlaid on maps of the U.S. for the three perception variables and for PC1. These maps depict the scores as colors (see the legend of each map for keys to the colors). Light gray lines on the maps indicate the neighbor relationships from the spatial weighting function, so clusters are assessed in terms of relationships between connected participants. These maps highlight important regional and sub-regional clusters. However, before discussing these clusters, we must also note that these clusters are best taken more as visual “suggestions” than as statistically significant proof of regional differences. The \textit{G}\textit{\textsubscript{i}}\textit{* }scores are effectively geospatially smoothed values for the variables (see e.g. \citealt[37]{grieve_multivariate_2013}). \citet{ord_local_1995} provide a measure of significance for \textit{G}\textit{\textsubscript{i}}\textit{* }values (here, for a dataset of this size, significant values should be {\textgreater} {\textasciitilde}{\textbar}3.72{\textbar}), but many of our mapped participants do not reach this level. Nonetheless, the maps can provide useful visual clues to fine-grained regional patterns and we see the \textit{G}\textit{\textsubscript{i}}\textit{*} scores as a tool for better understanding our data regardless of the degree of significance of the values obtained. \figref{fig:3} displays the \textit{G}\textit{\textsubscript{i}}\textit{*} scores for /e/{\textasciitilde}/ɛ/ in the dynamic post-bilabial context, \figref{fig:4} displays the scores for /ʌ/{\textasciitilde}/o/ in the dynamic post-alveolar context, and \figref{fig:5} displays the scores for /ɪ/{\textasciitilde}/u/ in the dynamic post-bilabial context. Maps of static scores pattern similarly but, as stated above, are not included for sake of space. Again, while none of the PCs yielded significant Moran’s \textit{I} values, \figref{fig:6} shows the \textit{G}\textit{\textsubscript{i}}\textit{*} scores for PC1, which helpfully capture some of the larger patterns across the maps.
 
 \begin{table}
-\begin{tabular}{lllll} & {\bfseries Bilabial} &  & {\bfseries Alveolar} & \\
+\begin{tabular}{lllll}
 \lsptoprule
+& {\bfseries Bilabial} &  & {\bfseries Alveolar} & \\
+\midrule
 {\bfseries Continuum} & {\bfseries Dynamic} & {\bfseries Static} & {\bfseries Dynamic} & {\bfseries Static}\\
-%{\mdseries /i/ \~{} /ɪ/} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries \~{}} & {\mdseries {}-}\\
-%{\mdseries /e/ \~{} /ɛ/ } & {\mdseries ** } & {\mdseries **} & {\mdseries {}-} & {\mdseries *}\\
-%{\mdseries /æ/ \~{} /ɑ/ } & {\mdseries {}-} & {\mdseries {}-} & {\mdseries \~{}} & {\mdseries *}\\
-%{\mdseries  /ʌ/ \~{} /o/} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries **} & {\mdseries **}\\
-%{\mdseries /ɪ/ \~{} /u/} & {\mdseries ***} & {\mdseries ***} & {\mdseries {}-} & {\mdseries {}-}\\
-{\mdseries PC1} & \multicolumn{4}{l}{ \~{}\par}\\
-{\mdseries PC2} & \multicolumn{4}{l}{ {}-\par}\\
-{\mdseries PC3} & \multicolumn{4}{l}{ {}-\par}\\
+{\mdseries /i/ {\textasciitilde} /ɪ/} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries {\textasciitilde}} & {\mdseries {}-}\\
+{\mdseries /e/ {\textasciitilde} /ɛ/ } & {\mdseries ** } & {\mdseries **} & {\mdseries {}-} & {\mdseries *}\\
+{\mdseries /æ/ {\textasciitilde} /ɑ/ } & {\mdseries {}-} & {\mdseries {}-} & {\mdseries {\textasciitilde}} & {\mdseries *}\\
+{\mdseries  /ʌ/ {\textasciitilde} /o/} & {\mdseries {}-} & {\mdseries {}-} & {\mdseries **} & {\mdseries **}\\
+{\mdseries /ɪ/ {\textasciitilde} /u/} & {\mdseries ***} & {\mdseries ***} & {\mdseries {}-} & {\mdseries {}-}\\
+\midrule
+{\mdseries PC1} & \multicolumn{4}{c}{ {\textasciitilde}\par}\\
+{\mdseries PC2} & \multicolumn{4}{c}{ {}-\par}\\
+{\mdseries PC3} & \multicolumn{4}{c}{ {}-\par}\\
 \lspbottomrule
 \end{tabular}
-\caption{Results for Moran’s I tests. {}- denotes not significant; \textasciitilde ~denotes 0.1 {\textgreater} p {\textgreater} 0.05; * denotes p {\textless} 0.05; ** denotes p {\textless} 0.0025 (Bonferroni corrected significant p value); *** denotes p {\textless} 0.00001}
+\caption{Results for Moran’s I tests. {}- denotes not significant; {\textasciitilde} denotes 0.1 {\textgreater} p {\textgreater} 0.05; * denotes p {\textless} 0.05; ** denotes p {\textless} 0.0025 (Bonferroni corrected significant p value); *** denotes p {\textless} 0.00001}
 \label{tab:2}
 \end{table}
 
  
 \begin{figure}
 \includegraphics[width=\textwidth]{illustrations/kend_frid_fig3}
-\caption{Getis-Ord G\textsubscript{i}* z score values for /e/\~{}
-%/ɛ/
-in the dynamic post-bilabial context.}
+\caption{Getis-Ord G\textsubscript{i}* z score values for /e/{\textasciitilde}/ɛ/ in the dynamic post-bilabial context.}
 \label{fig:3}
 \end{figure}
 
 \begin{figure}
 \includegraphics[width=\textwidth]{illustrations/kend_frid_fig4}
-\caption{Getis-Ord G\textsubscript{i}* z score values for 
-%/ʌ/
-\~{}/o/ in the dynamic post-alveolar context.}
+\caption{Getis-Ord G\textsubscript{i}* z score values for /ʌ/ {\textasciitilde}/o/ in the dynamic post-alveolar context.}
 \label{fig:4}
 \end{figure}
 
 \begin{figure}
 \includegraphics[width=\textwidth]{illustrations/kend_frid_fig5}
-\caption{Getis-Ord G\textsubscript{i}* z score values for 
-%/ɪ/
-\~{}/u/ in the dynamic post-bilabial context.}
+\caption{Getis-Ord G\textsubscript{i}* z score values for /ɪ/ {\textasciitilde}/u/ in the dynamic post-bilabial context.}
 \label{fig:5}
 \end{figure}
 
@@ -215,9 +173,7 @@ However, we end here and do not attempt to elucidate the reasons for these diffe
 \section{Conclusion}
 Overall, this investigation has shown that dialectometry has a lot to offer the investigation of regional patterns in perception. We gain new insights in the perception of linguistic form by assessing the geospatial patterns of the responses made by participants in perception experiments. The clusters appear to not simply align with regionally demarking isoglosses coming from more traditional dialect surveys, or even the recent phonological survey of \textit{The Atlas of North American English} \citep{labov_atlas_2006-1}.
 
-While the visual patterns in the maps of Figures 3-6 are suggestive of finer regional patterns in perception than we have previously considered, it must be remembered that these patterns are only suggestive. Further analysis and more regionally diverse and balanced data are needed to assess the extent to which these clusters are meaningfully different from one another. We hope that this further analysis will involve increased use of techniques from dialectometry so that we can better assess the extent to which isoglosses in perception align with those in production.\footnote{Although we leave most of this further analysis for the future, we have begun to follow up on the pattern observed from the Getis-Ord analysis that Southern California differs from the rest of the West Coast. A linear regression on just participants from the West Coast (participants from longitudes west of -116.54º, the longitude of our east-most Californian participant) indeed identifies a significant relationship between latitude coordinate and e.g. perception of the /e/\~{}
-%/ɛ/
-dynamic post-bilabial continuum (coef=0.1278, \textit{p} {\textless} 0.05) and conditional inference trees find significant breaks at about latitude 39º for many of the continua. We also find significant differences for sub-groupings of West Coast participants based on several separations of these participants into “North” and “South” West Coast based on the visual differences in Figures 3-6.}
+While the visual patterns in the maps of Figures 3-6 are suggestive of finer regional patterns in perception than we have previously considered, it must be remembered that these patterns are only suggestive. Further analysis and more regionally diverse and balanced data are needed to assess the extent to which these clusters are meaningfully different from one another. We hope that this further analysis will involve increased use of techniques from dialectometry so that we can better assess the extent to which isoglosses in perception align with those in production.\footnote{Although we leave most of this further analysis for the future, we have begun to follow up on the pattern observed from the Getis-Ord analysis that Southern California differs from the rest of the West Coast. A linear regression on just participants from the West Coast (participants from longitudes west of -116.54º, the longitude of our east-most Californian participant) indeed identifies a significant relationship between latitude coordinate and e.g. perception of the /e/{\textasciitilde}/ɛ/ dynamic post-bilabial continuum (coef=0.1278, \textit{p} {\textless} 0.05) and conditional inference trees find significant breaks at about latitude 39º for many of the continua. We also find significant differences for sub-groupings of West Coast participants based on several separations of these participants into “North” and “South” West Coast based on the visual differences in Figures 3-6.}
 
 \section*{Acknowledgements}
 This research has been supported by grants \# BCS-0518264 \& BCS-1123460 (PI Fridland), and BCS-1122950 (PI Kendall) from the National Science Foundation. We thank Craig Fickle and Charlie Farrington at the University of Oregon, and Sohei Okamoto and Kaylynn Gunter at the University of Nevada, Reno, for support with various aspects of this research. We also thank our audience at Methods in Dialectology XV, the editors, and the three anonymous reviewers for their helpful advice about our project.
