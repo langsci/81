@@ -55,9 +55,9 @@ This led to the complete removal of three counties for that analysis: East Lothi
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-In the bottom-up \textsc{cbdm} study (Section \ref{bottomup}), we will analyze a smaller version of the corpus: the Freiburg Corpus of English Dialects Sampler (\textsc{fred-s}) (\citealt{szmrecsanyi_manual_2007}). \textsc{fred-s} contains a subset of the texts in the full \textsc{fred} corpus totaling about 1 million words of running text and covering 17 counties in England the Scottish Lowlands. The big advantage of using \textsc{fred-s}, though smaller in size, is that it exists in a version that was automatically part-of-speech (\textsc{pos}) annotated by the \textsc{claws4} tagger \citep{garside_hybrid_1997} using the detailed \textsc{claws7} tagset.
+In the bottom-up \textsc{cbdm} study (Section \ref{bottomup}), we will analyze a smaller version of the corpus: the Freiburg Corpus of English Dialects Sampler (\textsc{fred-s}) (\citealt{szmrecsanyi_manual_2007}). \textsc{fred-s} contains a subset of the texts in the full \textsc{fred} corpus totaling about 1 million words of running text and covering 17 counties in England and the Scottish Lowlands. The big advantage of using \textsc{fred-s}, though smaller in size, is that it exists in a version that was automatically part-of-speech (\textsc{pos}) annotated by the \textsc{claws4} tagger \citep{garside_hybrid_1997} using the detailed \textsc{claws7} tagset.
 
-To illustrate the nature of the material sampled in \textsc{fred} and \textsc{fred-s}, (\ref{FREDexample}) is the beginning of an interview conducted in 1978 in St. Ives, Cornwall (\textsc{fred} text \textsc{con}003). The informant is an 86-year old male (`CAVA\_PV'), who is interviewed by two interviewers (`IntRS' and `Inf'). Interviewer utterances are enclosed in curly brackets (note that interviewer utterances are excluded from analysis in the present study).
+To illustrate the nature of the material sampled in \textsc{fred} and \textsc{fred-s}, (\ref{FREDexample}) is the beginning of an interview conducted in 1978 in St. Ives, Cornwall (\textsc{fred} text \textsc{con}003). The informant is an 86 year-old male (`CAVA\_PV'), who is interviewed by two interviewers (`IntRS' and `Inf'). Interviewer utterances are enclosed in curly brackets (note that interviewer utterances are excluded from analysis in the present study).
 %%%
 %%% can't get the example to italicise
 %%%
@@ -100,7 +100,7 @@ We will now discuss these top-down variants in turn.
 
 \citet{szmrecsanyi_grammatical_2013} processed the frequency table in two ways prior to analysis. For one thing, he normalized raw frequencies to frequency per 10,000 words, doing justice to the fact that textual coverage of individual dialects varies. This normalized frequency table tells us, for example, that multiple negation is twice as frequent in Nottinghamshire than in Yorkshire. Additionally, \citeauthor{szmrecsanyi_grammatical_2013} applied a log-transformation to the normalized frequencies for the sake of de-emphasizing large frequency differentials and thus alleviating the effect of frequency outliers. Next \citeauthor{szmrecsanyi_grammatical_2013} converted the normalized, log-transformed frequency table into an $N$ by $N$ distance matrix. This transformation is an aggregation step, in that the resulting distance matrix abstracts away from individual feature frequencies and specifies pairwise distances between the objects considered. To calculate dialectal distances, \citeauthor{szmrecsanyi_grammatical_2013} used the well-known Euclidean Distance Measure (see, e.g., \citealt[25]{aldenderfer_cluster_1984}). The Euclidean Distance Measure defines the distance between two dialects as the square root of the sum of all $p$ squared frequency differentials.
 
-Distance matrices are the customary input to dialectometric analysis and visualization techniques. Let us now explore the normalization-based top-down distance matrix using a particularly popular dialectometric mapping technique, \emph{cluster maps}. Cluster maps are common in all strands of dialectometry, and project the outcome of cluster analysis to geography (cf., for example, \citealt[Map 18]{goebl_bunch_2007}; \citealt[Figure 5]{nerbonne_dialektklassifikation_2005}; \citealt[Figure 9.6]{heeringa_measuring_2004}). First, an $N$ by $N$ distance matrix is subjected to \textsc{hierarchical agglomerative cluster analysis} (cf. \citealt{jain_data_1999}; we specifically used Ward's method as clustering algorithm), a statistical technique used to group a number of objects (in this study, dialects) into a smaller number of discrete clusters.\footnote{Simple clustering can be unstable, so we used the ``clustering with noise'' technique (\citealt{nerbonne_projecting_2008}).} Cluster memberships of dialect locations can then be projected to geography via, e.g., color coding.
+Distance matrices are the customary input to dialectometric analysis and visualization techniques. Let us now explore the normalization-based top-down distance matrix using a particularly popular dialectometric mapping technique, \emph{cluster maps}. Cluster maps are common in all strands of dialectometry, and project the outcome of cluster analysis to geography (cf., for example, \citealt[Map 18]{goebl_bunch_2007}; \citealt[Figure 5]{nerbonne_dialektklassifikation_2005}; \citealt[Figure 9.6]{heeringa_measuring_2004}). First, an $N$ by $N$ distance matrix is subjected to \textsc{hierarchical agglomerative cluster analysis} (cf. \citealt{jain_data_1999}; we specifically used Ward's method as the clustering algorithm), a statistical technique used to group a number of objects (in this study, dialects) into a smaller number of discrete clusters.\footnote{Simple clustering can be unstable, so we used the ``clustering with noise'' technique (\citealt{nerbonne_projecting_2008}).} Cluster memberships of dialect locations can then be projected to geography via, e.g., color coding.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -118,7 +118,7 @@ Distance matrices are the customary input to dialectometric analysis and visuali
     \centering
     \includegraphics [keepaspectratio,width=.98\textwidth] {illustrations/wolk_noisy_cluster_gam_r2-3groups.eps}
 \end{minipage}
-\caption{Cluster maps -- hierarchical agglomerative cluster analysis (displayed: 3-cluster solution). Left: geographic as-the-crow-flies distances. Center: normalization-based morphosyntactic distances. See \citet[chapter 6]{szmrecsanyi_grammatical_2013} for details. Right: probabilistically enhanced morphosyntactic distances.} \label{clustermapsfig}
+\caption{Cluster maps -- hierarchical agglomerative cluster analysis (displayed: 3-cluster solution). Left: Geographic as-the-crow-flies distances. Center: Normalization-based morphosyntactic distances. See \citet[chapter 6]{szmrecsanyi_grammatical_2013} for details. Right: Probabilistically enhanced morphosyntactic distances.} \label{clustermapsfig}
 \end{sidewaysfigure}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -165,8 +165,8 @@ We can test the influence of this factor by exploring the relationship between l
 
 The left-hand part of Figure \ref{fig:cor-ling} displays the linguistic distance between county pairings as a function of the smaller of the two subcorpus sizes; a smoother line is included to highlight the general trend.
 Clearly, there is a strong relationship: distances involving the counties with the worst coverage are consistently too high. 
-At approximately 50,000 words, this relationship largely levels off\footnote{The small uptick at the end is a combination of data sparsity (due to the small number of subcorpora of that size) and the somewhat atypical, but large Suffolk subcorpus.}.
-The outliers in Figure \ref{clustermapsfig} fall below this threshold: for example, the subcorpus for Durham consists of 28,000 words, and that for Middlesex of 32,000.
+At approximately 50,000 words, this relationship largely levels off.\footnote{The small uptick at the end is a combination of data sparsity (due to the small number of subcorpora of that size) and the somewhat atypical, but large Suffolk subcorpus.}
+The outliers in Figure \ref{clustermapsfig} fall below this threshold. For example, the subcorpus for Durham consists of 28,000 words, and that for Middlesex of 32,000.
 These three measures of quality -- interpretability of groupings, correlation with geography, and influence of the amount of data -- suggest that there may be a bias in the data that obscures the pattern.
 Note, however, that these measures serve more as ``sanity checks''\footnote{We thank an anonymous reviewer for this phrasing.} than as proper external validation.
 A method that fares better under this yardstick is not necessarily correct, but a method that fares worse indicates potential problems.
@@ -176,14 +176,14 @@ Per the Fundamental Dialectological Postulate \citep{nerbonne_toward_2007}, geog
 Several methods of doing such smoothing have been proposed, including intensity estimation \citep{rumpf_structural_2009}, local spatial autocorrelation \citep{grieve_corpus-based_2009}, and generalized additive models \citep[\textsc{gam}s;][]{wieling_quantitative_2012}.
 We believe that \textsc{gam}s are an especially adequate choice, as they are a variant of regression modeling, and therefore closely resemble the techniques in common use by, among others, variationist sociolinguists \citep{tagliamonte_variationist_2012}.
 Using such models, it is possible to account for other factors that may influence the result, whether language-internal (e.g. subject type) or -external (e.g. speaker age).
-In \citet{wolk_integrating_2014}, two language-external factors were included, namely speaker age and gender\footnote{As the relevant information was missing for a small number of texts (including all texts from three counties, see Section \ref{FRED}), they had to be removed from the analysis.}.
+In \citet{wolk_integrating_2014}, two language-external factors were included, namely speaker age and gender.\footnote{As the relevant information was missing for a small number of texts (including all texts from three counties, see Section \ref{FRED}), they had to be removed from the analysis.}
 We keep these two factors for the analysis presented here, to account for any imbalances in the corpus sampling process.
 For many features, there are significant effects of these factors, largely in the expected direction (i.e. female speakers use fewer non-standard features and older speakers use more archaic features).
 Simulations based on these results, however, suggest that the overall effect that the inclusion of these factors has on the resulting distances is marginal \citep[233f.]{wolk_integrating_2014}.
 
 
 In contrast to the GAM-based method used in \citet{wieling_quantitative_2012}, \citet{wolk_integrating_2014} did not model the distances directly, but built a separate model for each feature.
-Furthermore, features that represent binary alternations\footnote{The selection of features to model as alternations was based on the variationist literature and on certain features existing as standard/non-standard variants in the original list.}, such as habitual \emph{would} vs. \emph{used to} or \emph{will} vs \emph{going to} as future markers, were modeled as such, rather than as individual frequencies.
+Furthermore, features that represent binary alternations,\footnote{The selection of features to model as alternations was based on the variationist literature and on certain features existing as standard/non-standard variants in the original list.} such as habitual \emph{would} vs. \emph{used to} or \emph{will} vs. \emph{going to} as future markers, were modeled as such, rather than as individual frequencies.
 Doing so removes potential bias resulting from base rate differences (e.g. differing frequencies of habitual or future contexts regardless of form) between speakers/counties, and makes the results more comparable to variationist research on these features, which typically utilizes \textsc{varbrul}-style modeling.
 This yields a list of 45 remaining features, and therefore the number of models included in the analysis is also 45.
 Each model contains a two-dimensional geographic smoother that allows the feature to vary by location in a gradient fashion.
@@ -194,7 +194,7 @@ From here on, the analysis proceeds as outlined above.
 
 A cluster map of the resulting distances is presented in the right-hand part of Figure \ref{clustermapsfig}. 
 The tripartite division remains, and the large-scale areas are geographically coherent, with the exception of the young dialects in the Scottish Highlands and the Hebrides, which group with the North of England.
-Quantitatively, the model fares well: The relationship between geographic and linguistic distances is sublinear and solid ($R^2 = 0.44$ for least-cost travel time; compare the normalization-based value of $0.08$).
+Quantitatively, the model fares well. The relationship between geographic and linguistic distances is sublinear and solid ($R^2 = 0.44$ for least-cost travel time; compare the normalization-based value of $0.08$).
 Even more importantly, the influence of subcorpus size has greatly decreased and now accounts for only 16.2 percent of the variance, compared to 61 percent for the normalization-based distances.
 
 We hasten to add that this clean pattern is hardly surprising: the \textsc{gam}s have geographic coherence built into their assumptions. 
@@ -209,8 +209,8 @@ Finally, it bears noting that the \textsc{gam} process yields interpretable sing
 So far, we have covered methods that rely on a pre-specified feature list.
 In the following, we explore whether it is possible to eliminate such a list and go directly from the corpus to a distance measurement.
 Directly measuring corpus (dis)similarity is an important, yet somewhat underresearched, topic in corpus linguistics \citep{kilgarriff_comparing_2001}.
-This is especially true for morphosyntactic measures\footnote{\citet{scherrer_recovering_2012} provides a method for deriving pronunciation distances between corpora automatically, but this approach is not straightforwardly generalizable to morphosyntax,}.
-The method proposed here builds on an idea proposed by \citet{nerbonne_measure_2006}, who employ part-of-speech n-grams to compare syntactic differences between two corpora.
+This is especially true for morphosyntactic measures.\footnote{\citet{scherrer_recovering_2012} provides a method for deriving pronunciation distances between corpora automatically, but this approach is not straightforwardly generalizable to morphosyntax.}
+The method proposed here builds on an idea proposed by \citet{nerbonne_measure_2006}, who employ part-of-speech \emph{n}-grams to compare syntactic differences between two corpora.
 The method makes use of permutation tests to determine how reliable frequency differences between the corpora are, a technique that is gaining popularity in corpus linguistics \citep{lijffijt_computational_2013}.
 The first full dialectometric use of such an approach was by \citet{sanders_statistical_2010}, who used it to explore a Swedish dialect corpus.
 Let us exemplify the general idea starting with comparisons between county pairs.
@@ -224,27 +224,27 @@ Consider the following utterance from the Devon subcorpus of \textsc{fred-s}:
 Ignoring punctuation, we construct all overlapping sequences of length $n$ (here, always $n=2$, i.e, \emph{bigrams}), yielding the following result: \textsc{ppis2\_vvdi}, \textsc{vvd\_ii}, \textsc{ii\_mc}, \textsc{mc\_uh}. 
 This is done for all utterances in both subcorpora, and the resulting bigram counts are aggregated on the county level.
 A normalization procedure that redistributes probability point mass is applied to the resulting absolute frequencies.
-More specifically, this normalization process keeps the total number of tokens per n-gram constant, but scales the per-county numbers according to the amount of n-grams in that county\footnote{This method was chosen based on the process described in \citet{nerbonne_measure_2006}.
-The difference to a more familiar normalization scheme seems to be marginal -- the correlation between raw distances derived using this method and those from simple per 10,000 n-grams normalization is greater than $0.99$.}.
+More specifically, this normalization process keeps the total number of tokens per \emph{n}-gram constant, but scales the per-county numbers according to the amount of \emph{n}-grams in that county.\footnote{This method was chosen based on the process described in \citet{nerbonne_measure_2006}
+The difference to a more familiar normalization scheme seems to be marginal -- the correlation between raw distances derived using this method and those from simple per 10,000 \emph{n}-grams normalization is greater than $0.99$.}.
 Then, the data is randomly resampled (without replacement) based on turns\footnote{\citet{nerbonne_measure_2006} resample based on sentences; in later work \citep{wiersma_automatically_2011}, this was changed to resampling based on speakers to increase the reliability of the result.
 This was not feasible for this study, as the number of speakers for some of the counties was low \citep[see also][]{sanders_statistical_2010}.}
 and the procedure is repeated on the new corpus.
 In other words, a new corpus is created, in which each county subcorpus contains the same amount of turns, but each turn is randomly assigned to a county.
-We can now, for each n-gram, calculate the difference in normalized values between the two counties both in the ``true'' (i.e. original) corpus and the randomly resampled one.
+We can now, for each \empgh{n}-gram, calculate the difference in normalized values between the two counties both in the ``true'' (i.e. original) corpus and the randomly resampled one.
 If this difference is smaller in the original corpus, we can count this as evidence that the original difference may have occurred purely by chance - after all, a random process yielded a greater difference.
 Finding that the difference for the permuted corpus is smaller, however, would be consistent with the hypothesis that there is a genuine difference between the counties.
-If this process is not only done once, but a large number of times, the proportion of cases where the original difference was actually greater yields a probabilistic measure of how significant a n-gram frequency difference between the two counties is.
+If this process is not only done once, but a large number of times, the proportion of cases where the original difference was actually greater yields a probabilistic measure of how significant an \emph{n}-gram frequency difference between the two counties is.
 In a similar fashion, the overall distance (computed using a suitable distance metric, such as the Manhattan distance) can be evaluated.
 
 In addition, we can run the permutation not only on county pairs, but over all counties at the same time.
 Instead of comparing differences between counties, we calculate the proportion of random corpora in which the normalized frequency exceeds that of the true corpus, counting runs where they are equal as one half.
-This yields a \emph{reliability matrix} that indicates how reliably this n-gram appears more (or less) frequently than expected by chance.
+This yields a \emph{reliability matrix} that indicates how reliably this \emph{n}-gram appears more (or less) frequently than expected by chance.
 Using either the pairwise number of significant differences or a measure of the extremeness of the distribution derived from the reliability matrix, we can evaluate particularly distinctive patterns.
 For example, consider \texttt{AT\_NN1}, the definite article followed by a singular noun, the most frequent pattern.
-This pattern was significantly different in 84 of all the 136 possible pairwise county combinations; this amounts to being the 29th most distinct n-gram according to this metric,
-If, on the other hand, we use the number of divergences per n-gram from maximally consistent whole-corpus permutations, we obtain a value of 2.42 percent.
+This pattern was significantly different in 84 of all the 136 possible pairwise county combinations; this amounts to being the 29th most distinct \emph{n}-gram according to this metric,
+If, on the other hand, we use the number of divergences per \emph{n}-gram from maximally consistent whole-corpus permutations, we obtain a value of 2.42 percent.
 This is still one of the top patterns, but ranks quite a bit lower at number 83 on the corresponding list.
-In general, a similar pattern seems to hold: there is a strong correlation between the two measures of distinctiveness, but the number of pairwise significant differences is more strongly influenced by n-gram frequency.
+In general, a similar pattern seems to hold: there is a strong correlation between the two measures of distinctiveness, but the number of pairwise significant differences is more strongly influenced by \emph{n}-gram frequency.
 Both the normalized frequency matrix and the reliability matrix are suitable for distance calculations.
 Details about the process can be found in \citet[64-74]{wolk_integrating_2014}.
 
@@ -276,7 +276,7 @@ Here, the match between geographic and linguistic distances is almost as good as
 Qualitatively, we find that contiguous regions emerge. 
 This analysis finds a division between Scotland and the North of England only at a position of lower importance, and instead emphasizes a transition area between the North and South of England.
 Finally, we add that both measures of distinctiveness identify dialectologically meaningful patterns.
-Among the ten most distinctive n-grams, for example, we find many known features of British dialect grammar: several bigrams related to \emph{was/were} variation (\textsc{pph1/pphs1/pphs2\_vbdr}, \emph{it/(he/she)/they were}, and \textsc{pphs2\_vbdz}, \emph{they was}), \emph{them} as a determiner (in particular after temporal nouns, as in \emph{them days}), \emph{used to} as a marker of habituality (in particular following nouns), and \emph{is n't/not}, which competes with the non-standard form \emph{ain't}.
+Among the ten most distinctive \emph{n}-grams, for example, we find many known features of British dialect grammar: several bigrams related to \emph{was/were} variation (\textsc{pph1/pphs1/pphs2\_vbdr}, \emph{it/(he/she)/they were}, and \textsc{pphs2\_vbdz}, \emph{they was}), \emph{them} as a determiner (in particular after temporal nouns, as in \emph{them days}), \emph{used to} as a marker of habituality (in particular following nouns), and \emph{is n't/not}, which competes with the non-standard form \emph{ain't}.
 
 In short, then, our results suggest that bottom-up \textsc{cbdm} is practicable and worthwhile; the best method yielded results comparable to those for the manually selected feature set. 
 The normalized frequencies, however, fared rather badly, and only after the permutation process smoothed off the rough edges did the areal signal emerge.
@@ -294,7 +294,7 @@ What we have shown is that top-down \textsc{cbdm} profits from the probabilistic
 The other major advance we have dwelt on in this contribution is bottom-up \textsc{cbdm}, which does not draw on a pre-defined feature catalogue but lets the features to be aggregated emerge in a data-driven fashion through the identification of significant and/or distinctive part-of-speech \emph{n}-grams.
 Both probabilistically enhanced top-down \textsc{cbdm} and bottom-up \textsc{cbdm} are valuable additions to the dialectometry toolbox.
 
-With regard to the theme of the present volume, ``The Future of Dialects'', we have discussed in this contribution new ways of analyzing dialect data.
+With regard to the theme of the present volume, \emph{The Future of Dialects}, we have discussed in this contribution new ways of analyzing dialect data.
 These new ways are in line with usage-based methodologies customary in related disciplines such as variationist sociolinguistics. 
 As we have argued in the Introduction section, we believe that the future of dialectology will crucially include the ability to analyze actual usage data. 
 As for the future of dialects \textit{per se}, we would like to stress that a focus on more realistic, usage-oriented data sources is likely to reflect the many-faceted nature of dialects more faithfully than other methodologies do. 
