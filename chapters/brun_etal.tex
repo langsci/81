@@ -21,9 +21,9 @@
 
 \section{Introduction}
 
-At a time when the number of languages in use is bound to reduce drastically in the next decades, documenting endangered languages is a major challenge for linguists, as is the urgency to study and analyse their internal variation. Nowadays, Breton is considered to be an endangered language, according to the definition proposed by UNESCO \citep{moseley_atlas_2010}. The intergenerational transmission of the language ceased during the 60’s. Most of its speakers are now over 70 years of age and, at present, the language is disappearing quickly. We propose to present a dialectometric approach applied to the Breton language based on Le Dû's \textit{Nouvel Atlas Linguistique de la Basse-Bretagne} (henceforth NALBB) \citep{le_du_nouvel_2001} so as to re-examine the geolinguistic landscape of Lower Brittany.
+At a time when the number of languages in use is bound to reduce drastically in the next decades, documenting endangered languages is a major challenge for linguists, as is the urgency to study and analyse their internal variation. Nowadays, Breton is considered to be an endangered language, according to the definition proposed by UNESCO \citep{moseley_atlas_2010}. The intergenerational transmission of the language ceased during the 60’s. Most of its speakers are now over 70 years of age and, at present, the language is disappearing quickly. We propose to present a dialectometric approach applied to the Breton language based on Le Dû's (2001) \textit{Nouvel Atlas Linguistique de la Basse-Bretagne} (henceforth NALBB) \citep{le_du_nouvel_2001} so as to re-examine the geolinguistic landscape of Lower Brittany.
 
-Little dialectometric work has been done on the Breton language (\citealt{german_etude_1984}, \citealt{german_methode_1991}, \citealt{costaouec_linguistic_2012}). Our approach is based on a new methodology: we have applied the principles of edit distance (i.e., the Levenshtein algorithm, henceforth DL), which allows us to measure the linguistic distance between two strings of characters (phonetic transcriptions). This distance is defined as the minimal number of characters that need to be deleted, inserted or replaced, in order to transform one string of characters to another. We have introduced modifications in processing the data.
+Little dialectometric work has been done on the Breton language (\citealt{german_etude_1984}, \citealt{german_methode_1991}, \citealt{costaouec_linguistic_2012}). Our approach is based on a new methodology: we have applied the principles of edit distance (i.e., the Levenshtein Distance, henceforth LD), which allows us to measure the linguistic distance between two strings of characters (phonetic transcriptions). This distance is defined as the minimal number of characters that need to be deleted, inserted or replaced, in order to transform one string of characters to another. We have introduced modifications in processing the data.
 
 Our work aims to test this new approach and to observe its advantages and disadvantages when applied to Breton. It was tested for the first time on dialects in the Occitan area. This research constitutes the very first step of a PhD thesis by \citet{solliec_dialectometrie_2014}, whose goal is to process the data available in the NALBB in order to sketch the geolinguistic configuration of the area based on a dialectometric approach. This first study focuses on the phonetics of Breton because the data contained in the NALBB are richer in phonetics than in the lexicon.
 
@@ -51,9 +51,11 @@ As this method is intended to provide an overall characterization, it accounts m
 \resizebox{\textwidth}{!}{
 \begin{tabular}{lllllll}
 \lsptoprule
-segments & concept & answ (22) & answ (20) & DL1 & DL2 & DL3\\
+segments & concept & answ (22) & answ (20) & LD1 & LD2 & LD3\\
 22 {\textgreater} 20 & { day} & { ʒurˈnaðɔ} & { ʒuʀˈnadœ} & { repl. r by ʀ} & { repl. ð by d} & repl. ɔ by œ\\
+\midrule
 22 {\textgreater} 20 & { he snores} & { ˈrː\~{u}ŋkɔ} & { ˈʀ\~{u}ŋklœ} & { repl. rː by ʀ} & { ins. of l} & repl. ɔ by œ\\
+\midrule
 22 {\textgreater} 20 & { fair} & { ˈfjɛrɔ} & { ˈfjɛʀɔ} & { repl. rː by ʀ} & { repl. ɔ by œ} & \\
 \lspbottomrule
 \end{tabular}
@@ -86,17 +88,17 @@ Until now very little quantitative work has been done on the Breton language. \c
 \caption{NALBB Map 411 ‘Fingernails’. The area investigated is delimited in black.}
 \end{figure}
 
-We have deliberately chosen to investigate a restricted and quite homogeneous area for the following reasons: on the one hand, we do not want to confront this modified version of the DL algorithm, from a technical point of view, with an area where linguistic variation is very intense, as in the case of the \textit{Vannetais} dialect (South-East of Lower-Brittany). Moreover, as was shown by \citet{falchun_perspectives_1981}, innovations have been spreading across this region for centuries. It would then be interesting to compare them with sites from more conservative peripheral areas. Over the past few years, Solliec has been carrying out a project to describe and document local varieties in this area and is therefore aware of the local variation phenomena.
+We have deliberately chosen to investigate a restricted and quite homogeneous area for the following reasons: on the one hand, we do not want to confront this modified version of the LD algorithm, from a technical point of view, with an area where linguistic variation is very intense, as in the case of the \textit{Vannetais} dialect (South-East of Lower-Brittany). Moreover, as was shown by \citet{falchun_perspectives_1981}, innovations have been spreading across this region for centuries. It would then be interesting to compare them with sites from more conservative peripheral areas. Over the past few years, Solliec has been carrying out a project to describe and document local varieties in this area and is therefore aware of the local variation phenomena.
 
 On the methodological side, we have decided to use an inter-site approach: to do so, each location of the area is linked to its closest geographical neighbours in order to establish a comparison we called the ‘segment’. Doing so allows the researcher to detect spatial continuities and discontinuities (breaches) on the phonetic level \citep[137]{goebl_introduction_2012}. In this view we selected 23 investigation sites for 165 phonetic maps (i.e. using only one lexeme and its phonetic variations for each concept). We had not beforehand determined which variables to observe in our corpus: our objective was to consider the data as a whole and to observe which phenomena produce linguistic distance and at which frequencies.
 
-It led us to divide the area into a net of 53 ‘segments’, each of which connect a site in the atlas with its neighbours on all sides. This brings us to a total of 8745 comparisons between strings of characters.
+It led us to divide the area into a net of 53 "segments", each of which connect a site in the atlas with its neighbours on all sides. This brings us to a total of 8745 comparisons between strings of characters.
 
 Our aim has been on the one hand to gather quantitative indicators and, on the other hand, to identify qualitatively the most common correspondences involved in phonetic variation. Even though the latter are well known \citep{falchun_perspectives_1981,jackson_historical_1967}, we do not know how frequently they occur.
 
-\section{The problems DL meets with Breton}
+\section{The problems LD meets with Breton}
 
-In confronting DL with Breton language data, we noticed difficulties: \tabref{tab:3} shows an excerpt of the data where the algorithm repeatedly failed to analyze the data, while at the same time the FuzzyMatch function did not work as we can see in \tabref{tab:3}. This last function returns a percentage reflecting the probability of correspondences (and differences) between two words.\footnote{See  https://x443.wordpress.com/2012/06/25/fuzzymatch-in-vbavbscript/}
+In confronting LD with Breton language data, we noticed difficulties: \tabref{tab:3} shows an excerpt of the data where the algorithm repeatedly failed to analyze the data, while at the same time the FuzzyMatch function did not work as we can see in \tabref{tab:3}. This last function returns a percentage reflecting the probability of correspondences (and differences) between two words.\footnote{See  https://x443.wordpress.com/2012/06/25/fuzzymatch-in-vbavbscript/}
 
 \begin{table}
 \resizebox{\textwidth}{!}{
@@ -109,12 +111,12 @@ segments & answ1 & answ2 & test Exact & FuzzyMatch & Levenshtein1 & Levenshtein2
 %\hhline{~~~~~---~}
 32 {\textgreater} 33 & { 'e̝nes} & { 'he̝nnəs} & FALSE & {25\% (3)} & {\textbf{\#VALUE! (Ins. of h)}} & {\textbf{\#VALUE! (Rep. n by nn)}} & {\textbf{\#VALUE! (Rep. e by ə)}} & \\
 %\hhline{~~~-----~}
-33 {\textgreater} 39 & { 'he̝nnəs} & {{ h\~{e}̝:}} & {\textbf{FALSE}} & {\textbf{Not a match}} & Del. of s & Del. of ə & Del. of nn & {Rep. [1EB9?] by [1EB9?]}\\
+33 {\textgreater} 39 & { 'he̝nnəs} & {{ h\~{e}̝:}} & {\textbf{FALSE}} & {\textbf{Not a match}} & Del. of s & Del. of ə & Del. of nn & {Rep. e̝ by \~{e}̝:}\\
 %\hhline{~~~--~~~~}
 \lspbottomrule
 \end{tabular}
 }
-\caption{Examples of the difficulties encountered by DL for the concept 'that one (masc.)'}
+\caption{Examples of the difficulties encountered by LD for the concept 'that one (masc.)'}
 \label{tab:3}
 \end{table}
 
@@ -130,7 +132,7 @@ Nevertheless, after checking and adjusting the function, we ended by incorporati
 
 The map shows several areas involving significant degrees of similarity, particularly in the North around sites 24 on the one hand and 39 on the other, and in the South around site 88. It is clear that the geographic distance between the surveyed localities often correlates with phonetic similarity; for example, there is high phonetic similarity between nearby sites 87 and 88 and low similarity between distant sites 83 and 93. However, there are some exceptions, for instance, between sites 22 and 24 or, vice versa, between 91 and 89. We will later see why they occurred.
 
-On the other hand, the results returned by the new function of the algorithm bring us to the following conclusions: first of all, amongst the 11,949 non-identical phonetic correspondences, ‘alternations’ or ‘differences’ according to our terminology, we had to manage an important dispersion of the distinctive correspondences (nearly 450). They were generated by the narrow phonetic transcription. With the consent of Le Dû, the author of the atlas, we grouped some alternations in order to have to deal with fewer details. This limited to 200 the number of the different kinds of alternations. The most frequent ones are listed in \tabref{tab:4}:
+On the other hand, the results returned by the new function of the algorithm bring us to the following conclusions: first of all, amongst the 11,949 non-identical phonetic correspondences, "alternations" or "differences" according to our terminology, we had to manage an important dispersion of the distinctive correspondences (nearly 450). They were generated by the narrow phonetic transcription. With the consent of Le Dû, the author of the atlas, we grouped some alternations in order to have to deal with fewer details. This limited the number of the different kinds of alternations to 200. The most frequent ones are listed in \tabref{tab:4}.
 
 \begin{table}
 \begin{tabular}{lllll}
@@ -190,10 +192,14 @@ The realizations [a] or [ə] occur in the following phonetic contexts. Each one 
 \lsptoprule
  Type of context & Map number \& concept & Examples\\
 a. Definite article’s initial vowel & 263 ‘the stable’ & (81) Poullaouen [ə hʀow] vs. (80) Berrien [a hʀow]\\
+\midrule
 b. Final unstressed syllables & 464 ‘clothes’ & (93) Lennon ['diʎət] vs. (89) Lannédern ['diʎat]\\
+\midrule
 c. Cluster of phones /-uwar/ or /-uarn/ & 196 ‘blackberries’ & (87) Landeleau ['mu:wəʀ] vs. (93) Lennon ['muwaʁ]\\
 & 170 ‘iron’ & (32) Plounéour-Ménez ['u:aʁn] vs. (33) Plougonven ['u:ʀən]\\
+\midrule
 d. Epenthesis vowel & 301 ‘(a) scythe’ (literary form: [falx]) & (78) Locarn ['valax] vs. (82) Plounévézel ['vʰaləx]\\
+\midrule
 e. Infinitive mark & 50 ‘to count’ & (90) Botmeur ['k[1ECD?]ntə] vs. (32) Plounéour-Ménez ['k[1ECD?]nta]\\
 \lspbottomrule
 \end{tabular}
@@ -324,7 +330,7 @@ Another approach is a close examination of the data for one location in order to
 
 \figref{fig:7} shows that the level of intensity with respect to the differences varies according to the site-pair involved: three locations (80, 82, 90) are phonetically more distant from Collorec than the others. The distance we have noticed for sites 80 and 90 could be explained by a geographic factor: a bog named \textit{Yeun Ellez} spreads out between these sites and Collorec. These findings about phonetic traits match Solliec's own research in the area. This marshy bog, which is an obstacle to travel, seems to promote linguistic differences more than the hills (named \textit{Monts d'Arrée}), on the Northern-West edge of the area, which are easy to get over (see \figref{fig:3}: FuzzyMatch map).
 
-Moreover, through the statistical use of the data returned by the DL algorithm, the features of the linguistic variation in Collorec can be examined. The alternations observed for Collorec are detailed in the following figures.
+Moreover, through the statistical use of the data returned by the LD algorithm, the features of the linguistic variation in Collorec can be examined. The alternations observed for Collorec are detailed in the following figures.
 
 \begin{figure}
 \includegraphics[width=0.5\textwidth]{illustrations/brun_etal_fig8}
@@ -342,11 +348,11 @@ The diagrams 8 and 9 show how the non-identical phonetic correspondences we foun
 
 These alternations are the same as those occurring across the whole area and with the same frequency, such as the different kinds of rhotics or the ([a]/[ə]) correspondence. Nevertheless, one must keep in mind that the number of occurrences for each alternation is low. For instance, 20 occurrences out of 1354 only account for 1.5\% of them. We did not find any alternation unique to Collorec in spite of the large amount of data we have at our disposal for this specific location, whose features thus share in the general tendencies of the area, which is quite uniform in phonetic terms.
 
-These two different approaches, the first about a specific alternation and the second dealing with the phonetic features of one location are the type of investigation opportunities this new usage of the DL algorithm offers for geolinguistic research. 
+These two different approaches, the first about a specific alternation and the second dealing with the phonetic features of one location are the type of investigation opportunities this new usage of the LD algorithm offers for geolinguistic research. 
 
 \section{Conclusion}
 
-To conclude, we want to stress that the sample of data used for this investigation was small because we deliberately restricted the size of the area under investigation as well as the amount of data. This paper reflects the first step of a more ambitious research to present a dialectometric analysis covering the whole Breton-speaking area. Our specific use of the DL algorithm allows us to treat qualitative data statistically. Linguistic variation can be described from a quantitative viewpoint while taking into account the specific features at stake so as to present a more comprehensive view of the data under analysis.
+To conclude, we want to stress that the sample of data used for this investigation was small because we deliberately restricted the size of the area under investigation as well as the amount of data. This paper reflects the first step of a more ambitious research to present a dialectometric analysis covering the whole Breton-speaking area. Our specific use of the LD algorithm allows us to treat qualitative data statistically. Linguistic variation can be described from a quantitative viewpoint while taking into account the specific features at stake so as to present a more comprehensive view of the data under analysis.
 
 Furthermore, this new method allows us to divide the results obtained into 3 main categories: vowels, consonants and rhotics. These categories will have to be analysed individually while keeping in mind they can interplay together. A further step to this research will be to elaborate a dialectometric analysis on a larger scale, based on the data of the NALBB, being conducted by Solliec as part of his PhD at the University of Brest in France. For this purpose, he will compare different dialectrometric techniques. The Breton-speaking area is interesting, as it constitutes a real linguistic laboratory thanks to its important inner variations and to its distinctiveness from the neighbouring romance varieties.
 
