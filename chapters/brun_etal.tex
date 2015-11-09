@@ -120,7 +120,7 @@ segments & answ1 & answ2 & test Exact & FuzzyMatch & Levenshtein1 & Levenshtein2
 \label{tab:3}
 \end{table}
 
-Although we were careful to use a unique character for each phonetic segment and its diacritics (including diphthongs and geminates), it appears that our implementation of the Levenshtein algorithm experiences difficulties when treating languages like Breton for which variation in the number of syllables is frequent (e.g., site 80 Berrien ['par[1ECD?]s] vs. site 81 Poullaouen [pa:ʀs] ‘parish’ (NALBB map 7)).
+Although we were careful to use a unique character for each phonetic segment and its diacritics (including diphthongs and geminates), it appears that our implementation of the Levenshtein algorithm experiences difficulties when treating languages like Breton for which variation in the number of syllables is frequent (e.g., site 80 Berrien ['paro̝s] vs. site 81 Poullaouen [pa:ʀs] ‘parish’ (NALBB map 7)).
 
 Nevertheless, after checking and adjusting the function, we ended by incorporating most observations. On the one hand, the raw results obtained from the FuzzyMatch function produces the following distribution (see map in \figref{fig:3}):
 
@@ -191,16 +191,17 @@ The realizations [a] or [ə] occur in the following phonetic contexts. Each one 
 \begin{tabular}{p{.3\textwidth}p{.3\textwidth}p{.4\textwidth}}
 \lsptoprule
  Type of context & Map number \& concept & Examples\\
+ \midrule
 a. Definite article’s initial vowel & 263 ‘the stable’ & (81) Poullaouen [ə hʀow] vs. (80) Berrien [a hʀow]\\
 \midrule
 b. Final unstressed syllables & 464 ‘clothes’ & (93) Lennon ['diʎət] vs. (89) Lannédern ['diʎat]\\
 \midrule
-c. Cluster of phones /-uwar/ or /-uarn/ & 196 ‘blackberries’ & (87) Landeleau ['mu:wəʀ] vs. (93) Lennon ['muwaʁ]\\
+c. Cluster of phones \mbox{/-uwar/} or /-uarn/ & 196 ‘blackberries’ & (87) Landeleau ['mu:wəʀ] vs. (93) Lennon ['muwaʁ]\\
 & 170 ‘iron’ & (32) Plounéour-Ménez ['u:aʁn] vs. (33) Plougonven ['u:ʀən]\\
 \midrule
 d. Epenthesis vowel & 301 ‘(a) scythe’ (literary form: [falx]) & (78) Locarn ['valax] vs. (82) Plounévézel ['vʰaləx]\\
 \midrule
-e. Infinitive mark & 50 ‘to count’ & (90) Botmeur ['k[1ECD?]ntə] vs. (32) Plounéour-Ménez ['k[1ECD?]nta]\\
+e. Infinitive mark & 50 ‘to count’ & (90) Botmeur ['ko̝ntə] vs. (32) Plounéour-Ménez ['ko̝nta]\\
 \lspbottomrule
 \end{tabular}
 }
@@ -216,7 +217,7 @@ The ([a]/[ə]) alternation occurs regularly but with only a slight number of occ
 
 \begin{table}
 \resizebox{\textwidth}{!}{
-\begin{tabular}{lllll}
+\begin{tabular}{llllr}
 \lsptoprule
 \begin{minipage}[t]{0.15\textwidth}N° of the location \end{minipage} & 
 \begin{minipage}[t]{0.18\textwidth}Name of the location \end{minipage} & 
@@ -272,7 +273,7 @@ The realization of [a] for [ə] in final unstressed syllables occurs only in 45 
 
 \begin{table}
 \resizebox{\textwidth}{!}{
-\begin{tabular}{llll}
+\begin{tabular}{lllr}
 \lsptoprule
 \begin{minipage}[t]{0.2\textwidth}Number of the point of enquiry \end{minipage} & 
 \begin{minipage}[t]{0.2\textwidth}Location\end{minipage} & 
@@ -299,7 +300,7 @@ Another approach is a close examination of the data for one location in order to
 
 \begin{table}
 \resizebox{\textwidth}{!}{
-\begin{tabular}{lll}
+\begin{tabular}{llr}
 \lsptoprule
 \begin{minipage}[t]{0.3\textwidth}{Site Comparison}\end{minipage} & 
 \begin{minipage}[t]{0.3\textwidth}{Number of differences}\end{minipage} & 
