@@ -232,8 +232,7 @@
 	
 \usepackage{amssymb} % has to be loaded before other stuff
 % \usepackage{dtklogos}\newcommand{\xelatex}{\XeLaTeX\xspace}	% the XeLaTeX symbol	
-\usepackage{metalogo}\newcommand{\xelatex}{\XeLaTeX\xspace}	
-\usepackage{fontspec}
+\usepackage{mathspec}
 \newcommand{\fontpath}{./LSP/lsp-fonts/}
 
 \setsansfont[
@@ -260,7 +259,7 @@
 
 
 
-\setmainfont[
+\setallmainfonts(Digits,Latin,Greek)[
 	Ligatures={TeX,Common},
 	Path=\fontpath,
 	PunctuationSpace=0,							
@@ -274,6 +273,8 @@
 \iflsNewtxmath							% some users have problems when installing newtxmath
 	\usepackage[libertine]{newtxmath}
 \fi 	
+
+\usepackage{metalogo}\newcommand{\xelatex}{\XeLaTeX\xspace}	
 
 \let\oldtabular\tabular	% number in tabulars
 \let\endoldtabular\endtabular
