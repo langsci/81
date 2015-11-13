@@ -9,3 +9,11 @@
 \newcommand{\qu}[1]{>>#1<<} % >> <<
 \newcommand{\quein}[1]{>#1<} %einfache > <
 \newcommand{\sem}[1]{\emph{#1}}  
+
+% Thanks to Martin Scharrer
+\newcolumntype{R}[2]{%
+	>{\adjustbox{angle=#1,lap=\width-(#2)}\bgroup}%
+	l%
+	<{\egroup}%
+}
+\newcommand*\rot{\multicolumn{1}{R{90}{1em}}}
