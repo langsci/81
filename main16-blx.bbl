@@ -150,7 +150,7 @@
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Županijski muzej}%
+    {??upanijski muzej}%
   }
   \strng{namehash}{FG1}
   \strng{fullhash}{FG1}
@@ -158,10 +158,10 @@
   \field{sortinit}{F}
   \field{isbn}{9539662524 9789539662521}
   \field{shorttitle}{Betinska brodogradnja}
-  \field{title}{Betinska brodogradnja: {E}timologijski rječnik pučkog
+  \field{title}{Betinska brodogradnja: {E}timologijski rje??nik pu??kog
   nazivlja}
   \list{location}{1}{%
-    {Šibenik}%
+    {??ibenik}%
   }
   \field{year}{1997}
 \endentry
@@ -191,19 +191,19 @@
 \entry{jutronic_spliski_2010}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Jutronić}{J.}%
+     {Jutroni??}{J.}%
      {Dunja}{D.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Naklada Bošković}%
+    {Naklada Bo??kovi??}%
   }
   \strng{namehash}{JD1}
   \strng{fullhash}{JD1}
   \field{labelyear}{2010}
   \field{sortinit}{J}
-  \field{title}{Spliski govor, od vapora do trajekta: {P}o čemu će nas
+  \field{title}{Spliski govor, od vapora do trajekta: {P}o ??emu ??e nas
   pripoznavat}
   \list{location}{1}{%
     {Split}%
@@ -214,13 +214,13 @@
 \entry{kulusic_murterski_1984}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Kulušić}{K.}%
+     {Kulu??i??}{K.}%
      {Sven}{S.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Društveni centar}%
+    {Dru??tveni centar}%
   }
   \strng{namehash}{KS1}
   \strng{fullhash}{KS1}
@@ -307,7 +307,7 @@
   \strng{fullhash}{MAA1}
   \field{labelyear}{1972}
   \field{sortinit}{M}
-  \field{title}{Théorie des objets}
+  \field{title}{Th??orie des objets}
   \list{location}{1}{%
     {Paris}%
   }
@@ -317,34 +317,34 @@
 \entry{skracic_otok_2010}{incollection}{}
   \name{author}{2}{}{%
     {{}%
-     {Čuka}{�.}%
+     {??uka}{?.}%
      {Anica}{A.}%
      {}{}%
      {}{}}%
     {{}%
-     {Lončar}{L.}%
+     {Lon??ar}{L.}%
      {Nina}{N.}%
      {}{}%
      {}{}}%
   }
   \name{editor}{1}{}{%
     {{}%
-     {Skračić}{S.}%
+     {Skra??i??}{S.}%
      {Vladimir}{V.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Sveučilište : {C}entar za jadranska onomastička istraživanja}%
+    {Sveu??ili??te : {C}entar za jadranska onomasti??ka istra??ivanja}%
   }
-  \strng{namehash}{�ALN1}
-  \strng{fullhash}{�ALN1}
+  \strng{namehash}{?ALN1}
+  \strng{fullhash}{?ALN1}
   \field{labelyear}{2010}
-  \field{sortinit}{�}
+  \field{sortinit}{?}
   \field{booktitle}{Toponimija otoka {Murtera}}
   \field{isbn}{9789537237721 9537237729}
   \field{pages}{5\bibrangedash 31}
-  \field{title}{Otok {Murter} – prirodne i društvenogeografske značajke}
+  \field{title}{Otok {Murter} ??? prirodne i dru??tvenogeografske zna??ajke}
   \list{location}{1}{%
     {Zadar}%
   }
@@ -354,16 +354,16 @@
 \entry{skevin_etimoloska_2010}{thesis}{}
   \name{author}{1}{}{%
     {{}%
-     {Škevin}{�.}%
+     {??kevin}{?.}%
      {Ivana}{I.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{�I1}
-  \strng{fullhash}{�I1}
+  \strng{namehash}{?I1}
+  \strng{fullhash}{?I1}
   \field{labelyear}{2010}
-  \field{sortinit}{�}
-  \field{title}{Etimološka i leksikološka obradba posuđenica romanskog
+  \field{sortinit}{?}
+  \field{title}{Etimolo??ka i leksikolo??ka obradba posu??enica romanskog
   podrijetla u govoru mjesta {Betina} na otoku {Murteru}}
   \list{location}{1}{%
     {Zadar}%
@@ -378,28 +378,28 @@
 \entry{skevin_izmedu_2012}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {Škevin}{�.}%
+     {??kevin}{?.}%
      {Ivana}{I.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{�I1}
-  \strng{fullhash}{�I1}
+  \strng{namehash}{?I1}
+  \strng{fullhash}{?I1}
   \field{labelyear}{2012}
-  \field{sortinit}{�}
+  \field{sortinit}{?}
   \field{pages}{171\bibrangedash 184}
-  \field{title}{Između arhaičnog (romanskog) i standardnog (hrvatskog)
-  jezičnog elementa: {K}oineizacija otočnih varijeteta}
+  \field{title}{Izme??u arhai??nog (romanskog) i standardnog (hrvatskog)
+  jezi??nog elementa: {K}oineizacija oto??nih varijeteta}
   \field{volume}{25}
-  \field{journaltitle}{Aktualna istraživanja u primijenjenoj lingvistici.
-  Hrvatsko društvo za primijenjenu lingvistiku}
+  \field{journaltitle}{Aktualna istra??ivanja u primijenjenoj lingvistici.
+  Hrvatsko dru??tvo za primijenjenu lingvistiku}
   \field{year}{2012}
 \endentry
 
 \entry{chapters/skevin}{incollection}{skipbib}
   \name{author}{1}{}{%
     {{}%
-     {Škevin}{�.}%
+     {??kevin}{?.}%
      {Ivana}{I.}%
      {}{}%
      {}{}}%
@@ -407,17 +407,17 @@
   \name{editor}{1}{}{%
     {{}%
      {Nerbonne}{N.}%
-     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {Marie-H??l??ne C??t?? Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
     {Language Science Press}%
   }
-  \strng{namehash}{�I1}
-  \strng{fullhash}{�I1}
+  \strng{namehash}{?I1}
+  \strng{fullhash}{?I1}
   \field{labelyear}{2015}
-  \field{sortinit}{�}
+  \field{sortinit}{?}
   \field{booktitle}{The future of dialects}
   \field{pages}{245\bibrangedash 268}
   \field{title}{Dialect levelling and changes in semiotic space}

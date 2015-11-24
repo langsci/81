@@ -87,7 +87,7 @@
   \name{editor}{1}{}{%
     {{}%
      {Nerbonne}{N.}%
-     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {Marie-H??l??ne C??t?? Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
      {}{}%
      {}{}}%
   }
@@ -147,7 +147,7 @@
   \field{pages}{76\bibrangedash 84}
   \field{title}{Pronunciation difficulties analysis: {A} case study using
   native language linguistic background to understand a {Chinese} {English}
-  learner’s pronunciation problems}
+  learner???s pronunciation problems}
   \field{volume}{28}
   \field{journaltitle}{Celea Journal}
   \field{year}{2005}
@@ -258,7 +258,7 @@
   \field{labelyear}{2011}
   \field{sortinit}{N}
   \field{pages}{65\bibrangedash 89}
-  \field{title}{Gabmap – A web application for dialectology}
+  \field{title}{Gabmap ??? A web application for dialectology}
   \verb{url}
   \verb http://www.gabmap.nl/
   \endverb
@@ -270,16 +270,16 @@
 \entry{nadasdy_background_2006}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Nádasdy}{N.}%
-     {Ádám}{�.}%
+     {N??dasdy}{N.}%
+     {??d??m}{?.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {{N}emzeti Tankönyvkiadó}%
+    {{N}emzeti Tank??nyvkiad??}%
   }
-  \strng{namehash}{N�1}
-  \strng{fullhash}{N�1}
+  \strng{namehash}{N?1}
+  \strng{fullhash}{N?1}
   \field{labelyear}{2006}
   \field{sortinit}{N}
   \field{title}{Background to {English} pronunciation}
@@ -307,8 +307,8 @@
      {}{}%
      {}{}}%
     {{}%
-     {Szentgyörgyi}{S.}%
-     {Szilárd}{S.}%
+     {Szentgy??rgyi}{S.}%
+     {Szil??rd}{S.}%
      {}{}%
      {}{}}%
   }
@@ -328,13 +328,13 @@
 \entry{prokic_detecting_2012}{inproceedings}{}
   \name{author}{3}{}{%
     {{}%
-     {Prokić}{P.}%
+     {Proki??}{P.}%
      {Jelena}{J.}%
      {}{}%
      {}{}}%
     {{}%
-     {Çöltekin}{�.}%
-     {Çağri}{�.}%
+     {????ltekin}{?.}%
+     {??a??ri}{?.}%
      {}{}%
      {}{}}%
     {{}%
@@ -346,8 +346,8 @@
   \list{publisher}{1}{%
     {Association for Computational Linguistics}%
   }
-  \strng{namehash}{PJ��NJ1}
-  \strng{fullhash}{PJ��NJ1}
+  \strng{namehash}{PJ??NJ1}
+  \strng{fullhash}{PJ??NJ1}
   \field{labelyear}{2012}
   \field{sortinit}{P}
   \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of

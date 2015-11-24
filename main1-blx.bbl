@@ -181,8 +181,8 @@
 \entry{chapters/intro}{incollection}{skipbib}
   \name{author}{3}{}{%
     {{}%
-     {Côté}{C.}%
-     {Marie-Hélène}{M.-H.}%
+     {C??t??}{C.}%
+     {Marie-H??l??ne}{M.-H.}%
      {}{}%
      {}{}}%
     {{}%
@@ -199,7 +199,7 @@
   \name{editor}{1}{}{%
     {{}%
      {Nerbonne}{N.}%
-     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {Marie-H??l??ne C??t?? Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
      {}{}%
      {}{}}%
   }
@@ -236,10 +236,10 @@
   \field{sortinit}{G}
   \field{shorttitle}{Dialektometrische {S}tudien}
   \field{title}{Dialektometrische {S}tudien: {A}nhand italoromanischer,
-  rätoromanischer und galloromanischer {Sprachmaterialien} aus {AIS} und
+  r??toromanischer und galloromanischer {Sprachmaterialien} aus {AIS} und
   {ALF}}
   \list{location}{1}{%
-    {Tübingen}%
+    {T??bingen}%
   }
   \field{year}{1984}
 \endentry
@@ -336,7 +336,7 @@
   \field{title}{Bericht. {Methods in Dialectology XV} 11.-15. {A}ugust 2014,
   {G}roningen}
   \field{volume}{81}
-  \field{journaltitle}{Zeitschrift für Dialektologie und Linguistik}
+  \field{journaltitle}{Zeitschrift f??r Dialektologie und Linguistik}
   \field{year}{2014}
 \endentry
 
@@ -430,7 +430,7 @@
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Universitätsverlag Winter}%
+    {Universit??tsverlag Winter}%
   }
   \strng{namehash}{MHHMA1}
   \strng{fullhash}{MHHMA1}
@@ -526,7 +526,7 @@
   \field{labelyear}{2011}
   \field{sortinit}{N}
   \field{pages}{65\bibrangedash 89}
-  \field{title}{Gabmap – A web application for dialectology}
+  \field{title}{Gabmap ??? A web application for dialectology}
   \verb{url}
   \verb http://www.gabmap.nl/
   \endverb
@@ -607,8 +607,8 @@
   chose raised-diphthong tokens as those present in the dialect of the speaker,
   whereas those given the Michigan label did not. Respondents given the
   Michigan label chose vowels that were quite different from the Northern
-  Cities Chain-Shifted variety present in the speaker’s dialect. Because the
-  “speaker’s” perceived nationality was the only aspect that varied
+  Cities Chain-Shifted variety present in the speaker???s dialect. Because the
+  ???speaker???s??? perceived nationality was the only aspect that varied
   between the two groups of respondents, this label alone must have caused the
   difference in the selection of tokens. This indicates that listeners use
   social information in speech perception.%
@@ -626,13 +626,13 @@
 \entry{prokic_detecting_2012}{inproceedings}{}
   \name{author}{3}{}{%
     {{}%
-     {Prokić}{P.}%
+     {Proki??}{P.}%
      {Jelena}{J.}%
      {}{}%
      {}{}}%
     {{}%
-     {Çöltekin}{�.}%
-     {Çağri}{�.}%
+     {????ltekin}{?.}%
+     {??a??ri}{?.}%
      {}{}%
      {}{}}%
     {{}%
@@ -644,8 +644,8 @@
   \list{publisher}{1}{%
     {Association for Computational Linguistics}%
   }
-  \strng{namehash}{PJ��NJ1}
-  \strng{fullhash}{PJ��NJ1}
+  \strng{namehash}{PJ??NJ1}
+  \strng{fullhash}{PJ??NJ1}
   \field{labelyear}{2012}
   \field{sortinit}{P}
   \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of
@@ -672,7 +672,7 @@
   \field{sortinit}{P}
   \field{number}{149}
   \field{series}{{ZDL}-{Beihefte}}
-  \field{title}{Regionalsprache und {Hörerurteil}. {Grundzüge} einer
+  \field{title}{Regionalsprache und {H??rerurteil}. {Grundz??ge} einer
   perzeptiven {Variationslinguistik}}
   \list{location}{1}{%
     {Stuttgart}%
@@ -705,7 +705,7 @@
   \name{author}{1}{}{%
     {{}%
      {Spruit}{S.}%
-     {Marco~René}{M.~R.}%
+     {Marco~Ren??}{M.~R.}%
      {}{}%
      {}{}}%
   }
