@@ -1,0 +1,185 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{mase_kami-ina-no_1980}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mase}{M.}%
+     {Yoshio}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Ina}%
+  }
+  \strng{namehash}{MY1}
+  \strng{fullhash}{MY1}
+  \field{labelyear}{1980}
+  \field{sortinit}{M}
+  \field{title}{Kami-ina-no {Hougen}. \textrm{[{Dialects} in {Kami}-{Ina}.}]}
+  \list{location}{1}{%
+    {Kamiinashikankoukai}%
+  }
+  \field{year}{1980}
+\endentry
+
+\entry{onishi_atarashii_1999}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Onishi}{O.}%
+     {Takuichiro}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OT1}
+  \strng{fullhash}{OT1}
+  \field{labelyear}{1999}
+  \field{sortinit}{O}
+  \field{number}{13}
+  \field{pages}{97\bibrangedash 110}
+  \field{title}{Atarashii hougen-to furui hougen-no zenkoku-bunpu.
+  \textrm{[{N}ew and old dialectal distributions.]}}
+  \field{volume}{18}
+  \field{journaltitle}{Nihongogaku}
+  \field{year}{1999}
+\endentry
+
+\entry{chapters/onishi}{incollection}{skipbib}
+  \name{author}{1}{}{%
+    {{}%
+     {Onishi}{O.}%
+     {Takuichiro}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{OT1}
+  \strng{fullhash}{OT1}
+  \field{labelyear}{2015}
+  \field{sortinit}{O}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{335\bibrangedash 347}
+  \field{title}{Timespan comparison of dialectal distributions}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{onishi_relationship_inprint}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Onishi}{O.}%
+     {Takuichiro}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Praesens Verlag}%
+  }
+  \strng{namehash}{OT1}
+  \strng{fullhash}{OT1}
+  \field{labelyear}{{in print}}
+  \field{sortinit}{O}
+  \field{title}{The relationship between area and human lives in dialect
+  formation. {Proceedings} of 7th {SIDG}}
+  \list{location}{1}{%
+    {Vienna}%
+  }
+  \field{year}{{in print}}
+\endentry
+
+\entry{sanada_ecchu-hida_1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sanada}{S.}%
+     {Shinji}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {private print}%
+  }
+  \strng{namehash}{SS1}
+  \strng{fullhash}{SS1}
+  \field{labelyear}{1976}
+  \field{sortinit}{S}
+  \field{title}{{Ecch\={u}}-{Hida} {Kokky\={o}} {Gengochizu}.
+  \textrm{[{Language} atlas of the {Ecch\={u}}-{Hida} border area.]}}
+  \list{location}{1}{%
+    {Toyama}%
+  }
+  \field{year}{1976}
+\endentry
+
+\entry{sanada_kansaihougen-no_1992}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sanada}{S.}%
+     {Shinji}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SS1}
+  \strng{fullhash}{SS1}
+  \field{labelyear}{1992}
+  \field{sortinit}{S}
+  \field{number}{7}
+  \field{pages}{117\bibrangedash 126}
+  \field{title}{Kansaihougen-no {genzai}. \textrm{[The {Kansai} dialect in the
+  present day.]}}
+  \field{volume}{11}
+  \field{journaltitle}{Nihongogaku}
+  \field{year}{1992}
+\endentry
+
+\entry{yanagita_kagyuukoo._1930}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Yanagita}{Y.}%
+     {Kunio}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {TookooShoin}%
+  }
+  \strng{namehash}{YK1}
+  \strng{fullhash}{YK1}
+  \field{labelyear}{1930}
+  \field{sortinit}{Y}
+  \field{title}{Kagyuukoo. \textrm{[{On} {snail}.]}}
+  \list{location}{1}{%
+    {Tokyo}%
+  }
+  \field{year}{1930}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

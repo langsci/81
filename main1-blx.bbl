@@ -1,0 +1,826 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{auer_europes_2005}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Delbecque}{D.}%
+     {Nicole}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Auwera}{A.}%
+     {Johan van~der}{J.~v.~d.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Geeraerts}{G.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton De Gruyter}%
+  }
+  \strng{namehash}{AP1}
+  \strng{fullhash}{AP1}
+  \field{labelyear}{2005}
+  \field{sortinit}{A}
+  \field{booktitle}{Perspectives on variation: {S}ociolinguistic, historical,
+  comparative}
+  \field{pages}{7\bibrangedash 42}
+  \field{title}{Europe's sociolinguistic unity, or: {A} typology of {European}
+  dialect/standard constellations}
+  \list{location}{1}{%
+    {Berlin / New York}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{auer_convergence_1996}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{APHF1}
+  \strng{fullhash}{APHF1}
+  \field{labelyear}{1996}
+  \field{sortinit}{A}
+  \field{issn}{0933-1883}
+  \field{pages}{1\bibrangedash 30}
+  \field{title}{The convergence and divergence of dialects in {Europe}. {New}
+  and not so new developments in an old area}
+  \field{volume}{10}
+  \field{journaltitle}{Sociolinguistica (1996)}
+  \field{year}{1996}
+\endentry
+
+\entry{auer_dialect_2004}{book}{}
+  \name{editor}{3}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{APHFKP1}
+  \strng{fullhash}{APHFKP1}
+  \field{labelyear}{2004}
+  \field{sortinit}{A}
+  \field{booktitle}{Dialect change: {C}onvergence and divergence in {European}
+  languages}
+  \field{isbn}{0521806879 9780521806879}
+  \field{shorttitle}{Dialect change}
+  \field{title}{Dialect change: {C}onvergence and divergence in {European}
+  languages}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{chambers_dialectology_1980}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Chambers}{C.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CJTP1}
+  \strng{fullhash}{CJTP1}
+  \field{labelyear}{1980}
+  \field{sortinit}{C}
+  \field{isbn}{051103993X 9780511039935 9780511805103 0511805101}
+  \field{title}{Dialectology}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{1980}
+\endentry
+
+\entry{chambers_dialectology_1998}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Chambers}{C.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CJTP1}
+  \strng{fullhash}{CJTP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{edition}{1}
+  \field{title}{Dialectology}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{chapters/intro}{incollection}{skipbib}
+  \name{author}{3}{}{%
+    {{}%
+     {Côté}{C.}%
+     {Marie-Hélène}{M.-H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knooihuizen}{K.}%
+     {Remco}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{CMHKRNJ1}
+  \strng{fullhash}{CMHKRNJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{C}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{1\bibrangedash 12}
+  \field{title}{Embracing the future of dialects}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{goebl_dialektometrische_1984}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Niemeyer}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{1984}
+  \field{sortinit}{G}
+  \field{shorttitle}{Dialektometrische {S}tudien}
+  \field{title}{Dialektometrische {S}tudien: {A}nhand italoromanischer,
+  rätoromanischer und galloromanischer {Sprachmaterialien} aus {AIS} und
+  {ALF}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{goebl_recent_2006}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{2006}
+  \field{sortinit}{G}
+  \field{number}{4}
+  \field{pages}{411\bibrangedash 435}
+  \field{title}{Recent Advances in {Salzburg} Dialectometry}
+  \field{volume}{21}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2006}
+\endentry
+
+\entry{grieve_statistical_2011}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speelman}{S.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Geeraerts}{G.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJSDGD1}
+  \strng{fullhash}{GJSDGD1}
+  \field{labelyear}{2011}
+  \field{sortinit}{G}
+  \field{issn}{0954-3945}
+  \field{number}{2}
+  \field{pages}{193\bibrangedash 221}
+  \field{title}{A statistical method for the identification and aggregation of
+  regional linguistic variation}
+  \field{volume}{23}
+  \field{journaltitle}{Language Variation and Change}
+  \field{year}{2011}
+\endentry
+
+\entry{hickey_handbook_2010}{book}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Hickey}{H.}%
+     {Raymond}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley}%
+  }
+  \strng{namehash}{HR1}
+  \strng{fullhash}{HR1}
+  \field{labelyear}{2010}
+  \field{sortinit}{H}
+  \field{booktitle}{The handbook of language contact}
+  \field{title}{The handbook of language contact}
+  \list{location}{1}{%
+    {Hoboken, NJ}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{klein_2014}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kleiner}{K.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KS1}
+  \strng{fullhash}{KS1}
+  \field{labelyear}{2014}
+  \field{sortinit}{K}
+  \field{number}{1}
+  \field{pages}{61\bibrangedash 66}
+  \field{title}{Bericht. {Methods in Dialectology XV} 11.-15. {A}ugust 2014,
+  {G}roningen}
+  \field{volume}{81}
+  \field{journaltitle}{Zeitschrift für Dialektologie und Linguistik}
+  \field{year}{2014}
+\endentry
+
+\entry{kretzschmar_scaled_2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Kretzschmar}{K.}%
+     {William~A.}{W.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kretzschmar}{K.}%
+     {Brendan~A.}{B.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brockman}{B.}%
+     {Irene~M.}{I.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KWAKBABIM1}
+  \strng{fullhash}{KWAKBABIM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{K}
+  \field{issn}{0268-1145}
+  \field{number}{1}
+  \field{pages}{173\bibrangedash 187}
+  \field{title}{Scaled measurement of geographic and social speech data}
+  \field{volume}{28}
+  \field{journaltitle}{{LLC}: Journal of Digital Scholarship in the Humanities}
+  \field{year}{2013}
+\endentry
+
+\entry{lenz_struktur_2003}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lenz}{L.}%
+     {Alexandra~N.}{A.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {F. Steiner}%
+  }
+  \strng{namehash}{LAN1}
+  \strng{fullhash}{LAN1}
+  \field{labelyear}{2003}
+  \field{sortinit}{L}
+  \field{isbn}{3515083499 9783515083492}
+  \field{shorttitle}{Struktur und {Dynamik} des {Substandards}}
+  \field{title}{Struktur und {Dynamik} des {Substandards}: {Eine} {Studie} zum
+  {Westmitteldeutschen} ({Wittlich}/{Eifel})}
+  \list{location}{1}{%
+    {Stuttgart/Wiesbaden}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{lotman_semiosphere_1985}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lotman}{L.}%
+     {Juri}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LJ1}
+  \strng{fullhash}{LJ1}
+  \field{labelyear}{{1985 [2015]}}
+  \field{sortinit}{L}
+  \field{number}{1}
+  \field{pages}{215\bibrangedash 239}
+  \field{title}{On the semiosphere}
+  \field{volume}{33}
+  \field{journaltitle}{Sign Systems Studies}
+  \field{year}{{1985 [2015]}}
+\endentry
+
+\entry{munske_handbuch_2013}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Munske}{M.}%
+     {Horst~Haider}{H.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mathussek}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universitätsverlag Winter}%
+  }
+  \strng{namehash}{MHHMA1}
+  \strng{fullhash}{MHHMA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{M}
+  \field{isbn}{9783825362218 3825362213}
+  \field{shorttitle}{Handbuch zum {Sprachatlas} von {Mittelfranken}}
+  \field{title}{Handbuch zum {Sprachatlas} von {Mittelfranken}: {Dokumentation}
+  und {Auswertung}}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{myers-scotton_duelling_1993}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Myers-Scotton}{M.-S.}%
+     {Carol}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MSC1}
+  \strng{fullhash}{MSC1}
+  \field{labelyear}{1993}
+  \field{sortinit}{M}
+  \field{title}{Duelling Languages: {Grammatical} structure in codeswitching}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{nerbonne_toward_2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJKP1}
+  \strng{fullhash}{NJKP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{N}
+  \field{number}{2}
+  \field{pages}{148\bibrangedash 166}
+  \field{title}{Toward a Dialectological Yardstick}
+  \field{volume}{14}
+  \field{journaltitle}{Journal of Quantitative Linguistics}
+  \field{year}{2007}
+\endentry
+
+\entry{nerbonne_gabmap_2011}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Colen}{C.}%
+     {Rinke}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leinonen}{L.}%
+     {Therese}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ+1}
+  \strng{fullhash}{NJCRGCKPLT1}
+  \field{labelyear}{2011}
+  \field{sortinit}{N}
+  \field{pages}{65\bibrangedash 89}
+  \field{title}{Gabmap – A web application for dialectology}
+  \verb{url}
+  \verb http://www.gabmap.nl/
+  \endverb
+  \field{volume}{{Special Issue II}}
+  \field{journaltitle}{Dialectologia}
+  \field{year}{2011}
+\endentry
+
+\entry{nerbonne_measuring_2013}{incollection}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ommen}{O.}%
+     {Sandrien}{S.}%
+     {van}{v.}%
+     {}{}}%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Borin}{B.}%
+     {Lars}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sacena}{S.}%
+     {Anju}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {De Gruyter}%
+  }
+  \strng{namehash}{NJ+1}
+  \strng{fullhash}{NJOSvGCWM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{N}
+  \field{booktitle}{Approaches to measuring linguistic differences}
+  \field{pages}{107\bibrangedash 140}
+  \field{title}{Measuring socially motivated pronunciation differences}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{niedzielski_effect_1999}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Niedzielski}{N.}%
+     {Nancy}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NN1}
+  \strng{fullhash}{NN1}
+  \field{labelyear}{1999}
+  \field{sortinit}{N}
+  \field{abstract}{%
+  Forty-one Detroit-area residents were given perceptual tests in which they
+  were asked to choose from a set of resynthesized vowels the tokens that they
+  felt best matched the vowels they heard in the speech of a fellow Detroiter.
+  Half of the respondents were told that the speaker was from Detroit, whereas
+  half were told that she was from Canada. Respondents given the Canadian label
+  chose raised-diphthong tokens as those present in the dialect of the speaker,
+  whereas those given the Michigan label did not. Respondents given the
+  Michigan label chose vowels that were quite different from the Northern
+  Cities Chain-Shifted variety present in the speaker’s dialect. Because the
+  “speaker’s” perceived nationality was the only aspect that varied
+  between the two groups of respondents, this label alone must have caused the
+  difference in the selection of tokens. This indicates that listeners use
+  social information in speech perception.%
+  }
+  \field{issn}{0261-927X}
+  \field{number}{1}
+  \field{pages}{62\bibrangedash 85}
+  \field{title}{The Effect of Social Information on the Perception of
+  Sociolinguistic Variables}
+  \field{volume}{18}
+  \field{journaltitle}{Journal of Language and Social Psychology}
+  \field{year}{1999}
+\endentry
+
+\entry{prokic_detecting_2012}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Prokić}{P.}%
+     {Jelena}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Çöltekin}{�.}%
+     {Çağri}{�.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Association for Computational Linguistics}%
+  }
+  \strng{namehash}{PJ��NJ1}
+  \strng{fullhash}{PJ��NJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{P}
+  \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of
+  {LINGVIS} \& {UNCLH}}
+  \field{pages}{72\bibrangedash 80}
+  \field{title}{Detecting shibboleths}
+  \field{year}{2012}
+\endentry
+
+\entry{purschke_regionalsprache_2011}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Purschke}{P.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Franz Steiner}%
+  }
+  \strng{namehash}{PC1}
+  \strng{fullhash}{PC1}
+  \field{labelyear}{2011}
+  \field{sortinit}{P}
+  \field{number}{149}
+  \field{series}{{ZDL}-{Beihefte}}
+  \field{title}{Regionalsprache und {Hörerurteil}. {Grundzüge} einer
+  perzeptiven {Variationslinguistik}}
+  \list{location}{1}{%
+    {Stuttgart}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{sayers_mediated_2014}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sayers}{S.}%
+     {Dave}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SD1}
+  \strng{fullhash}{SD1}
+  \field{labelyear}{2014}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{185\bibrangedash 212}
+  \field{title}{The mediated innovation model: {A} framework for researching
+  media influence in language change}
+  \field{volume}{18}
+  \field{journaltitle}{Journal of Sociolinguistics}
+  \field{year}{2014}
+\endentry
+
+\entry{spruit_quantitative_2008}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Spruit}{S.}%
+     {Marco~René}{M.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SMR1}
+  \strng{fullhash}{SMR1}
+  \field{labelyear}{2008}
+  \field{sortinit}{S}
+  \field{title}{Quantitative perspectives on syntactic variation in {Dutch}
+  dialects}
+  \list{institution}{1}{%
+    {University of Amsterdam}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2008}
+\endentry
+
+\entry{trudgill_dialects_1986}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Blackwell}%
+  }
+  \strng{namehash}{TP1}
+  \strng{fullhash}{TP1}
+  \field{labelyear}{1986}
+  \field{sortinit}{T}
+  \field{title}{Dialects in contact}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1986}
+\endentry
+
+\entry{trudgill_new-dialect_2004}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Edinburgh University Press}%
+  }
+  \strng{namehash}{TP1}
+  \strng{fullhash}{TP1}
+  \field{labelyear}{2004}
+  \field{sortinit}{T}
+  \field{title}{New-dialect formation. The inevitability of colonial
+  {Englishes}}
+  \list{location}{1}{%
+    {Edinburgh}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{wieling_bipartite_2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{700\bibrangedash 715}
+  \field{title}{Bipartite spectral graph partitioning for clustering dialect
+  varieties and detecting their linguistic features}
+  \field{volume}{25}
+  \field{journaltitle}{Computer Speech \& Language}
+  \field{year}{2011}
+\endentry
+
+\entry{wolk_integrating_2014}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wolk}{W.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WC1}
+  \strng{fullhash}{WC1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{title}{Integrating Aggregational and Probabilistic Approaches to
+  Language Variation}
+  \verb{url}
+  \verb https://www.freidok.uni-freiburg.de/data/9656/
+  \endverb
+  \list{location}{1}{%
+    {Freiburg}%
+  }
+  \list{institution}{1}{%
+    {University of Freiburg}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2014}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
