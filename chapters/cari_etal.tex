@@ -1,6 +1,6 @@
-\newcommand{\ipa}[1]{\textipa{#1}}
-\newcommand{\ip}[1]{\ipa{[#1]}}
-\newcommand{\ips}[1]{\ipa{/#1/}}
+% \newcommand{\ipa}[1]{\textipa{#1}}
+\newcommand{\ip}[1]{{}[#1]}
+\newcommand{\ips}[1]{{/#1/}}
 
 \documentclass[output=paper]{LSP/langsci}  
 \author{Christopher Carignan\affiliation{North Carolina State University} \and Jeff Mielke\affiliation{North Carolina State University} \lastand Robin Dodsworth\affiliation{North Carolina State University}} 
@@ -12,7 +12,7 @@
 \begin{document}
 
  %TITLE WITH IPA SYMBOL:
-%\title{Tongue trajectories in {N}orth {A}merican {E}nglish /\ae{}/ tensing}
+%\title{Tongue trajectories in {N}orth {A}merican {E}nglish /æ/ tensing}
 
 Short-a tensing is one of the most well-studied regional variables in North American English (NAE): /æ/ is variably realized as [æ], [eə], \ip{eI}, etc.~depending on region and segmental context 
 (\citealp{ash_distribution_2002,becker_short-system_2009,boberg_regional_2008,boberg_short-cincinnati:_2000,labov_atlas_2006-1,plichta_interdisciplinary_2005}, \textit{inter alia}). The reason for these differences remain largely unknown (e.g., why /æ/ tenses before \ips{d} in some Mid-Atlantic varieties but before \ips{g} in some Northern varieties). The dimension of /æ/ tensing is commonly operationalized as the front diagonal of the acoustic vowel space---i.e., along a line approximating the axis between \ip{a} and \ip{i} quantified as Z2-Z1 (normalized F2 - normalized F1, see \citealt{labov_one_2013}). /æ/ has also been observed to involve both falling and rising diphthongal qualities along this axis \citep{assmann_time-varying_2000,fox_cross-dialectal_2009,labov_atlas_2006-1}. The realization of a particular variant of /æ/ along this acoustic diagonal is often interpreted as a correlate of tongue fronting and raising, but the F1 and F2 differences can be due to other factors such as nasalization \citep{decker_are_2012} or changes in oral cavity shape due to velum lowering \citep{baker_more_2008}. Therefore, while Z2-Z1 is clearly an appropriate measure for describing /æ/ tensing, the effort to understand the phonetic motivations for /æ/ tensing is aided from observing lingual articulation directly and the ability to derive time-varying measures of tongue postures. 
@@ -30,7 +30,7 @@ We present a sampling of the results in selected contexts for particular speaker
 
 For most of the speakers, pre-\ips{m n} tensing is characterized by a peak aligned approximately with the vowel midpoint, while there is no such peak before \ips{N}.  These observations are consistent with previously observed formant trajectories for /æ/, and they are illustrated for three speakers in Figure \ref{MNNG_tensing}.  The coda consonant closure intervals are to the right of time=1.0 in the figures. Because it involves tongue raising, \ips{N} is high on the tongue raising scale. The raising observed at the end of /æ/ before \ips{N} can be interpreted as coarticulatory, but the tongue raising in /æ/ before the other nasals is clearly due to a distinct phonetic target.  While the \textit{consonant} \ips{n} trivially involves higher tongue position than \ips{m}, this is clearly not the basis of /æ/ tensing before \ips{n}, which is the same as before \ips{m}. Pre-\ips{N} tongue raising is less extreme than pre-\ips{n} tongue raising, except for the speaker from Fargo, ND, whose /æ/ has higher tongue position before \ips{N} than before \ips{n}, and the speaker from Barrie, Ontario, who raises to the same degree in both contexts.
 
-\begin{figure}[htbp!]
+\begin{figure}[t]
 \begin{tabular}{@{}c@{}c@{}c@{}}
     \begin{overpic}[width=.33\textwidth, page=8, trim=10 45 10 240, clip]{illustrations/nov_MNNG_contours.pdf}\put(15,13){Havertown, PA}\end{overpic}&%
     \begin{overpic}[width=.33\textwidth, page=6, trim=10 45 10 240, clip]{illustrations/nov_MNNG_contours.pdf}\put(15,13){Wilmington, NC}\end{overpic}&%
@@ -38,11 +38,11 @@ For most of the speakers, pre-\ips{m n} tensing is characterized by a peak align
 \end{tabular}
     \caption{Tongue height for /æ/ before /m/ (red), /n/ (green), and /ŋ/ (blue).} 
     %CAPTION WITH CORRECT IPA SYMBOLS:
-    %\caption{Tongue height for \ips{\ae{}} before \ips{m} (red), \ips{n} (green), and \ips{N} (blue).} 
+    %\caption{Tongue height for \ips{æ{}} before \ips{m} (red), \ips{n} (green), and \ips{N} (blue).} 
     \label{MNNG_tensing}
 \end{figure}
 
-\begin{figure}[htbp!]
+\begin{figure}[t]
 \begin{tabular}{@{}c@{}c@{}c@{}}
     \begin{overpic}[width=.33\textwidth, page=11, trim=10 45 10 240, clip]{illustrations/nov_NDG_contours.pdf}\put(15.5,44){Olympia, WA}\end{overpic}&%
     \begin{overpic}[width=.33\textwidth, page=3, trim=10 45 10 240, clip]{illustrations/nov_NDG_contours.pdf}\put(17.25,44){Harrisburg, NC}\end{overpic}&%
@@ -50,11 +50,11 @@ For most of the speakers, pre-\ips{m n} tensing is characterized by a peak align
 \end{tabular}
     \caption{Tongue height for /æ/ before /n/ (red), /d/ (green), and /ɡ/ (blue).} 
     %CAPTION WITH CORRECT IPA SYMBOLS:
-    %\caption{Tongue height for \ips{\ae{}} before \ips{n} (red), \ips{d} (green), and \ips{g} (blue).} 
+    %\caption{Tongue height for \ips{æ{}} before \ips{n} (red), \ips{d} (green), and \ips{g} (blue).} 
   \label{NDG_tensing}
 \end{figure}
 
-\begin{figure}[htbp!]
+\begin{figure}[t]
 \begin{tabular}{@{}c@{}c@{}c@{}}
     \begin{overpic}[width=.33\textwidth, page=20, trim=10 45 10 240, clip]{illustrations/nov_NDG_contours.pdf}\put(14.25,44){Lewisporte, NL}\end{overpic}&%
     \hspace{.33\textwidth} &%
@@ -62,7 +62,7 @@ For most of the speakers, pre-\ips{m n} tensing is characterized by a peak align
 \end{tabular}
     \caption{Left: Tongue height for /æ/ before /n/ (red), /d/ (green), /ɡ/ (blue) in Newfoundland; Right: Tongue height for /æ/ before /f/ (red), /θ/ (green), /s/ (cyan), and /ʃ/ (violet) in Philadelphia.} 
     %CAPTION WITH CORRECT IPA SYMBOLS:
-    %\caption{Left: Tongue height for \ips{\ae{}} before \ips{n} (red), \ips{d} (green), \ips{g} (blue) in Newfoundland; Right: Tongue height for \ips{\ae{}} before \ips{f} (red), \ips{T} (green), \ips{s} (cyan), and \ips{S} (violet) in Philadelphia.} 
+    %\caption{Left: Tongue height for \ips{æ} before \ips{n} (red), \ips{d} (green), \ips{g} (blue) in Newfoundland; Right: Tongue height for \ips{æ} before \ips{f} (red), \ips{T} (green), \ips{s} (cyan), and \ips{S} (violet) in Philadelphia.} 
   \label{misc_tensing}
 \end{figure} 
 
