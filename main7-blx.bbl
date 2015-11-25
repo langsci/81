@@ -1,0 +1,1011 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{chambers_dialectology_1998}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Chambers}{C.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CJTP1}
+  \strng{fullhash}{CJTP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{edition}{1}
+  \field{title}{Dialectology}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{cucurullo_dialectal_2006}{inproceedings}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Cucurullo}{C.}%
+     {Nella}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paoli}{P.}%
+     {Matilde}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Picchi}{P.}%
+     {Eugenio}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sassolini}{S.}%
+     {Eva}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CN+1}
+  \strng{fullhash}{CNMSPMPESE1}
+  \field{labelyear}{2006}
+  \field{sortinit}{C}
+  \field{abstract}{%
+  The paper presents an on-line dialectal resource, ALT-Web, which gives access
+  to the linguistic data of the Atlante Lessicale Toscano, a specially designed
+  linguistic atlas in which lexical data have both a diatopic and diastratic
+  characterisation. The paper focuses on: {T}he dialectal data representation
+  model; the access modalities to the ALT dialectal corpus; ontology-based
+  search. 1.%
+  }
+  \field{booktitle}{Proceedings of the 5th {International} {Conference} on
+  {Language} {Resources} and {Evaluation} ({LREC}-2006)}
+  \field{pages}{1846\bibrangedash 1851}
+  \field{title}{Dialectal resources on-line: {T}he {ALT}-{Web} experience}
+  \list{location}{1}{%
+    {Genova}%
+  }
+  \verb{file}
+  \verb Citeseer - Full Text PDF:C\:\\Users\\Diane & Oscar\\AppData\\Roaming\\Z
+  \verb otero\\Zotero\\Profiles\\hv4g4pes.default\\zotero\\storage\\THDFM973\\C
+  \verb ucurullo et al. - Dialectal resources on-line the ALT-Web experienc.pdf
+  \verb :application/pdf;Citeseer - Snapshot:C\:\\Users\\Diane & Oscar\\AppData
+  \verb \\Roaming\\Zotero\\Zotero\\Profiles\\hv4g4pes.default\\zotero\\storage\
+  \verb \CMQ2BI59\\summary.html:text/html
+  \endverb
+  \field{month}{05}
+  \field{year}{2006}
+\endentry
+
+\entry{dhillon_co-clustering_2001}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dhillon}{D.}%
+     {Inderjit~S.}{I.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACM}%
+  }
+  \strng{namehash}{DIS1}
+  \strng{fullhash}{DIS1}
+  \field{labelyear}{2001}
+  \field{sortinit}{D}
+  \field{booktitle}{Proceedings of the {Seventh} {ACM} {SIGKDD} {International}
+  {Conference} on {Knowledge} {Discovery} and {Data} {Mining}}
+  \verb{doi}
+  \verb 10.1145/502512.502550
+  \endverb
+  \field{isbn}{1-58113-391-X}
+  \field{pages}{269\bibrangedash 274}
+  \field{series}{{KDD} '01}
+  \field{title}{Co-clustering Documents and Words Using Bipartite Spectral
+  Graph Partitioning}
+  \verb{url}
+  \verb http://doi.acm.org/10.1145/502512.502550
+  \endverb
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{year}{2001}
+  \field{urlday}{29}
+  \field{urlmonth}{05}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{giacomelli_aree_1975}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Giacomelli}{G.}%
+     {Gabriella}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GG1}
+  \strng{fullhash}{GG1}
+  \field{labelyear}{1975}
+  \field{sortinit}{G}
+  \field{pages}{115\bibrangedash 152}
+  \field{title}{Aree lessicali toscane}
+  \field{volume}{1}
+  \field{journaltitle}{La ricerca dialettale}
+  \field{year}{1975}
+\endentry
+
+\entry{giacomelli_parole_1984}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Giacomelli}{G.}%
+     {Gabriella}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poggi~Salani}{P.~S.}%
+     {Teresa}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GGPST1}
+  \strng{fullhash}{GGPST1}
+  \field{labelyear}{1984}
+  \field{sortinit}{G}
+  \field{number}{3}
+  \field{pages}{123\bibrangedash 229}
+  \field{title}{Parole toscane}
+  \field{volume}{2}
+  \field{journaltitle}{Quaderni dell’At\-lante Lessicale Toscano}
+  \field{year}{1984}
+\endentry
+
+\entry{giacomelli_atlante_2000}{book}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Giacomelli}{G.}%
+     {Gabriella}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Agostiniani}{A.}%
+     {Luciano}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bellucci}{B.}%
+     {Patrizia}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Giannelli}{G.}%
+     {Luciano}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nesi}{N.}%
+     {Annalisa}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paoli}{P.}%
+     {Matilde}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Picchi}{P.}%
+     {Eugenio}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poggi~Salani}{P.~S.}%
+     {Teresa}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lexis Progetti}%
+  }
+  \strng{namehash}{GG+1}
+  \strng{fullhash}{GGALBPGLMSNAPMPEPST1}
+  \field{labelyear}{2000}
+  \field{sortinit}{G}
+  \field{title}{Atlante Lessicale Toscano}
+  \list{location}{1}{%
+    {Roma}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{giannelli_toscana_1976}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Giannelli}{G.}%
+     {Luciano}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacini Editore}%
+  }
+  \strng{namehash}{GL1}
+  \strng{fullhash}{GL1}
+  \field{labelyear}{{1976 [2010]}}
+  \field{sortinit}{G}
+  \field{title}{Toscana}
+  \list{location}{1}{%
+    {Pisa}%
+  }
+  \field{year}{{1976 [2010]}}
+\endentry
+
+\entry{grieve_statistical_2011}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speelman}{S.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Geeraerts}{G.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJSDGD1}
+  \strng{fullhash}{GJSDGD1}
+  \field{labelyear}{2011}
+  \field{sortinit}{G}
+  \field{issn}{0954-3945}
+  \field{number}{2}
+  \field{pages}{193\bibrangedash 221}
+  \field{title}{A statistical method for the identification and aggregation of
+  regional linguistic variation}
+  \field{volume}{23}
+  \field{journaltitle}{Language Variation and Change}
+  \field{year}{2011}
+\endentry
+
+\entry{labov_atlas_2006-1}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ash}{A.}%
+     {Sharon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boberg}{B.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{LWASBC1}
+  \strng{fullhash}{LWASBC1}
+  \field{labelyear}{2006}
+  \field{sortinit}{L}
+  \field{title}{The Atlas of {North} {American} {English}: {Phonetics}
+  Phonology and Sound change}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{loporcaro_profilo_2009}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Loporcaro}{L.}%
+     {Michele}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Laterza}%
+  }
+  \strng{namehash}{LM1}
+  \strng{fullhash}{LM1}
+  \field{labelyear}{2009}
+  \field{sortinit}{L}
+  \field{isbn}{9788842089209 8842089206}
+  \field{title}{Profilo linguistico dei dialetti italiani}
+  \list{location}{1}{%
+    {Roma, Bari}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{chapters/monte_wiel}{incollection}{skipbib}
+  \name{author}{2}{}{%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{MSWM1}
+  \strng{fullhash}{MSWM1}
+  \field{labelyear}{2015}
+  \field{sortinit}{M}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{1\bibrangedash 19}
+  \field{title}{Tracking linguistic features underlying lexical variation
+  patterns: {A} case study on {T}uscan dialects}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{montemagni_patterns_2012}{incollection}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Jonge}{D.~J.}%
+     {Bob}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Bianchi}{B.}%
+     {Patricia}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Blasi}{D.~B.}%
+     {Nicola}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Caprio}{D.~C.}%
+     {Chiara}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montuori}{M.}%
+     {Francesco}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Franco Cesati}%
+  }
+  \strng{namehash}{MS+1}
+  \strng{fullhash}{MSWMDJBNJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{M}
+  \field{booktitle}{La Variazione nell’italiano e nella sua Storia.
+  {Varietà} e Varianti Linguistiche e Testuali. {Atti} dell’{XI} Congresso
+  {SILFI} ({Società} {Internazionale} di {Linguistica} e {Filologia}
+  {Italiana})}
+  \field{pages}{879\bibrangedash 889}
+  \field{title}{Patterns of language variation and underlying linguistic
+  features: {A} new dialectometric approach}
+  \list{location}{1}{%
+    {Firenze}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{montemagni_synchronic_2013}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Jonge}{D.~J.}%
+     {Bob}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MS+1}
+  \strng{fullhash}{MSWMDJBNJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{M}
+  \field{issn}{0268-1145}
+  \field{number}{1}
+  \field{pages}{157\bibrangedash 172}
+  \field{shorttitle}{Synchronic patterns of {Tuscan} phonetic variation and
+  diachronic change}
+  \field{title}{Synchronic patterns of {Tuscan} phonetic variation and
+  diachronic change: {Evidence} from a dialectometric study}
+  \field{volume}{28}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2013}
+\endentry
+
+\entry{nerbonne_identifying_2006}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{2006}
+  \field{sortinit}{N}
+  \field{issn}{0268-1145}
+  \field{number}{4}
+  \field{pages}{463\bibrangedash 475}
+  \field{title}{Identifying Linguistic Structure in Aggregate Comparison}
+  \field{volume}{21}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2006}
+\endentry
+
+\entry{nerbonne_data-driven_2009}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{N}
+  \field{number}{1}
+  \field{pages}{175\bibrangedash 198}
+  \field{title}{Data-driven dialectology}
+  \field{volume}{3}
+  \field{journaltitle}{Language and Linguistics Compass}
+  \field{year}{2009}
+\endentry
+
+\entry{pellegrini_carta_1977}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pellegrini}{P.}%
+     {Giovanni~Battista}{G.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pacini}%
+  }
+  \strng{namehash}{PGB1}
+  \strng{fullhash}{PGB1}
+  \field{labelyear}{1977}
+  \field{sortinit}{P}
+  \field{title}{Carta dei dialetti d'{Italia}}
+  \list{location}{1}{%
+    {Pisa}%
+  }
+  \field{year}{1977}
+\endentry
+
+\entry{proll_latente_inpress}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Pröll}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Spettl}{S.}%
+     {Aaron}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Elmentaler}{E.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hundt}{H.}%
+     {Markus}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Jürgen~Erich}{J.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Steiner}%
+  }
+  \strng{namehash}{PSPSSA1}
+  \strng{fullhash}{PSPSSA1}
+  \field{labelyear}{{in press}}
+  \field{sortinit}{P}
+  \field{booktitle}{Deutsche {Dialekte} - {Konzepte}, {Probleme},
+  {Handlungsfelder}}
+  \field{title}{Latente {Strukturen} in geolinguistischen {Korpora}}
+  \list{location}{1}{%
+    {Stuttgart}%
+  }
+  \field{year}{{in press}}
+\endentry
+
+\entry{schneider_qualitative_1988}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schneider}{S.}%
+     {Edgar}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SE1}
+  \strng{fullhash}{SE1}
+  \field{labelyear}{1988}
+  \field{sortinit}{S}
+  \field{pages}{175\bibrangedash 212}
+  \field{title}{Qualitative vs. Quantitative methods of area delimitation in
+  dialectology: {A} comparison based on lexical data from {Georgia} and
+  {Alabama}}
+  \field{volume}{21}
+  \field{journaltitle}{Journal of English Linguistics}
+  \field{year}{1988}
+\endentry
+
+\entry{shackleton_english-american_2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Shackleton}{S.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{labelyear}{2005}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{99\bibrangedash 160}
+  \field{title}{English-{American} Speech Relationships}
+  \field{volume}{33}
+  \field{journaltitle}{Journal of English Linguistics}
+  \field{year}{2005}
+\endentry
+
+\entry{seguy_relation_1971}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Séguy}{S.}%
+     {Jean}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SJ1}
+  \strng{fullhash}{SJ1}
+  \field{labelyear}{1971}
+  \field{sortinit}{S}
+  \field{number}{138}
+  \field{pages}{335\bibrangedash 357}
+  \field{title}{La relation entre la distance spatiale et la distance lexicale}
+  \field{volume}{35}
+  \field{journaltitle}{Revue de Linguistique Romane}
+  \field{year}{1971}
+\endentry
+
+\entry{wieling_infrequent_2015}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {C\^ote}{C.}%
+     {Marie-H\'el\`ene}{M.-H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knooihuizen}{K.}%
+     {Remco}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{WMMS1}
+  \strng{fullhash}{WMMS1}
+  \field{labelyear}{2015}
+  \field{sortinit}{W}
+  \field{booktitle}{{The Future of Dialects}}
+  \field{title}{Infrequent forms: {N}oise or not?}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{wieling_bipartite_2009}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACL}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{W}
+  \field{abstract}{%
+  In this study we use bipartite spectral graph partitioning to simultaneously
+  cluster varieties and identify their most distinctive linguistic features in
+  Dutch dialect data. While clustering geographical varieties with respect to
+  their features, e.g. pronunciation, is not new, the simultaneous
+  identification of the features which give rise to the geographical clustering
+  presents novel opportunities in dialectometry. Earlier methods aggregated
+  sound differences and clustered on the basis of aggregate differences. The
+  determination of the significant features which co-vary with cluster
+  membership was carried out on a post hoc basis. Bipartite spectral graph
+  clustering simultaneously seeks groups of individual features which are
+  strongly associated, even while seeking groups of sites which share subsets
+  of these same features. We show that the application of this method results
+  in clear and sensible geographical groupings and discuss and analyze the
+  importance of the concomitant features.%
+  }
+  \field{booktitle}{Proceedings of the 2009 {Workshop} on {Graph}-{Based}
+  {Methods} for {Natural} {Language} {Processes}}
+  \field{pages}{14\bibrangedash 22}
+  \field{title}{Bipartite spectral graph partitioning for clustering dialect
+  varieties and detecting their linguistic features}
+  \list{location}{1}{%
+    {Stroudsburg, PA}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{wieling_hierarchical_2010}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {ACL}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2010}
+  \field{sortinit}{W}
+  \field{abstract}{%
+  In this study we use bipartite spectral graph partitioning to simultaneously
+  cluster varieties and identify their most distinctive linguistic features in
+  Dutch dialect data. While clustering geographical varieties with respect to
+  their features, e.g. pronunciation, is not new, the simultaneous
+  identification of the features which give rise to the geographical clustering
+  presents novel opportunities in dialectometry. Earlier methods aggregated
+  sound differences and clustered on the basis of aggregate differences. The
+  determination of the significant features which co-vary with cluster
+  membership was carried out on a post hoc basis. Bipartite spectral graph
+  clustering simultaneously seeks groups of individual features which are
+  strongly associated, even while seeking groups of sites which share subsets
+  of these same features. We show that the application of this method results
+  in clear and sensible geographical groupings and discuss and analyze the
+  importance of the concomitant features.%
+  }
+  \field{booktitle}{Proceedings of the 2010 Workshop on Graph-Based Methods for
+  Natural Language Processing}
+  \field{pages}{33\bibrangedash 41}
+  \field{title}{Hierarchical spectral partitioning of bipartite graphs to
+  cluster dialects and identify distinguishing features}
+  \list{location}{1}{%
+    {Stroudsburg, PA}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{wieling_bipartite_2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{700\bibrangedash 715}
+  \field{title}{Bipartite spectral graph partitioning for clustering dialect
+  varieties and detecting their linguistic features}
+  \field{volume}{25}
+  \field{journaltitle}{Computer Speech \& Language}
+  \field{year}{2011}
+\endentry
+
+\entry{wieling_advances_2015}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{W}
+  \field{issn}{2333-9683}
+  \field{pages}{243\bibrangedash 264}
+  \field{title}{Advances in {Dialectometry}}
+  \field{volume}{1}
+  \field{journaltitle}{Annual Review of Linguistics}
+  \field{year}{2015}
+\endentry
+
+\entry{wieling_analyzing_2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shackleton}{S.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMSRNJ1}
+  \strng{fullhash}{WMSRNJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{W}
+  \field{issn}{0268-1145}
+  \field{number}{1}
+  \field{pages}{31\bibrangedash 41}
+  \field{shorttitle}{Analyzing phonetic variation in the traditional {English}
+  dialects}
+  \field{title}{Analyzing phonetic variation in the traditional {English}
+  dialects: {Simultaneously} clustering dialects and phonetic features}
+  \field{volume}{28}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2013}
+\endentry
+
+\entry{wieling_analyzing_2014}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Upton}{U.}%
+     {Clive}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {Ann}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMUCTA1}
+  \strng{fullhash}{WMUCTA1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{number}{1}
+  \field{pages}{107\bibrangedash 117}
+  \field{title}{Analyzing the {BBC} {Voices} data: {Contemporary} {English}
+  dialect areas and their characteristic lexical variants}
+  \field{volume}{29}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2014}
+\endentry
+
+\entry{wieling_lexical_2014}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baayen}{B.}%
+     {R.~Harald}{R.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WM+1}
+  \strng{fullhash}{WMMSNJBRH1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{669\bibrangedash 692}
+  \field{title}{Lexical Differences between {Tuscan} Dialects and {Standard}
+  {Italian}: {A} Sociolinguistic Analysis using Generalized Additive Mixed
+  Modeling}
+  \field{volume}{90}
+  \field{journaltitle}{Language}
+  \field{year}{2014}
+\endentry
+
+\entry{woolhiser_political_2005}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Woolhiser}{W.}%
+     {Curt}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{WC1}
+  \strng{fullhash}{WC1}
+  \field{labelyear}{2005}
+  \field{sortinit}{W}
+  \field{booktitle}{A Handbook of Varieties of English}
+  \field{pages}{236\bibrangedash 262}
+  \field{title}{Political borders and dialect divergence/convergence in Europe}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{2005}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

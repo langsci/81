@@ -1,0 +1,1122 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{aldenderfer_cluster_1984}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Aldenderfer}{A.}%
+     {Mark~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Blashfield}{B.}%
+     {Roger~K.}{R.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Sage Publications}%
+  }
+  \strng{namehash}{AMSBRK1}
+  \strng{fullhash}{AMSBRK1}
+  \field{labelyear}{1984}
+  \field{sortinit}{A}
+  \field{title}{Cluster {Analysis}}
+  \list{location}{1}{%
+    {Newbury Park, London, New Delhi}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{anderwald_corpus_2009}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Anderwald}{A.}%
+     {Lieselotte}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Lüdeling}{L.}%
+     {Anke}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kytö}{K.}%
+     {Merja}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{ALSB1}
+  \strng{fullhash}{ALSB1}
+  \field{labelyear}{2009}
+  \field{sortinit}{A}
+  \field{booktitle}{Corpus Linguistics. {An} International Handbook}
+  \field{number}{29/1}
+  \field{pages}{1126\bibrangedash 1139}
+  \field{series}{Handbücher zur {Sprach}- und {Kommunikationswissenschaft} /
+  {Handbooks} of {Linguistics} and {Communication} {Science}}
+  \field{title}{Corpus linguistics and dialectology}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{bybee_language_2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bybee}{B.}%
+     {Joan~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \keyw{Cognitive grammar, Language and languages, Linguistic change, Usage}
+  \strng{namehash}{BJL1}
+  \strng{fullhash}{BJL1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{isbn}{9780521851404}
+  \field{title}{Language, usage and cognition}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{chambers_dialectology_1998}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Chambers}{C.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CJTP1}
+  \strng{fullhash}{CJTP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{edition}{1}
+  \field{title}{Dialectology}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{garside_hybrid_1997}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Garside}{G.}%
+     {Roger}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Nicholas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Garside}{G.}%
+     {Roger}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leech}{L.}%
+     {Geoffrey}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McEnery}{M.}%
+     {Tony}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Longman}%
+  }
+  \strng{namehash}{GRSN1}
+  \strng{fullhash}{GRSN1}
+  \field{labelyear}{1997}
+  \field{sortinit}{G}
+  \field{booktitle}{Corpus Annotation: {Linguistic} Information from Computer
+  Text Corpora}
+  \field{pages}{102\bibrangedash 121}
+  \field{title}{A hybrid grammatical tagger: {CLAWS}4}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{goebl_dialektometrische_1984}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Niemeyer}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{1984}
+  \field{sortinit}{G}
+  \field{shorttitle}{Dialektometrische {S}tudien}
+  \field{title}{Dialektometrische {S}tudien: {A}nhand italoromanischer,
+  rätoromanischer und galloromanischer {Sprachmaterialien} aus {AIS} und
+  {ALF}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{goebl_dialektometrie_2005}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Köhler}{K.}%
+     {Reinhard}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Altmann}{A.}%
+     {Gabriel}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Piotrowski}{P.}%
+     {Rajmund~G.}{R.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Walter de Gruyter}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{2005}
+  \field{extrayear}{1}
+  \field{sortinit}{G}
+  \field{booktitle}{Quantitative Linguistics / {Quantitative} {Linguistik}.
+  {An} International Handbook / {Ein} internationales {Handbuch}}
+  \field{number}{27}
+  \field{pages}{498\bibrangedash 531}
+  \field{series}{Handbücher zur {Sprach}- und {Kommunikationswissenschaft} /
+  {Handbooks} of {Linguistics} and {Communication} {Science}}
+  \field{title}{Dialektometrie}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{goebl_dialectometrie_2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{2005}
+  \field{extrayear}{2}
+  \field{sortinit}{G}
+  \field{pages}{321\bibrangedash 367}
+  \field{title}{La dialectométrie corrélative. {Un} nouvel outil pour
+  l'étude de l'aménagement dialectal de l'espace par l'homme}
+  \field{volume}{69}
+  \field{journaltitle}{Revue de Linguistique Romane}
+  \field{year}{2005}
+\endentry
+
+\entry{goebl_bunch_2007}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{5}{}{%
+    {{}%
+     {Smit}{S.}%
+     {Ute}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dollinger}{D.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hüttner}{H.}%
+     {Julia}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaltenböck}{K.}%
+     {Gunter}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lutzky}{L.}%
+     {Ursula}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Braumüller}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{2007}
+  \field{sortinit}{G}
+  \field{booktitle}{Tracing {English} through time: {Explorations} in language
+  variation}
+  \field{pages}{133\bibrangedash 172}
+  \field{title}{A bunch of dialectometric flowers: {A} brief introduction to
+  dialectometry}
+  \list{location}{1}{%
+    {Wien}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{gooskens_traveling_2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GC1}
+  \strng{fullhash}{GC1}
+  \field{labelyear}{2005}
+  \field{sortinit}{G}
+  \field{pages}{38\bibrangedash 62}
+  \field{title}{Traveling time as a predictor of linguistic distance}
+  \field{volume}{13}
+  \field{journaltitle}{Dialectologia et Geolinguistica}
+  \field{year}{2005}
+\endentry
+
+\entry{grieve_corpus-based_2009}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJ1}
+  \strng{fullhash}{GJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{G}
+  \field{title}{A corpus-based regional dialect survey of grammatical variation
+  in written {Standard} {American} {English}}
+  \list{location}{1}{%
+    {Flagstaff}%
+  }
+  \list{institution}{1}{%
+    {Northern Arizona University}%
+  }
+  \field{type}{{PhD} dissertation}
+  \field{year}{2009}
+\endentry
+
+\entry{heeringa_measuring_2004}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Heeringa}{H.}%
+     {Wilbert}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HW1}
+  \strng{fullhash}{HW1}
+  \field{labelyear}{2004}
+  \field{sortinit}{H}
+  \field{title}{Measuring dialect pronunciation differences using {Levenshtein}
+  distance}
+  \list{location}{1}{%
+    {Groningen}%
+  }
+  \list{institution}{1}{%
+    {University of Groningen}%
+  }
+  \field{type}{{PhD} {Thesis}}
+  \field{year}{2004}
+\endentry
+
+\entry{hernandez_users_2006}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hernández}{H.}%
+     {Nuria}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Freiburg.}%
+  }
+  \strng{namehash}{HN1}
+  \strng{fullhash}{HN1}
+  \field{labelyear}{2006}
+  \field{sortinit}{H}
+  \field{title}{User's {Guide} to {FRED}}
+  \list{location}{1}{%
+    {Freiburg}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{jain_data_1999}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Jain}{J.}%
+     {Anil~K.}{A.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Murty}{M.}%
+     {M.~Narasimha}{M.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Flynn}{F.}%
+     {Patrick~J.}{P.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JAKMMNFPJ1}
+  \strng{fullhash}{JAKMMNFPJ1}
+  \field{labelyear}{1999}
+  \field{sortinit}{J}
+  \field{number}{3}
+  \field{pages}{264\bibrangedash 323}
+  \field{title}{Data clustering: {A} review}
+  \field{volume}{31}
+  \field{journaltitle}{ACM Computing Surveys}
+  \field{year}{1999}
+\endentry
+
+\entry{kilgarriff_comparing_2001}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kilgarriff}{K.}%
+     {Adam}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Homogeneity, Similarity, Word Frequency}
+  \strng{namehash}{KA1}
+  \strng{fullhash}{KA1}
+  \field{labelyear}{2001}
+  \field{sortinit}{K}
+  \field{number}{1}
+  \field{pages}{97\bibrangedash 133}
+  \field{title}{Comparing Corpora}
+  \field{volume}{6}
+  \field{journaltitle}{International Journal of Corpus Linguistics}
+  \field{year}{2001}
+\endentry
+
+\entry{lijffijt_computational_2013}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lijffijt}{L.}%
+     {Jefrey}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LJ1}
+  \strng{fullhash}{LJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{title}{Computational methods for comparison and exploration of event
+  sequences}
+  \list{location}{1}{%
+    {Espoo}%
+  }
+  \list{institution}{1}{%
+    {Aalto University}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2013}
+\endentry
+
+\entry{nerbonne_how_2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hilpert}{H.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stukenbrock}{S.}%
+     {Anja}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Walter de Gruyter}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{N}
+  \field{booktitle}{Space in language and linguistics: {Geographical},
+  interactional, and cognitive perspectives}
+  \field{pages}{220\bibrangedash 236}
+  \field{title}{How much does geography influence language variation?}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{nerbonne_edit_1999}{incollection}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heeringa}{H.}%
+     {Wilbert}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Sankoff}{S.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kruskal}{K.}%
+     {Joseph}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CSLI Press}%
+  }
+  \strng{namehash}{NJHWKP1}
+  \strng{fullhash}{NJHWKP1}
+  \field{labelyear}{1999}
+  \field{sortinit}{N}
+  \field{booktitle}{Time Warps, String Edits and Macromolecules: {The} Theory
+  and Practice of Sequence Comparison}
+  \field{pages}{v\bibrangedash xv}
+  \field{title}{Edit Distance and Dialect Proximity}
+  \list{location}{1}{%
+    {Stanford}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{nerbonne_toward_2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJKP1}
+  \strng{fullhash}{NJKP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{N}
+  \field{number}{2}
+  \field{pages}{148\bibrangedash 166}
+  \field{title}{Toward a Dialectological Yardstick}
+  \field{volume}{14}
+  \field{journaltitle}{Journal of Quantitative Linguistics}
+  \field{year}{2007}
+\endentry
+
+\entry{nerbonne_dialektklassifikation_2005}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Siedle}{S.}%
+     {Christine}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJSC1}
+  \strng{fullhash}{NJSC1}
+  \field{labelyear}{2005}
+  \field{sortinit}{N}
+  \field{number}{2}
+  \field{pages}{129\bibrangedash 147}
+  \field{title}{Dialektklassifikation auf der {Grundlage} aggregierter
+  {Ausspracheunterschiede}}
+  \field{volume}{72}
+  \field{journaltitle}{Zeitschrift für Dialektologie und Linguistik}
+  \field{year}{2005}
+\endentry
+
+\entry{nerbonne_measure_2006}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wiersma}{W.}%
+     {Wybo}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinrichs}{H.}%
+     {Erhard}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJWW1}
+  \strng{fullhash}{NJWW1}
+  \field{labelyear}{2006}
+  \field{sortinit}{N}
+  \field{booktitle}{Linguistic Distances. {Workshop} at the joint conference of
+  {International} {Committee} on {Computational} {Linguistics} and the
+  {Association} for {Computational} {Linguistics}, {Sydney}, {July}, 2006}
+  \field{pages}{82\bibrangedash 90}
+  \field{title}{A Measure of Aggregate Syntactic Distance.}
+  \field{year}{2006}
+\endentry
+
+\entry{nerbonne_projecting_2008}{incollection}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manni}{M.}%
+     {Franz}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heeringa}{H.}%
+     {Wilbert}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Preisach}{P.}%
+     {Christine}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt-Thieme}{S.-T.}%
+     {Lars}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Burkhardt}{B.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Decker}{D.}%
+     {Reinhold}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer}%
+  }
+  \strng{namehash}{NJ+1}
+  \strng{fullhash}{NJKPMFHW1}
+  \field{labelyear}{2008}
+  \field{sortinit}{N}
+  \field{booktitle}{Data Analysis, Machine Learning, and Applications.
+  {Proceedings} of the 31st {Annual} {Meeting} of the {German} {Classification}
+  {Society}}
+  \field{pages}{647\bibrangedash 654}
+  \field{title}{Projecting dialect differences to geography: {Bootstrapping}
+  clustering vs. {C}lustering with noise}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{rumpf_structural_2009}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Rumpf}{R.}%
+     {Jonas}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Elspaß}{E.}%
+     {Stephan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {König}{K.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Volker}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RJ+1}
+  \strng{fullhash}{RJPSESKWSV1}
+  \field{labelyear}{2009}
+  \field{sortinit}{R}
+  \field{number}{3}
+  \field{pages}{280\bibrangedash 308}
+  \field{title}{Structural analysis of dialect maps using methods from spatial
+  statistics}
+  \field{volume}{76}
+  \field{journaltitle}{Zeitschrift für Dialektologie und Linguistik}
+  \field{year}{2009}
+\endentry
+
+\entry{sanders_statistical_2010}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sanders}{S.}%
+     {Nathan~C.}{N.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SNC1}
+  \strng{fullhash}{SNC1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{title}{A Statistical Method for Syntactic Dialectometry}
+  \list{location}{1}{%
+    {Bloomington}%
+  }
+  \list{institution}{1}{%
+    {Indiana University}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2010}
+\endentry
+
+\entry{scherrer_recovering_2012}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Scherrer}{S.}%
+     {Yves}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Association for Computational Linguistics}%
+  }
+  \strng{namehash}{SY1}
+  \strng{fullhash}{SY1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of
+  {LINGVIS} \& {UNCLH}}
+  \field{isbn}{978-1-937284-19-0}
+  \field{pages}{63\bibrangedash 71}
+  \field{series}{{EACL} 2012}
+  \field{title}{Recovering Dialect Geography from an Unaligned Comparable
+  Corpus}
+  \verb{url}
+  \verb http://dl.acm.org/citation.cfm?id=2388655.2388665
+  \endverb
+  \list{location}{1}{%
+    {Avignon, France}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{szmrecsanyi_corpus-based_2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SB1}
+  \strng{fullhash}{SB1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{45\bibrangedash 76}
+  \field{title}{Corpus-based dialectometry: {A} methodological sketch}
+  \field{volume}{6}
+  \field{journaltitle}{Corpora}
+  \field{year}{2011}
+\endentry
+
+\entry{szmrecsanyi_grammatical_2013}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SB1}
+  \strng{fullhash}{SB1}
+  \field{labelyear}{2013}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  "Variation within the English language is a vast research area, of which
+  dialectology, the study of geographic variation, is a significant part. This
+  book explores grammatical differences between British English dialects,
+  drawing on authentic speech data collected in over thirty counties. In doing
+  so it presents a new approach known as 'corpus-based dialectometry', which
+  focuses on the joint quantitative measurement of dozens of grammatical
+  features to gauge regional differences. These features include, for example,
+  multiple negation (e.g. don't you make no damn mistake), non-standard verbals
+  (e.g. so I says, What have you to do?), or non-standard weak past tense and
+  past participle forms (e.g. they knowed all about these things). Utilizing
+  state-of-the-art dialectometrical analysis and visualization techniques, the
+  book is original both in terms of its fundamental research question ('What
+  are the large-scale patterns of grammatical variability in British English
+  dialects?') as well as in terms of its methodology"–%
+  }
+  \field{isbn}{9781107003453 1107003458}
+  \field{shorttitle}{Grammatical variation in {British} {English} dialects}
+  \field{title}{Grammatical variation in {British} {English} dialects: {A}
+  study in corpus-based dialectometry}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{szmrecsanyi_manual_2007}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hernández}{H.}%
+     {Nuria}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Freiburg}%
+  }
+  \strng{namehash}{SBHN1}
+  \strng{fullhash}{SBHN1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{title}{Manual of {Information} to accompany the {Freiburg} {Corpus} of
+  {English} {Dialects} {Sampler} ("{FRED}-{S}")}
+  \verb{url}
+  \verb http://www.freidok.uni-freiburg.de/volltexte/2859/
+  \endverb
+  \list{location}{1}{%
+    {Freiburg}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{szmrecsanyi_aggregating_2014}{book}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wälchli}{W.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Walter de Gruyter}%
+  }
+  \keyw{dialectology, Language and languages, Register (Linguistics), Typology
+  (Linguistics), Variation}
+  \strng{namehash}{SBWB1}
+  \strng{fullhash}{SBWB1}
+  \field{labelyear}{2014}
+  \field{sortinit}{S}
+  \field{booktitle}{Aggregating dialectology, typology, and register analysis:
+  {Linguistic} variation in text and speech}
+  \field{isbn}{9783110317398}
+  \field{number}{28}
+  \field{series}{Lingua \& litterae}
+  \field{shorttitle}{Aggregating dialectology, typology, and register analysis}
+  \field{title}{Aggregating dialectology, typology, and register analysis:
+  {Linguistic} variation in text and speech}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{tagliamonte_variationist_2012}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tagliamonte}{T.}%
+     {Sali}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wiley-Blackwell}%
+  }
+  \strng{namehash}{TS1}
+  \strng{fullhash}{TS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{T}
+  \field{title}{Variationist Sociolinguistics: {Change}, Observation,
+  Interpretation}
+  \list{location}{1}{%
+    {Malden, Oxford, Chichester}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{tomasello_constructing_2003}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tomasello}{T.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Harvard University Press}%
+  }
+  \keyw{Cognition in children, Language acquisition}
+  \strng{namehash}{TM1}
+  \strng{fullhash}{TM1}
+  \field{labelyear}{2003}
+  \field{sortinit}{T}
+  \field{isbn}{0674010302}
+  \field{shorttitle}{Constructing a language}
+  \field{title}{Constructing a language: {A} usage-based theory of language
+  acquisition}
+  \list{location}{1}{%
+    {Cambridge, Mass}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{trudgill_contribution_1982}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TP1}
+  \strng{fullhash}{TP1}
+  \field{labelyear}{1982}
+  \field{sortinit}{T}
+  \field{issn}{0388-0001}
+  \field{number}{2}
+  \field{pages}{237\bibrangedash 250}
+  \field{title}{The contribution of sociolinguistics to dialectology}
+  \field{volume}{4}
+  \field{journaltitle}{Language Sciences}
+  \field{year}{1982}
+\endentry
+
+\entry{wieling_quantitative_2012}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WM1}
+  \strng{fullhash}{WM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{W}
+  \field{title}{A Quantitative Approach to Social and Geographical Dialect
+  Variation}
+  \list{location}{1}{%
+    {Groningen}%
+  }
+  \list{institution}{1}{%
+    {University of Groningen}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2012}
+\endentry
+
+\entry{wiersma_automatically_2011}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wiersma}{W.}%
+     {Wybo}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lauttamus}{L.}%
+     {Timo}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WWNJLT1}
+  \strng{fullhash}{WWNJLT1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{number}{1}
+  \field{pages}{107\bibrangedash 124}
+  \field{title}{Automatically extracting typical syntactic differences from
+  corpora}
+  \field{volume}{26}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2011}
+\endentry
+
+\entry{wolk_integrating_2014}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wolk}{W.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WC1}
+  \strng{fullhash}{WC1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{title}{Integrating Aggregational and Probabilistic Approaches to
+  Language Variation}
+  \verb{url}
+  \verb https://www.freidok.uni-freiburg.de/data/9656/
+  \endverb
+  \list{location}{1}{%
+    {Freiburg}%
+  }
+  \list{institution}{1}{%
+    {University of Freiburg}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2014}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

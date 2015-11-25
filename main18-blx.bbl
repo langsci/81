@@ -1,0 +1,513 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{ash_distribution_2002}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ash}{A.}%
+     {Sharon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AS1}
+  \strng{fullhash}{AS1}
+  \field{labelyear}{2002}
+  \field{sortinit}{A}
+  \field{number}{3}
+  \field{pages}{1\bibrangedash 15}
+  \field{title}{The distribution of a phonemic split in the {Mid}-{Atlantic}
+  region: {Y}et more on short a}
+  \field{volume}{8}
+  \field{journaltitle}{Penn Working Papers in Linguistics}
+  \field{year}{2002}
+\endentry
+
+\entry{assmann_time-varying_2000}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Assmann}{A.}%
+     {P.~F.}{P.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Katz}{K.}%
+     {W.~F.}{W.~F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{APFKWF1}
+  \strng{fullhash}{APFKWF1}
+  \field{labelyear}{2000}
+  \field{sortinit}{A}
+  \field{pages}{1856}
+  \field{title}{Time-varying spectral change in the vowels of children and
+  adults}
+  \field{volume}{108}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{2000}
+\endentry
+
+\entry{baker_more_2008}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Baker}{B.}%
+     {Adam}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mielke}{M.}%
+     {Jeff}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Archangeli}{A.}%
+     {Diana}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Chang}{C.}%
+     {Charles~B.}{C.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Haynie}{H.}%
+     {Hannah~J.}{H.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cascadilla Proceedings Project}%
+  }
+  \strng{namehash}{BAMJAD1}
+  \strng{fullhash}{BAMJAD1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{booktitle}{Proceedings of the 26th {West} {Coast} {Conference} on
+  {Formal} {Linguistics}}
+  \field{title}{More Velar than /g/: {Consonant} Coarticulation as a Cause of
+  Diphthongization}
+  \list{location}{1}{%
+    {Somerville, MA}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{becker_short-system_2009}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Becker}{B.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wong}{W.}%
+     {A.~W.}{A.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BKWAW1}
+  \strng{fullhash}{BKWAW1}
+  \field{labelyear}{2009}
+  \field{sortinit}{B}
+  \field{pages}{11\bibrangedash 20}
+  \field{title}{The short-\textit{a} system of {NYC} {English}: {A}n update}
+  \field{volume}{14}
+  \field{journaltitle}{Penn Working Papers in Linguistics}
+  \field{year}{2009}
+\endentry
+
+\entry{boberg_regional_2008}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Boberg}{B.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BC1}
+  \strng{fullhash}{BC1}
+  \field{labelyear}{2008}
+  \field{sortinit}{B}
+  \field{number}{2}
+  \field{pages}{129\bibrangedash 154}
+  \field{title}{Regional phonetic differentiation in {Standard} {Canadian}
+  {English}}
+  \field{volume}{36}
+  \field{journaltitle}{Journal of English Linguistics}
+  \field{year}{2008}
+\endentry
+
+\entry{boberg_short-cincinnati:_2000}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Boberg}{B.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Strassel}{S.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BCSS1}
+  \strng{fullhash}{BCSS1}
+  \field{labelyear}{2000}
+  \field{sortinit}{B}
+  \field{pages}{108\bibrangedash 126}
+  \field{title}{Short-a in {Cincinnati}: {A} change in progress}
+  \field{volume}{28}
+  \field{journaltitle}{Journal of English Linguistics}
+  \field{year}{2000}
+\endentry
+
+\entry{carignan_real-time_2015}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Carignan}{C.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shosted}{S.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fu}{F.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liang}{L.}%
+     {Z.-P.}{Z.-P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {B.~Sutton}{B.~S.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CC+1}
+  \strng{fullhash}{CCSRFMLZPBSB1}
+  \field{labelyear}{2015}
+  \field{sortinit}{C}
+  \field{pages}{34\bibrangedash 51}
+  \field{title}{A real-time {MRI} investigation of the role of lingual and
+  pharyngeal articulation in the production of the nasal vowel system of
+  {French}}
+  \field{volume}{50}
+  \field{journaltitle}{Journal of Phonetics}
+  \field{year}{2015}
+\endentry
+
+\entry{decker_are_2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Decker}{D.}%
+     {P.~M.~De}{P.~M.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nycz}{N.}%
+     {J.~R.}{J.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DPMDNJR1}
+  \strng{fullhash}{DPMDNJR1}
+  \field{labelyear}{2012}
+  \field{sortinit}{D}
+  \field{number}{7}
+  \field{pages}{810\bibrangedash 821}
+  \field{title}{Are tense [æ]s really tense? {The} mapping between
+  articulation and acoustics}
+  \field{volume}{122}
+  \field{journaltitle}{Lingua}
+  \field{year}{2012}
+\endentry
+
+\entry{fox_cross-dialectal_2009}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Fox}{F.}%
+     {R.~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jacewicz}{J.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FRAJE1}
+  \strng{fullhash}{FRAJE1}
+  \field{labelyear}{2009}
+  \field{sortinit}{F}
+  \field{number}{5}
+  \field{pages}{2603}
+  \field{title}{Cross-dialectal variation in formant dynamics of {American}
+  {English} vowels}
+  \field{volume}{126}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{2009}
+\endentry
+
+\entry{gu_smoothing_2002}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gu}{G.}%
+     {Chong}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer-Verlag}%
+  }
+  \strng{namehash}{GC1}
+  \strng{fullhash}{GC1}
+  \field{labelyear}{2002}
+  \field{sortinit}{G}
+  \field{note}{Springer Series in Statistics}
+  \field{title}{Smoothing spline {ANOVA} models}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{hueber_eigentongue_2007}{inproceedings}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Hueber}{H.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Aversano}{A.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chollet}{C.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Denby}{D.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dreyfus}{D.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oussar}{O.}%
+     {Y.}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Roussel}{R.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stone}{S.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HT+1}
+  \strng{fullhash}{HTAGCGDBDGOYRPSM1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{booktitle}{Proceedings of the 2007 {International} {Conference} on
+  {Acoustics}, {Speech}, and {Signal} {Processing}}
+  \field{pages}{I\bibrangedash 1245\bibrangedash I\bibrangedash 1248}
+  \field{title}{Eigentongue feature extraction for an ultrasound-based silent
+  speech interface}
+  \field{year}{2007}
+\endentry
+
+\entry{labov_atlas_2006-1}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ash}{A.}%
+     {Sharon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boberg}{B.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{LWASBC1}
+  \strng{fullhash}{LWASBC1}
+  \field{labelyear}{2006}
+  \field{sortinit}{L}
+  \field{title}{The Atlas of {North} {American} {English}: {Phonetics}
+  Phonology and Sound change}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{labov_one_2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rosenfelder}{R.}%
+     {Ingrid}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fruehwald}{F.}%
+     {Josef}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LWRIFJ1}
+  \strng{fullhash}{LWRIFJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{number}{1}
+  \field{pages}{30\bibrangedash 65}
+  \field{title}{One Hundred Years of Sound Change in {P}hiladelphia: {Linear}
+  Incrementation, Reversal, and Reanalysis}
+  \field{volume}{89}
+  \field{journaltitle}{Language}
+  \field{year}{2013}
+\endentry
+
+\entry{li_automatic_2005}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Li}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kambhamettu}{K.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stone}{S.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LMKCSM1}
+  \strng{fullhash}{LMKCSM1}
+  \field{labelyear}{2005}
+  \field{sortinit}{L}
+  \field{number}{6–7}
+  \field{pages}{545\bibrangedash 554}
+  \field{title}{Automatic contour tracking in ultrasound images}
+  \field{volume}{19}
+  \field{journaltitle}{Clinical Linguistics and Phonetics}
+  \field{year}{2005}
+\endentry
+
+\entry{plichta_interdisciplinary_2005}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Plichta}{P.}%
+     {Bartek}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PB1}
+  \strng{fullhash}{PB1}
+  \field{labelyear}{2005}
+  \field{sortinit}{P}
+  \field{title}{Interdisciplinary perspectives on the {Northern} {Cities}
+  {Chain} {Shift}}
+  \list{institution}{1}{%
+    {Michigan State University}%
+  }
+  \field{type}{Unpublished {Ph}.{D}. thesis}
+  \field{year}{2005}
+\endentry
+
+\entry{story_time_2007}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Story}{S.}%
+     {Brad~H.}{B.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SBH1}
+  \strng{fullhash}{SBH1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{number}{6}
+  \field{pages}{3770\bibrangedash 3789}
+  \field{title}{Time dependence of vocal tract modes during production of
+  vowels and vowel sequences}
+  \field{volume}{121}
+  \field{journaltitle}{Journal of the Acoustical Society of America}
+  \field{year}{2007}
+\endentry
+
+\entry{yuan_speaker_2008}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Yuan}{Y.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liberman}{L.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{YJLM1}
+  \strng{fullhash}{YJLM1}
+  \field{labelyear}{2008}
+  \field{sortinit}{Y}
+  \field{booktitle}{Proceedings of {Acoustics} '08}
+  \field{title}{Speaker identification on the {SCOTUS} corpus}
+  \field{year}{2008}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

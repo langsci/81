@@ -1,0 +1,123 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{eckert_variation_2008}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Eckert}{E.}%
+     {Penelope}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EP1}
+  \strng{fullhash}{EP1}
+  \field{labelyear}{2008}
+  \field{sortinit}{E}
+  \field{pages}{453\bibrangedash 476}
+  \field{title}{Variation and the indexical field}
+  \field{volume}{12}
+  \field{journaltitle}{Journal of sociolinguistics}
+  \field{year}{2008}
+\endentry
+
+\entry{kubozono_tonal_2007}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kubozono}{K.}%
+     {Haruo}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Riad}{R.}%
+     {Tomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gussenhoven}{G.}%
+     {Carlos}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KH1}
+  \strng{fullhash}{KH1}
+  \field{labelyear}{2007}
+  \field{sortinit}{K}
+  \field{booktitle}{Tones and Tunes. {Volume} 1: {Typological} Studies in Word
+  and Sentence Prosody}
+  \field{pages}{323\bibrangedash 351}
+  \field{title}{Tonal change in language contact: {Evidence} from {Kagoshima}
+  {Japanese}}
+  \verb{url}
+  \verb http://hdl.handle.net/2066/44855
+  \endverb
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2007}
+  \field{urlday}{10}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{androutsopoulos_media_2014}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Stuart-Smith}{S.-S.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ota}{O.}%
+     {Ichiro}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Androutsopoulos}{A.}%
+     {Jannis~K}{J.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {De Gruyter}%
+  }
+  \strng{namehash}{SSJOI1}
+  \strng{fullhash}{SSJOI1}
+  \field{labelyear}{2014}
+  \field{sortinit}{S}
+  \field{booktitle}{Mediatization and sociolinguistic change}
+  \field{isbn}{9783110343571 3110343576}
+  \field{pages}{127\bibrangedash 170}
+  \field{title}{Media models, 'the shelf', and stylistic variation in {East}
+  and {West}. {Rethinking} the influence of the media on language variation}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2014}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

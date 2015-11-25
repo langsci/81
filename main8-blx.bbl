@@ -1,0 +1,551 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{brun-trigaud_usage_2014}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Brun-Trigaud}{B.-T.}%
+     {Guylaine}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Diémoz}{D.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Aquino-Weber}{A.-W.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Droz}%
+  }
+  \strng{namehash}{BTG1}
+  \strng{fullhash}{BTG1}
+  \field{labelyear}{2014}
+  \field{sortinit}{B}
+  \field{booktitle}{Toujours langue varie ... {Mélanges} de linguistique
+  historique du français et de dialectologie galloromane offerts à {M}. {L}e
+  {Professeur} {Andres} {Kristol} par ses collègues et anciens élèves}
+  \field{pages}{127\bibrangedash 147}
+  \field{title}{Un usage particulier de l’algorithme de
+  {Damerau}-{Levenshtein} dans le domaine occitan}
+  \list{location}{1}{%
+    {Geneva}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{costaouec_breton_1998}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Costaouec}{C.}%
+     {Denis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CD1}
+  \strng{fullhash}{CD1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{title}{Le breton parlé à {La} {Forêt}-{Fouesnant} ({Finistère}).
+  {Pratique} actuelle, problèmes de phonologie et de syntaxe}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \list{institution}{1}{%
+    {Université Paris 5}%
+  }
+  \field{type}{{PhD} {Thesis}}
+  \field{year}{1998}
+\endentry
+
+\entry{costaouec_linguistic_2012}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Costaouec}{C.}%
+     {Denis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CD1}
+  \strng{fullhash}{CD1}
+  \field{labelyear}{2012}
+  \field{sortinit}{C}
+  \field{issn}{0942-2919}
+  \field{number}{1}
+  \field{pages}{47\bibrangedash 64}
+  \field{title}{Linguistic geography of {Breton} and sociocultural motivations}
+  \field{volume}{65}
+  \field{journaltitle}{STUF - Sprachtypologie und Universalienforschung}
+  \field{year}{2012}
+\endentry
+
+\entry{falchun_perspectives_1981}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Falc’hun}{F.}%
+     {François}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {UGE}%
+  }
+  \strng{namehash}{FF1}
+  \strng{fullhash}{FF1}
+  \field{labelyear}{1981}
+  \field{sortinit}{F}
+  \field{title}{Perspectives nouvelles sur l'histoire de la langue bretonne}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{1981}
+\endentry
+
+\entry{german_etude_1984}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {German}{G.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GG1}
+  \strng{fullhash}{GG1}
+  \field{labelyear}{1984}
+  \field{sortinit}{G}
+  \field{title}{Une étude linguistique sur le breton de {Saint}-{Yvi}}
+  \list{location}{1}{%
+    {Brest}%
+  }
+  \list{institution}{1}{%
+    {Université de Bretagne Occidentale}%
+  }
+  \field{type}{{PhD} {Thesis}}
+  \field{year}{1984}
+\endentry
+
+\entry{german_methode_1991}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {German}{G.}%
+     {Gary}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GG1}
+  \strng{fullhash}{GG1}
+  \field{labelyear}{1991}
+  \field{sortinit}{G}
+  \field{pages}{177\bibrangedash 213}
+  \field{title}{Une méthode dialectométrique (assistée par ordinateur) pour
+  l’analyse des atlas linguistiques}
+  \field{volume}{7}
+  \field{journaltitle}{La Bretagne linguistique}
+  \field{year}{1991}
+\endentry
+
+\entry{goebl_introduction_2012}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Pérez}{P.}%
+     {X.~A.}{X.~A.}%
+     {Álvarez}{�.}%
+     {}{}}%
+    {{}%
+     {Carrilho}{C.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Magro}{M.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Centro de Linguística da Universidade de Lisboa}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{2012}
+  \field{sortinit}{G}
+  \field{booktitle}{Proceedings of the International Symposium on Limits and
+  Areas in Dialectology ({LimiAr}). {Lisbon} 2011}
+  \field{pages}{117\bibrangedash 166}
+  \field{title}{Introduction aux problèmes et méthodes de l'« École
+  dialectométrique de {Salzbourg} » (avec des exemples gallo-, italo- et
+  ibéroromans)}
+  \list{location}{1}{%
+    {Lisbon}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{guiter_atlas_1973}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Guiter}{G.}%
+     {Henri}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Straka}{S.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gardette}{G.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Éditions du CNRS}%
+  }
+  \strng{namehash}{GH2}
+  \strng{fullhash}{GH2}
+  \field{labelyear}{1973}
+  \field{sortinit}{G}
+  \field{booktitle}{Les dialectes romans de la {France} à la lumière des
+  atlas régionaux}
+  \field{pages}{61\bibrangedash 109}
+  \field{title}{Atlas et frontières linguistiques}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{1973}
+\endentry
+
+\entry{heeringa_measuring_2004}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Heeringa}{H.}%
+     {Wilbert}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HW1}
+  \strng{fullhash}{HW1}
+  \field{labelyear}{2004}
+  \field{sortinit}{H}
+  \field{title}{Measuring dialect pronunciation differences using {Levenshtein}
+  distance}
+  \list{location}{1}{%
+    {Groningen}%
+  }
+  \list{institution}{1}{%
+    {University of Groningen}%
+  }
+  \field{type}{{PhD} {Thesis}}
+  \field{year}{2004}
+\endentry
+
+\entry{jackson_historical_1967}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jackson}{J.}%
+     {Kenneth~Hurlstone}{K.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Dublin Institute for advanced studies}%
+  }
+  \strng{namehash}{JKH1}
+  \strng{fullhash}{JKH1}
+  \field{labelyear}{1967}
+  \field{sortinit}{J}
+  \field{title}{A historical phonology of {Breton}}
+  \list{location}{1}{%
+    {Dublin}%
+  }
+  \field{year}{1967}
+\endentry
+
+\entry{le_du_nouvel_2001}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Le~Dû}{L.~D.}%
+     {Jean}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Centre de recherche bretonne et celtique, Université de Bretagne
+  occidentale}%
+  }
+  \strng{namehash}{LDJ1}
+  \strng{fullhash}{LDJ1}
+  \field{labelyear}{2001}
+  \field{sortinit}{L}
+  \field{title}{Nouvel atlas linguistique de la {Basse}-{Bretagne}}
+  \list{location}{1}{%
+    {Brest}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{le_roux_atlas_1924}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Le~Roux}{L.~R.}%
+     {Pierre}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Plihon et Hommay}%
+  }
+  \strng{namehash}{LRP1}
+  \strng{fullhash}{LRP1}
+  \field{labelyear}{{1924--1963}}
+  \field{sortinit}{L}
+  \field{note}{77 sites of investigation. 600 maps.}
+  \field{title}{Atlas linguistique de la {Basse}-{Bretagne}}
+  \list{location}{1}{%
+    {Rennes; Paris}%
+  }
+  \field{year}{{1924--1963}}
+\endentry
+
+\entry{martinet_economie_1955}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Martinet}{M.}%
+     {André}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Éditions A. Francke S. A.}%
+  }
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{labelyear}{1955}
+  \field{sortinit}{M}
+  \field{shorttitle}{Économie des changements phonétiques}
+  \field{title}{Économie des changements phonétiques. {Traité} de phonologie
+  diachronique}
+  \list{location}{1}{%
+    {Bern}%
+  }
+  \field{year}{1955}
+\endentry
+
+\entry{moseley_atlas_2010}{book}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {Moseley}{M.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {UNESCO Publishing}%
+  }
+  \strng{namehash}{MC1}
+  \strng{fullhash}{MC1}
+  \field{labelyear}{2010}
+  \field{sortinit}{M}
+  \field{booktitle}{Atlas of the world's languages in danger}
+  \field{edition}{3}
+  \field{isbn}{9789231040955 9231040952}
+  \field{title}{Atlas of the world's languages in danger}
+  \list{location}{1}{%
+    {Paris}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{nerbonne_computational_2001}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heeringa}{H.}%
+     {Wilbert}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJHW1}
+  \strng{fullhash}{NJHW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{N}
+  \field{issn}{0942-4040}
+  \field{number}{9}
+  \field{pages}{69\bibrangedash 83}
+  \field{title}{Computational Comparison and Classification of Dialects}
+  \field{volume}{2001}
+  \field{journaltitle}{Dialectologia et Geolinguistica}
+  \field{year}{2001}
+\endentry
+
+\entry{nerbonne_measuring_2010}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heeringa}{H.}%
+     {Wilbert}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Schmidt}{S.}%
+     {Jürgen~Erich}{J.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{NJHW1}
+  \strng{fullhash}{NJHW1}
+  \field{labelyear}{2010}
+  \field{sortinit}{N}
+  \field{booktitle}{Language and Space: {Theories} and Methods}
+  \field{pages}{550\bibrangedash 567}
+  \field{series}{Handbooks of {Linguistics} and {Communication} {Science}}
+  \field{title}{Measuring dialect differences}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{solliec_dialectometrie_2014}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Solliec}{S.}%
+     {Tanguy}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ST1}
+  \strng{fullhash}{ST1}
+  \field{labelyear}{2014}
+  \field{sortinit}{S}
+  \field{title}{Dialectométrie de la {Basse}-{Bretagne} : {E}njeux,
+  méthodologie et applications. {Quantifier} et qualifier la variation
+  linguistique, vision symbolique de l'espace et écho du dynamisme
+  synchronique en breton}
+  \list{location}{1}{%
+    {Brest}%
+  }
+  \list{institution}{1}{%
+    {Université de Bretagne Occidentale}%
+  }
+  \field{type}{{PhD} {Thesis}}
+  \field{year}{2014}
+\endentry
+
+\entry{seguy_relation_1971}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Séguy}{S.}%
+     {Jean}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SJ1}
+  \strng{fullhash}{SJ1}
+  \field{labelyear}{1971}
+  \field{sortinit}{S}
+  \field{number}{138}
+  \field{pages}{335\bibrangedash 357}
+  \field{title}{La relation entre la distance spatiale et la distance lexicale}
+  \field{volume}{35}
+  \field{journaltitle}{Revue de Linguistique Romane}
+  \field{year}{1971}
+\endentry
+
+\entry{seguy_dialectometrie_1973}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Séguy}{S.}%
+     {Jean}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SJ1}
+  \strng{fullhash}{SJ1}
+  \field{labelyear}{1973}
+  \field{sortinit}{S}
+  \field{pages}{1\bibrangedash 24}
+  \field{title}{La dialectométrie dans l'{Atlas} linguistique de la
+  {Gascogne}}
+  \field{volume}{37}
+  \field{journaltitle}{Revue de Linguistique Romane}
+  \field{year}{1973}
+\endentry
+
+\entry{wmffre_central_1998}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wmffre}{W.}%
+     {Iwan}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lincom}%
+  }
+  \strng{namehash}{WI1}
+  \strng{fullhash}{WI1}
+  \field{labelyear}{1998}
+  \field{sortinit}{W}
+  \field{number}{152}
+  \field{series}{Languages of the {World}/{Materials}}
+  \field{title}{Central {Breton}}
+  \list{location}{1}{%
+    {Munich}%
+  }
+  \field{year}{1998}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

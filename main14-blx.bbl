@@ -1,0 +1,823 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{adank_imitation_2010}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Adank}{A.}%
+     {Patti}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hagoort}{H.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bekkering}{B.}%
+     {Harold}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{APHPBH1}
+  \strng{fullhash}{APHPBH1}
+  \field{labelyear}{2010}
+  \field{sortinit}{A}
+  \field{pages}{1903\bibrangedash 1909}
+  \field{title}{Imitation improves language comprehension}
+  \field{volume}{21}
+  \field{journaltitle}{Psychological Science}
+  \field{year}{2010}
+\endentry
+
+\entry{androutsopoulos_intermediale_2012}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Androutsopoulos}{A.}%
+     {Jannis}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AJ1}
+  \strng{fullhash}{AJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{A}
+  \field{pages}{87\bibrangedash 101}
+  \field{title}{Intermediale {Varietätendynamik}: {Ein} explorativer {Blick}
+  auf die {Inszenierung} und {Aushandlung} von ‚{Dialekt}' auf {YouTube}.}
+  \field{volume}{26}
+  \field{journaltitle}{Sociolinguistica}
+  \field{year}{2012}
+\endentry
+
+\entry{babel_phonetic_2009}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Babel}{B.}%
+     {Molly}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BM1}
+  \strng{fullhash}{BM1}
+  \field{labelyear}{2009}
+  \field{sortinit}{B}
+  \field{title}{Phonetic and social selectivity in speech accommodation}
+  \list{institution}{1}{%
+    {University of California, Berkeley}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2009}
+\endentry
+
+\entry{dossey_spontaneous_2012}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dossey}{D.}%
+     {Ellen~E.}{E.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Macalester College. Linguistics Department}%
+  }
+  \strng{namehash}{DEE1}
+  \strng{fullhash}{DEE1}
+  \field{labelyear}{2012}
+  \field{sortinit}{D}
+  \field{title}{Spontaneous phonetic imitation across regional dialects. Honors
+  project Macalester College}
+  \verb{url}
+  \verb http://digitalcommons.macalester.edu/ling_honors/8/
+  \endverb
+  \field{year}{2012}
+  \field{urlday}{23}
+  \field{urlmonth}{06}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{fitch_evolution_2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fitch}{F.}%
+     {William Tecumseh~Sherman}{W.~T.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{FWTS1}
+  \strng{fullhash}{FWTS1}
+  \field{labelyear}{2010}
+  \field{sortinit}{F}
+  \field{title}{The evolution of language}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{fleischer_syntax_2002}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fleischer}{F.}%
+     {Jürg}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Steiner}%
+  }
+  \strng{namehash}{FJ1}
+  \strng{fullhash}{FJ1}
+  \field{labelyear}{2002}
+  \field{sortinit}{F}
+  \field{series}{Zeitschrift für {Dialektologie} und {Linguistik}, {Beiheft}
+  123}
+  \field{title}{Die {Syntax} von {Pronominaladverbien} in den {Dialekten} des
+  {Deutschen}: {E}ine {Untersuchung} zu {Preposition} {Stranding} und
+  verwandten {Phänomenen}}
+  \list{location}{1}{%
+    {Stuttgart/Wiesbaden}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{haider_poetenpidgin_2007}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Haider}{H.}%
+     {Hubert}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dressler}{D.}%
+     {Wolfgang~U.}{W.~U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Panagl}{P.}%
+     {Oswald}{O.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Praesens}%
+  }
+  \strng{namehash}{HH1}
+  \strng{fullhash}{HH1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{booktitle}{Poetische {Lizenzen}}
+  \field{pages}{133\bibrangedash 145}
+  \field{title}{Poetenpidgin – Über {Ernst} {Jandls} {Grammatik} einer
+  heruntergekommenen {Sprache}}
+  \list{location}{1}{%
+    {Wien}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{hauser_language_2002}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hauser}{H.}%
+     {Marc~D.}{M.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chomsky}{C.}%
+     {Noam}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fitch}{F.}%
+     {William Tecumseh~Sherman}{W.~T.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HMDCNFWTS1}
+  \strng{fullhash}{HMDCNFWTS1}
+  \field{labelyear}{2002}
+  \field{sortinit}{H}
+  \field{pages}{1569\bibrangedash 1579}
+  \field{title}{The language faculty: {What} is it, who has it, and how did it
+  evolve?}
+  \field{volume}{298}
+  \field{journaltitle}{Science}
+  \field{year}{2002}
+\endentry
+
+\entry{kleiner_medienbairisch_2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kleiner}{K.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Harnisch}{H.}%
+     {Rüdiger}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {edition vulpes}%
+  }
+  \strng{namehash}{KS1}
+  \strng{fullhash}{KS1}
+  \field{labelyear}{2013}
+  \field{sortinit}{K}
+  \field{booktitle}{Strömungen in der {Entwicklung} der {Dialekte} und ihrer
+  {Erforschung}. {Beiträge} zur 11. {Bayerisch}-Österreichischen
+  {Dialektologentagung} in {Passau} {September} 2010}
+  \field{number}{19}
+  \field{pages}{429\bibrangedash 449}
+  \field{series}{Regensburger {Dialektforum}}
+  \field{title}{Medienbairisch – {Eine} variationslinguistische
+  {Untersuchung} der {Dialekttiefe} des {Mittelbairischen} in {Film}- und
+  {Fernsehproduktionen}}
+  \list{location}{1}{%
+    {Regensburg}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{wenker_schriften_2013}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lameli}{L.}%
+     {Alfred}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Olms}%
+  }
+  \strng{namehash}{LA1}
+  \strng{fullhash}{LA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{booktitle}{Schriften zum {Sprachatlas} des {Deutschen} {Reichs}:
+  {Gesamtausgabe}}
+  \field{number}{Bd. 1–3}
+  \field{series}{Deutsche {Dialektgeographie}}
+  \field{title}{Schriften zum {Sprachatlas} des {Deutschen} {Reichs}:
+  {Gesamtausgabe}}
+  \list{location}{1}{%
+    {Hildesheim}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{leser_zum_2012}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Leser}{L.}%
+     {Stephanie}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Langhanke}{L.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Berg}{B.}%
+     {Kristian}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Elmentaler}{E.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peters}{P.}%
+     {Jörg}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Olms}%
+  }
+  \strng{namehash}{LS1}
+  \strng{fullhash}{LS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{L}
+  \field{booktitle}{Niederdeutsche {Syntax}}
+  \field{number}{220}
+  \field{pages}{79\bibrangedash 100}
+  \field{series}{Germanistische {Linguistik}}
+  \field{title}{Zum {Pronominaladverb} in den hessischen {Dialekten}. {Eine}
+  {Untersuchung} zum {Verlauf} syntaktischer {Isoglossen}}
+  \list{location}{1}{%
+    {Hildesheim}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{markham_phonetic_1997}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Markham}{M.}%
+     {Duncan}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lund University Press}%
+  }
+  \keyw{Imitative Acquisition and Function Model}
+  \strng{namehash}{MD1}
+  \strng{fullhash}{MD1}
+  \field{labelyear}{1997}
+  \field{sortinit}{M}
+  \field{series}{Travaux de l'{Institut} de linguistique de {Lund} ({Bd}. 33)}
+  \field{title}{Phonetic imitation, accent, and the learner}
+  \list{location}{1}{%
+    {Lund}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{markham_listeners_1999}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Markham}{M.}%
+     {Duncan}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MD1}
+  \strng{fullhash}{MD1}
+  \field{labelyear}{1999}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{289\bibrangedash 299}
+  \field{title}{Listeners and disguised voices: {T}he imitation and perception
+  of dialectal accent}
+  \field{volume}{6}
+  \field{journaltitle}{Forensic Linguistics}
+  \field{year}{1999}
+\endentry
+
+\entry{mayer_mia_2009}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mayer}{M.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zimmerer}{Z.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Kanz}{K.}%
+     {Ulrich}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wildfeuer}{W.}%
+     {Alfred}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zehetner}{Z.}%
+     {Ludwig}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {edition vulpes}%
+  }
+  \strng{namehash}{MBZP1}
+  \strng{fullhash}{MBZP1}
+  \field{labelyear}{2009}
+  \field{sortinit}{M}
+  \field{booktitle}{Mundart und {Medien}. {Beiträge} zum 3.
+  {D}ialektologischen {Symposium} im {Bayerischen} {Wald}, {Walderbach}, {Mai}
+  2008}
+  \field{number}{16}
+  \field{pages}{233\bibrangedash 242}
+  \field{series}{Regensburger {Dialektforum}}
+  \field{title}{{\textgreater}{\textgreater}{Mia} san
+  daily{\textless}{\textless} – {Versuch} einer {Messung} von
+  {Dialektalität} in der {Fernsehserie} {\textgreater}{\textgreater}{Dahoam}
+  is {Dahoam}{\textless}{\textless} im {Bayerischen} {Fernsehen}}
+  \list{location}{1}{%
+    {Regensburg}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{mayer_language_2012}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mayer}{M.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cysouw}{C.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {\biberror{no editor}}{b.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Association for Computational Linguistics}%
+  }
+  \strng{namehash}{MTCM1}
+  \strng{fullhash}{MTCM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{M}
+  \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of
+  {LINGVIS} \& {UNCLH}}
+  \field{pages}{54\bibrangedash 62}
+  \field{title}{Language comparison through sparse multilingual word alignment}
+  \list{location}{1}{%
+    {Avignon}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{meltzoff_imitation_1977}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Meltzoff}{M.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moore}{M.}%
+     {M.~Keith}{M.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MAMMK1}
+  \strng{fullhash}{MAMMK1}
+  \field{labelyear}{1977}
+  \field{sortinit}{M}
+  \field{pages}{75\bibrangedash 78}
+  \field{title}{Imitation of facial and manual gestures by human neonates}
+  \field{volume}{198}
+  \field{journaltitle}{Science}
+  \field{year}{1977}
+\endentry
+
+\entry{meltzoff_imitative_2002}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Meltzoff}{M.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Prinz}{P.}%
+     {Wolfgang}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{MAPW1}
+  \strng{fullhash}{MAPW1}
+  \field{labelyear}{2002}
+  \field{sortinit}{M}
+  \field{title}{The imitative mind. {Development}, evolution, and brain bases}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{myers-scotton_duelling_1993}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Myers-Scotton}{M.-S.}%
+     {Carol}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MSC1}
+  \strng{fullhash}{MSC1}
+  \field{labelyear}{1993}
+  \field{sortinit}{M}
+  \field{title}{Duelling Languages: {Grammatical} structure in codeswitching}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{myers-scotton_contact_2002}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Myers-Scotton}{M.-S.}%
+     {Carol}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MSC1}
+  \strng{fullhash}{MSC1}
+  \field{labelyear}{2002}
+  \field{sortinit}{M}
+  \field{title}{Contact linguistics: {Bilingual} encounters and grammatical
+  outcomes}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{neuhauser_phonetische_2012}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Neuhauser}{N.}%
+     {Sara}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Narr}%
+  }
+  \strng{namehash}{NS1}
+  \strng{fullhash}{NS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{N}
+  \field{series}{Tübinger {Beiträge} zur {Linguistik} (529)}
+  \field{title}{Phonetische und linguistische {Aspekte} der {Akzentimitation}
+  im forensischen {Kontext}: {Produktion} und {Perzeption}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{petkov_birds_2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Petkov}{P.}%
+     {C.~I.}{C.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jarvis}{J.}%
+     {E.~D.}{E.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PCIJED1}
+  \strng{fullhash}{PCIJED1}
+  \field{labelyear}{2012}
+  \field{sortinit}{P}
+  \field{number}{12}
+  \field{pages}{\biberror{no pages}}
+  \field{title}{Birds, primates, and spoken language origins: {B}ehavioral
+  phenotypes and neurobiological substrates.}
+  \field{volume}{4}
+  \field{journaltitle}{Frontiers in Evolutionary Neuroscience}
+  \field{year}{2012}
+\endentry
+
+\entry{purschke_imitation_2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Purschke}{P.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Anders}{A.}%
+     {Christina}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hundt}{H.}%
+     {Markus}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lasch}{L.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {de Gruyter}%
+  }
+  \strng{namehash}{PC1}
+  \strng{fullhash}{PC1}
+  \field{labelyear}{2010}
+  \field{sortinit}{P}
+  \field{booktitle}{Perceptual dialectology - {Neue} {Wege} der
+  {Dialektologie}}
+  \field{pages}{151\bibrangedash 178}
+  \field{title}{Imitation und {Hörerurteil} – {Kognitive}
+  {Dialekt}-{Prototypen} am {Beispiel} des {Hessischen}}
+  \list{location}{1}{%
+    {Berlin/New York}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{richter_sprache_1995}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Richter}{R.}%
+     {Matthias}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wallstein}%
+  }
+  \strng{namehash}{RM1}
+  \strng{fullhash}{RM1}
+  \field{labelyear}{1995}
+  \field{sortinit}{R}
+  \field{title}{Die {Sprache} jüdischer {Figuren} in der deutschen {Literatur}
+  (1750–1933). {Studien} zu {Form} und {Funktion}}
+  \list{location}{1}{%
+    {Göttingen}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{riemann_neue_2009}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Riemann}{R.}%
+     {Andreas}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Kanz}{K.}%
+     {Ulrich}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wildfeuer}{W.}%
+     {Alfred}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zehetner}{Z.}%
+     {Ludwig}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {edition vulpes}%
+  }
+  \strng{namehash}{RA1}
+  \strng{fullhash}{RA1}
+  \field{labelyear}{2009}
+  \field{sortinit}{R}
+  \field{booktitle}{Mundart und {Medien}. {Beiträge} zum 3.
+  {D}ialektologischen {Symposium} im {Bayerischen} {Wald}, {Walderbach}, {Mai}
+  2008}
+  \field{number}{16}
+  \field{pages}{273\bibrangedash 287}
+  \field{series}{Regensburger {Dialektforum}}
+  \field{title}{Neue {\textgreater}{Sprache}{\textless}, neue
+  {\textgreater}{Heimat}{\textless}, neues {\textgreater}{Bayern}{\textless}?}
+  \list{location}{1}{%
+    {Regensburg}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{segerup_imitation_1999}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Segerup}{S.}%
+     {My}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SM1}
+  \strng{fullhash}{SM1}
+  \field{labelyear}{1999}
+  \field{sortinit}{S}
+  \field{pages}{1253\bibrangedash 1256}
+  \field{series}{Gothenburg papers in theoretical linguistics 81}
+  \field{title}{Imitation of dialects: {F}rom {South} to {West}}
+  \field{volume}{99}
+  \field{journaltitle}{Fonetik}
+  \field{year}{1999}
+\endentry
+
+\entry{siegel_second_2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Siegel}{S.}%
+     {Jeff}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SJ1}
+  \strng{fullhash}{SJ1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{title}{Second dialect acquisition}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{tomasello_shared_2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tomasello}{T.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carpenter}{C.}%
+     {Malinda}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TMCM1}
+  \strng{fullhash}{TMCM1}
+  \field{labelyear}{2007}
+  \field{sortinit}{T}
+  \field{pages}{121\bibrangedash 125}
+  \field{title}{Shared intentionality}
+  \field{volume}{10}
+  \field{journaltitle}{Developmental Science}
+  \field{year}{2007}
+\endentry
+
+\entry{uzgiris_two_1981}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {U{\v z}giris}{U.}%
+     {Ina~{\v C}ep{\.e}nait{\.e}}{I.~{\v C}.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{UIC1}
+  \strng{fullhash}{UIC1}
+  \field{labelyear}{1981}
+  \field{sortinit}{U}
+  \field{pages}{1\bibrangedash 12}
+  \field{title}{Two functions of imitation during infancy}
+  \field{volume}{4}
+  \field{journaltitle}{International Journal of Behavioral Development}
+  \field{year}{1981}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
