@@ -1,0 +1,1625 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{anders_perceptual_2010}{book}{}
+  \name{editor}{3}{}{%
+    {{}%
+     {Anders}{A.}%
+     {Christina~Ada}{C.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hundt}{H.}%
+     {Markus}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lasch}{L.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {De Gruyter}%
+  }
+  \strng{namehash}{ACAHMLA1}
+  \strng{fullhash}{ACAHMLA1}
+  \field{labelyear}{2010}
+  \field{sortinit}{A}
+  \field{booktitle}{Perceptual dialectology. {Neue} {Wege} der {Dialektologie}}
+  \field{isbn}{9783110227529 3110227525}
+  \field{title}{Perceptual dialectology. {Neue} {Wege} der {Dialektologie}}
+  \verb{url}
+  \verb http://public.eblib.com/choice/publicfullrecord.aspx?p=555744
+  \endverb
+  \list{location}{1}{%
+    {Berlin; New York}%
+  }
+  \field{year}{2010}
+  \field{urlday}{10}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{auer_konversationelle_1986}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AP1}
+  \strng{fullhash}{AP1}
+  \field{labelyear}{1986}
+  \field{sortinit}{A}
+  \field{pages}{97\bibrangedash 124}
+  \field{title}{Konversationelle {Standard}-{Dialekt}-{Kontinua}
+  ({Code}-{Shifting})}
+  \verb{url}
+  \verb http://www.freidok.uni-freiburg.de/volltexte/4490/
+  \endverb
+  \field{volume}{14}
+  \field{journaltitle}{Deutsche Sprache}
+  \field{year}{1986}
+  \field{urlday}{10}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{auer_identifying_2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Berruto}{B.}%
+     {Gaetano}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Jürgen~Erich}{J.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {De Gruyter Mouton}%
+  }
+  \strng{namehash}{BG1}
+  \strng{fullhash}{BG1}
+  \field{labelyear}{2010}
+  \field{sortinit}{B}
+  \field{booktitle}{Language and space an international handbook of linguistic
+  variation. {V}ol. 1}
+  \field{isbn}{9783110220278 311022027X}
+  \field{pages}{226\bibrangedash 241}
+  \field{title}{Identifying dimensions of linguistic variation in a language
+  space}
+  \verb{url}
+  \verb http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&
+  \verb db=nlabk&AN=317691
+  \endverb
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Berlin; New York}%
+  }
+  \field{year}{2010}
+  \field{urlday}{10}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{klausmann_wie_2006}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Berthele}{B.}%
+     {Raphael}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Klausmann}{K.}%
+     {Hubert}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Neugebauer}%
+  }
+  \strng{namehash}{BR1}
+  \strng{fullhash}{BR1}
+  \field{labelyear}{2006}
+  \field{sortinit}{B}
+  \field{booktitle}{Raumstrukturen im {Alemannischen}: {Beiträge} der 15.
+  {Arbeitstagung} zur alemannischen {Dialektologie}}
+  \field{isbn}{9783853762073 3853762077}
+  \field{pages}{163\bibrangedash 175}
+  \field{title}{Wie sieht das {Berndeutsche} so ungefähr aus? Über den
+  {Nutzen} von {Visualisierungen} für die kognitive {Laienlinguistik}}
+  \list{location}{1}{%
+    {Graz}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{biber_variation_1988}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Biber}{B.}%
+     {Douglas}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{BD1}
+  \strng{fullhash}{BD1}
+  \field{labelyear}{1988}
+  \field{sortinit}{B}
+  \field{title}{Variation across speech and writing}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1988}
+\endentry
+
+\entry{bielenstein_grenzen_1892}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bielenstein}{B.}%
+     {August Johann~Gottfried}{A.~J.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Eggers \& Co}%
+  }
+  \strng{namehash}{BAJG1}
+  \strng{fullhash}{BAJG1}
+  \field{labelyear}{1892}
+  \field{sortinit}{B}
+  \field{isbn}{3777709832 9783777709833}
+  \field{shorttitle}{Die {Grenzen} des lettischen {Volksstammes} und der
+  lettischen {Sprache}}
+  \field{title}{Die {Grenzen} des lettischen {Volksstammes} und der lettischen
+  {Sprache}: {I}n der {Gegenwart} und im 13. {Jahrhundert} : {E}in {Beitrag}
+  zur ethnologischen {Geographie} und {Geschichte} {Russlands}}
+  \list{location}{1}{%
+    {St. Petersburg}%
+  }
+  \field{year}{1892}
+\endentry
+
+\entry{boberg_north_2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Boberg}{B.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BC1}
+  \strng{fullhash}{BC1}
+  \field{labelyear}{2005}
+  \field{sortinit}{B}
+  \field{issn}{0003-1283}
+  \field{number}{1}
+  \field{pages}{22\bibrangedash 60}
+  \field{title}{The {North} {American} Regional Vocabulary Survey: {New}
+  Variables and Methods in the Study of {North} {American} {English}}
+  \field{volume}{80}
+  \field{journaltitle}{American Speech}
+  \field{year}{2005}
+\endentry
+
+\entry{cattell_scientific_1978}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Cattell}{C.}%
+     {Raymond~Bernard}{R.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Plenum Press}%
+  }
+  \strng{namehash}{CRB1}
+  \strng{fullhash}{CRB1}
+  \field{labelyear}{1978}
+  \field{sortinit}{C}
+  \field{isbn}{0306309394 9780306309397}
+  \field{title}{The scientific use of factor analysis in behavioral and life
+  sciences}
+  \list{location}{1}{%
+    {New York, N.Y., [etc.]}%
+  }
+  \field{year}{1978}
+\endentry
+
+\entry{chambers_dialectology_1998}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Chambers}{C.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CJTP1}
+  \strng{fullhash}{CJTP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{edition}{1}
+  \field{title}{Dialectology}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{christen_dialekt_1998}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Christen}{C.}%
+     {Helen}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Niemeyer}%
+  }
+  \strng{namehash}{CH1}
+  \strng{fullhash}{CH1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{isbn}{3484312017 9783484312012}
+  \field{shorttitle}{Dialekt im {Alltag}}
+  \field{title}{Dialekt im {Alltag}: {E}ine empirische {Untersuchung} zur
+  lokalen {Komponente} heutiger schweizerdeutscher {Varietäten}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{anders_was_2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Christen}{C.}%
+     {Helen}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Anders}{A.}%
+     {Christina~Ada}{C.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hundt}{H.}%
+     {Markus}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lasch}{L.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {De Gruyter}%
+  }
+  \strng{namehash}{CH1}
+  \strng{fullhash}{CH1}
+  \field{labelyear}{2010}
+  \field{sortinit}{C}
+  \field{booktitle}{Perceptual dialectology: {N}eue {Wege} der {Dialektologie}}
+  \field{isbn}{9783110227529 3110227525}
+  \field{pages}{\biberror{no pages}}
+  \field{title}{Was {Dialektbezeichnungen} und {Dialektattribuierungen} über
+  alltagsweltliche {Konzeptualisierungen} sprachlicher {Heterogenität}
+  verraten}
+  \verb{url}
+  \verb http://public.eblib.com/choice/publicfullrecord.aspx?p=555744
+  \endverb
+  \list{location}{1}{%
+    {Berlin; New York}%
+  }
+  \field{year}{2010}
+  \field{urlday}{11}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{clopper_north_2006}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Clopper}{C.}%
+     {Cynthia}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paolillo}{P.}%
+     {John~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CCPJC1}
+  \strng{fullhash}{CCPJC1}
+  \field{labelyear}{2006}
+  \field{sortinit}{C}
+  \field{number}{4}
+  \field{pages}{445\bibrangedash 462}
+  \field{title}{North {American} {English} Vowels: {A} Factoranalytic
+  Perspective}
+  \field{volume}{21}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2006}
+\endentry
+
+\entry{preston_applications_1993}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Girard}{G.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Larmouth}{L.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins Pub. Co.}%
+  }
+  \strng{namehash}{GDL1}
+  \strng{fullhash}{GDL1}
+  \field{labelyear}{1993}
+  \field{sortinit}{G}
+  \field{abstract}{%
+  Containing all new material and published for the American Dialect Society's
+  centennial celebration (1889-1989), this volume bings together in one place,
+  as no previously published work has, current approaches to the general
+  problems of language distribution and variation. The several chapters offer
+  accounts of how questions are formulated and how data are collected, stored,
+  and intepreted in the various research traditions of dialectology and
+  sociolinguistics, particularly as they have been carried out by researchers
+  associated with the American Dialect Society. More specifically, this book
+  ta.%
+  }
+  \field{booktitle}{American dialect research celebrating the 100th anniversary
+  of the {American} {Dialect} {Society}, 1889-1989}
+  \field{isbn}{9789027273901 9027273901}
+  \field{pages}{107\bibrangedash 131}
+  \field{title}{Some Applications of Mathematical and Statistical Models in
+  Dialect Geography}
+  \verb{url}
+  \verb http://public.eblib.com/choice/publicfullrecord.aspx?p=861540
+  \endverb
+  \list{location}{1}{%
+    {Amsterdam/Philadelphia}%
+  }
+  \field{year}{1993}
+  \field{urlday}{11}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{goebl_stammbaum_1983}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{1983}
+  \field{sortinit}{G}
+  \field{pages}{3\bibrangedash 44}
+  \field{title}{Stammbaum und {Welle}}
+  \field{volume}{2}
+  \field{journaltitle}{Zeitschrift für Sprachwissenschaft}
+  \field{year}{1983}
+\endentry
+
+\entry{grieve_corpus-based_2009}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJ1}
+  \strng{fullhash}{GJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{G}
+  \field{title}{A corpus-based regional dialect survey of grammatical variation
+  in written {Standard} {American} {English}}
+  \list{location}{1}{%
+    {Flagstaff}%
+  }
+  \list{institution}{1}{%
+    {Northern Arizona University}%
+  }
+  \field{type}{{PhD} dissertation}
+  \field{year}{2009}
+\endentry
+
+\entry{grieve_comparison_2014}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wälchli}{W.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Walter de Gruyter}%
+  }
+  \strng{namehash}{GJ1}
+  \strng{fullhash}{GJ1}
+  \field{labelyear}{2014}
+  \field{sortinit}{G}
+  \field{booktitle}{Aggregating dialectology, typology, and register analysis:
+  {Linguistic} variation in text and speech}
+  \field{number}{28}
+  \field{pages}{53\bibrangedash 88}
+  \field{series}{Lingua \& {Litterae}}
+  \field{title}{A comparison of statistical methods for the aggregation of
+  regional linguistic variation}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{grieve_statistical_2011}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speelman}{S.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Geeraerts}{G.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJSDGD1}
+  \strng{fullhash}{GJSDGD1}
+  \field{labelyear}{2011}
+  \field{sortinit}{G}
+  \field{issn}{0954-3945}
+  \field{number}{2}
+  \field{pages}{193\bibrangedash 221}
+  \field{title}{A statistical method for the identification and aggregation of
+  regional linguistic variation}
+  \field{volume}{23}
+  \field{journaltitle}{Language Variation and Change}
+  \field{year}{2011}
+\endentry
+
+\entry{hyvonen_multivariate_2007}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hyvönen}{H.}%
+     {Saara}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leino}{L.}%
+     {Antti}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Salmenkivi}{S.}%
+     {Marko}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HSLASM1}
+  \strng{fullhash}{HSLASM1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{abstract}{%
+  During the process of writing a comprehensive dictionary of Finnish dialects,
+  a large set of maps describing the regional distribution of the dialect words
+  have been compiled in electronic form. In this article, we set out to analyse
+  this corpus of data in order to gain new insight on the variation of Finnish
+  dialects. We use a wide range of multivariate data analysis methods,
+  including principal components analysis, independent components analysis,
+  clustering, and multidimensional scaling. We explain how to preprocess the
+  data to overcome the problem of uneven sampling caused by the way the data
+  has been collected. We discuss the results obtained by these methods and
+  compare them to the traditional view of Finnish dialect groups.%
+  }
+  \field{issn}{0268-1145}
+  \field{number}{3}
+  \field{pages}{271\bibrangedash 290}
+  \field{title}{Multivariate {Analysis} of {Finnish} {Dialect} {Data}—{An}
+  {Overview} of {Lexical} {Variation}}
+  \field{volume}{22}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2007}
+\endentry
+
+\entry{kretzschmar_linguistics_2009}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kretzschmar}{K.}%
+     {William~A.}{W.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{KWA1}
+  \strng{fullhash}{KWA1}
+  \field{labelyear}{2009}
+  \field{sortinit}{K}
+  \field{title}{The Linguistics of Speech}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{kristiansen_style-shifting_2008}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kristiansen}{K.}%
+     {Gitte}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Dirven}{D.}%
+     {René}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kristiansen}{K.}%
+     {Gitte}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{KG1}
+  \strng{fullhash}{KG1}
+  \field{labelyear}{2008}
+  \field{sortinit}{K}
+  \field{booktitle}{Cognitive sociolinguistics language variation, cultural
+  models, social systems}
+  \field{isbn}{9783110199154 3110199157 1283396637 9781283396639}
+  \field{pages}{45\bibrangedash 88}
+  \field{title}{Style-shifting and shifting styles: {A} socio-cognitive
+  approach to lectal variation}
+  \verb{url}
+  \verb http://site.ebrary.com/id/10256522
+  \endverb
+  \list{location}{1}{%
+    {Berlin; New York}%
+  }
+  \field{year}{2008}
+  \field{urlday}{11}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{kurath_studies_1972}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kurath}{K.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Indiana University Press}%
+  }
+  \strng{namehash}{KH1}
+  \strng{fullhash}{KH1}
+  \field{labelyear}{1972}
+  \field{sortinit}{K}
+  \field{title}{Studies in Area Linguistics}
+  \list{location}{1}{%
+    {Bloomington/London}%
+  }
+  \field{year}{1972}
+\endentry
+
+\entry{konig_sprachatlas_1996}{book}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {König}{K.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Winter}%
+  }
+  \strng{namehash}{KW1}
+  \strng{fullhash}{KW1}
+  \field{labelyear}{{1996--2009}}
+  \field{sortinit}{K}
+  \field{booktitle}{Sprachatlas von {Bayerisch}-{Schwaben}}
+  \field{shorttitle}{{SBS}}
+  \field{title}{Sprachatlas von {Bayerisch}-{Schwaben}}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{{1996--2009}}
+\endentry
+
+\entry{bailey_boundaries_1973}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Bailey}{B.}%
+     {Charles James~Nice}{C.~J.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shuy}{S.}%
+     {Roger~W}{R.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Georgetown university press}%
+  }
+  \strng{namehash}{LW1}
+  \strng{fullhash}{LW1}
+  \field{labelyear}{1973}
+  \field{sortinit}{L}
+  \field{booktitle}{New ways of analyzing variation in {English}}
+  \field{pages}{340\bibrangedash 373}
+  \field{title}{The boundaries of words and their meanings}
+  \list{location}{1}{%
+    {Washington}%
+  }
+  \field{year}{1973}
+\endentry
+
+\entry{labov_atlas_2006-1}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ash}{A.}%
+     {Sharon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boberg}{B.}%
+     {Charles}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Mouton de Gruyter}%
+  }
+  \strng{namehash}{LWASBC1}
+  \strng{fullhash}{LWASBC1}
+  \field{labelyear}{2006}
+  \field{sortinit}{L}
+  \field{title}{The Atlas of {North} {American} {English}: {Phonetics}
+  Phonology and Sound change}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{lakoff_women_1987}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lakoff}{L.}%
+     {George}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The University of Chicago Press}%
+  }
+  \strng{namehash}{LG1}
+  \strng{fullhash}{LG1}
+  \field{labelyear}{1987}
+  \field{sortinit}{L}
+  \field{isbn}{0226468038 9780226468037 0226468046 9780226468044}
+  \field{shorttitle}{Women, fire, and dangerous things}
+  \field{title}{Women, fire, and dangerous things: {W}hat categories reveal
+  about the mind}
+  \list{location}{1}{%
+    {Chicago, Ill., [etc.]}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{leino_comparison_2008}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Leino}{L.}%
+     {Antti}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hyvönen}{H.}%
+     {Saara}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LAHS1}
+  \strng{fullhash}{LAHS1}
+  \field{labelyear}{2008}
+  \field{sortinit}{L}
+  \field{number}{1–2}
+  \field{pages}{173\bibrangedash 187}
+  \field{title}{Comparison of component models in analysing the distribution of
+  dialectal features}
+  \field{volume}{2}
+  \field{journaltitle}{International Journal of Humanities and Arts Computing}
+  \field{year}{2008}
+\endentry
+
+\entry{leinonen_acoustic_2010}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Leinonen}{L.}%
+     {Therese~Nanette}{T.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LTN1}
+  \strng{fullhash}{LTN1}
+  \field{labelyear}{2010}
+  \field{sortinit}{L}
+  \field{title}{An acoustic analysis of vowel pronunciation in {Swedish}
+  dialects}
+  \list{location}{1}{%
+    {Groningen}%
+  }
+  \list{institution}{1}{%
+    {Rijksuniversiteit Groningen}%
+  }
+  \field{type}{Ph.{D}. dissertation}
+  \field{year}{2010}
+\endentry
+
+\entry{lenz_struktur_2003}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lenz}{L.}%
+     {Alexandra~N.}{A.~N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {F. Steiner}%
+  }
+  \strng{namehash}{LAN1}
+  \strng{fullhash}{LAN1}
+  \field{labelyear}{2003}
+  \field{sortinit}{L}
+  \field{isbn}{3515083499 9783515083492}
+  \field{shorttitle}{Struktur und {Dynamik} des {Substandards}}
+  \field{title}{Struktur und {Dynamik} des {Substandards}: {Eine} {Studie} zum
+  {Westmitteldeutschen} ({Wittlich}/{Eifel})}
+  \list{location}{1}{%
+    {Stuttgart/Wiesbaden}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{nerbonne_identifying_2006}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{2006}
+  \field{sortinit}{N}
+  \field{issn}{0268-1145}
+  \field{number}{4}
+  \field{pages}{463\bibrangedash 475}
+  \field{title}{Identifying Linguistic Structure in Aggregate Comparison}
+  \field{volume}{21}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2006}
+\endentry
+
+\entry{nerbonne_gabmap_2011}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Colen}{C.}%
+     {Rinke}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leinonen}{L.}%
+     {Therese}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ+1}
+  \strng{fullhash}{NJCRGCKPLT1}
+  \field{labelyear}{2011}
+  \field{sortinit}{N}
+  \field{pages}{65\bibrangedash 89}
+  \field{title}{Gabmap – A web application for dialectology}
+  \verb{url}
+  \verb http://www.gabmap.nl/
+  \endverb
+  \field{volume}{{Special Issue II}}
+  \field{journaltitle}{Dialectologia}
+  \field{year}{2011}
+\endentry
+
+\entry{nubling_studien_1988}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nübling}{N.}%
+     {Eduard}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Schwäbische Forschungsgemeinschaft ; In Kommission bei A.H. Konrad}%
+  }
+  \strng{namehash}{NE1}
+  \strng{fullhash}{NE1}
+  \field{labelyear}{1988}
+  \field{sortinit}{N}
+  \field{isbn}{3922518168 9783922518167}
+  \field{shorttitle}{Studien und {Berichte} zur {Geschichts}-, {Mundart}- und
+  {Namenforschung} {Bayerisch}-{Schwabens}}
+  \field{title}{Studien und {Berichte} zur {Geschichts}-, {Mundart}- und
+  {Namenforschung} {Bayerisch}-{Schwabens}: {Festgabe} zum 80. {Geburtstag} des
+  {Verfassers}}
+  \list{location}{1}{%
+    {Augsburg; Weissenhorn}%
+  }
+  \field{year}{1988}
+\endentry
+
+\entry{pickl_probabilistische_2013}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Steiner}%
+  }
+  \strng{namehash}{PS1}
+  \strng{fullhash}{PS1}
+  \field{labelyear}{2013}
+  \field{extrayear}{1}
+  \field{sortinit}{P}
+  \field{isbn}{9783515104630 3515104631}
+  \field{shorttitle}{Probabilistische {Geolinguistik}}
+  \field{title}{Probabilistische {Geolinguistik}: {Geostatistische} {Analysen}
+  lexikalischer {Variation} in {Bayerisch}-{Schwaben}}
+  \list{location}{1}{%
+    {Stuttgart}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{pickl_verdichtungen_2013}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PS1}
+  \strng{fullhash}{PS1}
+  \field{labelyear}{2013}
+  \field{extrayear}{2}
+  \field{sortinit}{P}
+  \field{issn}{0044-1449}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 35}
+  \field{title}{Verdichtungen im sprachgeografischen {Kontinuum}}
+  \field{volume}{80}
+  \field{journaltitle}{Zeitschrift fur Dialektologie und Linguistik}
+  \field{year}{2013}
+\endentry
+
+\entry{buhler_dialektraume_2014}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Bühler}{B.}%
+     {Rudolf}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bürkle}{B.}%
+     {Rebekka}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leonhardt}{L.}%
+     {Nina~Kim}{N.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Tübinger Vereinigung für Volkskunde e. V.}%
+  }
+  \strng{namehash}{PS1}
+  \strng{fullhash}{PS1}
+  \field{labelyear}{2014}
+  \field{sortinit}{P}
+  \field{booktitle}{Sprachkultur, {Regionalkultur}: {N}eue {Felder}
+  kulturwissenschaftlicher {Dialektforschung}}
+  \field{isbn}{9783932512834 3932512839}
+  \field{pages}{198\bibrangedash 217}
+  \field{title}{Dialekträume ‘unter der {Oberfläche}’. {Nicht}-dominante
+  wortgeographische {Strukturen} in {Bayerisch}-{Schwaben}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{chapters/pickl}{incollection}{skipbib}
+  \name{author}{1}{}{%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{PS1}
+  \strng{fullhash}{PS1}
+  \field{labelyear}{2015}
+  \field{sortinit}{P}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{63\bibrangedash 83}
+  \field{title}{Fuzzy dialect areas and prototype theory: {D}iscovering latent
+  patterns in geolinguistic variation}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{preston_perceptual_1989}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Foris Publications}%
+  }
+  \strng{namehash}{PD1}
+  \strng{fullhash}{PD1}
+  \field{labelyear}{1989}
+  \field{sortinit}{P}
+  \field{isbn}{9783110871913 3110871912}
+  \field{title}{Perceptual dialectology nonlinguists' views of areal
+  linguistics}
+  \verb{url}
+  \verb http://site.ebrary.com/id/10598243
+  \endverb
+  \list{location}{1}{%
+    {Dordrecht}%
+  }
+  \field{year}{1989}
+  \field{urlday}{08}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{preston_handbook_1999}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {J. Benjamins}%
+  }
+  \strng{namehash}{PD1}
+  \strng{fullhash}{PD1}
+  \field{labelyear}{1999}
+  \field{sortinit}{P}
+  \field{abstract}{%
+  Perceptual dialectology investigates what ordinary people (as opposed to
+  professional linguists) believe about the distribution of language varieties
+  in their own and surrounding speech communities and how they have arrived at
+  and implement those beliefs. It studies the beliefs of the common folk about
+  which dialects exist and, indeed, about what attitudes they have to these
+  varieties. Some of this leads to discussion of what they believe about
+  language in general, or "folk linguistics". Surprising divergences from
+  professional results can be found. For the professional, it is intriguing to
+  f.%
+  }
+  \field{isbn}{9789027298416 9027298416}
+  \field{title}{Handbook of perceptual dialectology}
+  \verb{url}
+  \verb http://public.eblib.com/choice/publicfullrecord.aspx?p=622638
+  \endverb
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Amsterdam; Philadelphia}%
+  }
+  \field{year}{1999}
+  \field{urlday}{11}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{prokic_families_2010}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Prokić}{P.}%
+     {Jelena}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PJ1}
+  \strng{fullhash}{PJ1}
+  \field{labelyear}{2010}
+  \field{sortinit}{P}
+  \field{title}{Families and resemblances}
+  \list{location}{1}{%
+    {Groningen}%
+  }
+  \list{institution}{1}{%
+    {Rijksuniversiteit Groningen}%
+  }
+  \field{type}{Ph.{D}. dissertation}
+  \field{year}{2010}
+\endentry
+
+\entry{prokic_recognizing_2008}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Prokić}{P.}%
+     {Jelena}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PJNJ1}
+  \strng{fullhash}{PJNJ1}
+  \field{labelyear}{2008}
+  \field{sortinit}{P}
+  \field{pages}{153\bibrangedash 171}
+  \field{title}{Recognizing groups among dialects}
+  \field{volume}{2}
+  \field{journaltitle}{International Journal of Humanities and Arts Computing}
+  \field{year}{2008}
+\endentry
+
+\entry{proll_raumvariation_2015}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pröll}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Steiner}%
+  }
+  \strng{namehash}{PS2}
+  \strng{fullhash}{PS2}
+  \field{labelyear}{2015}
+  \field{sortinit}{P}
+  \field{isbn}{9783515110556 3515110550}
+  \field{title}{Raumvariation zwischen {Muster} und {Zufall}. {Geostatistische}
+  {Analysen} am {Beispiel} des {Sprachatlas} von {Bayerisch}-{Schwaben}}
+  \list{location}{1}{%
+    {Stuttgart}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{elmentaler_latente_2015}{incollection}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Pröll}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Spettl}{S.}%
+     {Aaron}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Elmentaler}{E.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hundt}{H.}%
+     {Markus}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Jürgen~Erich}{J.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Steiner}%
+  }
+  \strng{namehash}{PSPSSA1}
+  \strng{fullhash}{PSPSSA1}
+  \field{labelyear}{2015}
+  \field{sortinit}{P}
+  \field{booktitle}{Deutsche {Dialekte} - {Konzepte}, {Probleme},
+  {Handlungsfelder}: {Akten} des 4. {Kongresses} der {Internationalen}
+  {Gesellschaft} für {Dialektologie} des {Deutschen} ({IGDD})}
+  \field{isbn}{9783515109840 3515109846}
+  \field{pages}{247\bibrangedash 258}
+  \field{title}{Latente {Strukturen} in geolinguistischen {Korpora}}
+  \list{location}{1}{%
+    {Stuttgart}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{beeching_prototype-theoretic_2009}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pustka}{P.}%
+     {Elissa}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Beeching}{B.}%
+     {Kate}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Armstrong}{A.}%
+     {Nigel~R.}{N.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gadet}{G.}%
+     {Françoise}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins Pub. Co.}%
+  }
+  \strng{namehash}{PE1}
+  \strng{fullhash}{PE1}
+  \field{labelyear}{2009}
+  \field{sortinit}{P}
+  \field{abstract}{%
+  Divided into three main sections on Phonology, Syntax and Semantics, this new
+  volume on variation in French aims to provide a snapshot of the state of
+  sociolinguistic research inside and outside metropolitan France. From a
+  diatopic perspective, varieties in France, Belgium, Switzerland, Africa and
+  Canada are considered, mainly with respect to phonological features but also
+  focusing on syntactic and lexical evolutions (the relative clause in Ivorian
+  French and discourse markers in Canadian French). The acquisition of
+  stylistic features of French figures in chapters on both first and second
+  lang.%
+  }
+  \field{booktitle}{Sociolinguistic variation in contemporary {French}}
+  \field{isbn}{9789027288998 9027288992 9789027218650 902721865X}
+  \field{pages}{77\bibrangedash 94}
+  \field{title}{A prototype-theoretic model of {Southern} {French}}
+  \verb{url}
+  \verb http://public.eblib.com/choice/publicfullrecord.aspx?p=623120
+  \endverb
+  \list{location}{1}{%
+    {Amsterdam; Philadelphia}%
+  }
+  \field{year}{2009}
+  \field{urlday}{11}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{rosch_natural_1973}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rosch}{R.}%
+     {Eleanor}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RE1}
+  \strng{fullhash}{RE1}
+  \field{labelyear}{1973}
+  \field{sortinit}{R}
+  \field{pages}{328\bibrangedash 350}
+  \field{title}{Natural categories}
+  \field{volume}{4}
+  \field{journaltitle}{Cognitive Psychology}
+  \field{year}{1973}
+\endentry
+
+\entry{shackleton_english-american_2005}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Shackleton}{S.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{labelyear}{2005}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{99\bibrangedash 160}
+  \field{title}{English-{American} Speech Relationships}
+  \field{volume}{33}
+  \field{journaltitle}{Journal of English Linguistics}
+  \field{year}{2005}
+\endentry
+
+\entry{szmrecsanyi_holistic_2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wolk}{W.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SBWC1}
+  \strng{fullhash}{SBWC1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{issn}{1984-6398}
+  \field{number}{2}
+  \field{pages}{561\bibrangedash 592}
+  \field{title}{Holistic corpus-based dialectology}
+  \field{volume}{11}
+  \field{journaltitle}{Revista Brasileira de Linguística Aplicada}
+  \field{year}{2011}
+\endentry
+
+\entry{tabachnick_using_2012}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tabachnick}{T.}%
+     {Barbara~G}{B.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fidell}{F.}%
+     {Linda~S.}{L.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Pearson}%
+  }
+  \strng{namehash}{TBGFLS1}
+  \strng{fullhash}{TBGFLS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{T}
+  \field{isbn}{9781292021317 1292021314}
+  \field{title}{Using multivariate statistics}
+  \list{location}{1}{%
+    {Boston, Munich}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{wieling_bipartite_2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{700\bibrangedash 715}
+  \field{title}{Bipartite spectral graph partitioning for clustering dialect
+  varieties and detecting their linguistic features}
+  \field{volume}{25}
+  \field{journaltitle}{Computer Speech \& Language}
+  \field{year}{2011}
+\endentry
+
+\entry{wieling_advances_2015}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{W}
+  \field{issn}{2333-9683}
+  \field{pages}{243\bibrangedash 264}
+  \field{title}{Advances in {Dialectometry}}
+  \field{volume}{1}
+  \field{journaltitle}{Annual Review of Linguistics}
+  \field{year}{2015}
+\endentry
+
+\entry{wieling_analyzing_2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shackleton}{S.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMSRNJ1}
+  \strng{fullhash}{WMSRNJ1}
+  \field{labelyear}{2013}
+  \field{sortinit}{W}
+  \field{issn}{0268-1145}
+  \field{number}{1}
+  \field{pages}{31\bibrangedash 41}
+  \field{shorttitle}{Analyzing phonetic variation in the traditional {English}
+  dialects}
+  \field{title}{Analyzing phonetic variation in the traditional {English}
+  dialects: {Simultaneously} clustering dialects and phonetic features}
+  \field{volume}{28}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2013}
+\endentry
+
+\entry{wiesinger_einteilung_1983}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wiesinger}{W.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Besch}{B.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knoop}{K.}%
+     {Ulrich}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Putschke}{P.}%
+     {Wolfgang}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wiegand}{W.}%
+     {Herbert~Ernst}{H.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {de Gruyter}%
+  }
+  \strng{namehash}{WP1}
+  \strng{fullhash}{WP1}
+  \field{labelyear}{1983}
+  \field{sortinit}{W}
+  \field{booktitle}{Dialektologie. {Ein} {Handbuch} zur deutschen und
+  allgemeinen {Dialektforschung}. {Zweiter} {Halbband}}
+  \field{pages}{807\bibrangedash 900}
+  \field{title}{Die {Einteilung} der deutschen {Dialekte}}
+  \list{location}{1}{%
+    {Berlin/New York}%
+  }
+  \field{year}{1983}
+\endentry
+
+\entry{zadeh_fuzzy_1965}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Zadeh}{Z.}%
+     {Lotfi~A.}{L.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZLA1}
+  \strng{fullhash}{ZLA1}
+  \field{labelyear}{1965}
+  \field{sortinit}{Z}
+  \field{pages}{338\bibrangedash 353}
+  \field{title}{Fuzzy {Sets}}
+  \field{volume}{8}
+  \field{journaltitle}{Information and Control}
+  \field{year}{1965}
+\endentry
+
+\entry{bayerisches_statistisches_landesamt_einwohnerzahlen_1972}{misc}{}
+  \name{editor}{1}{}{%
+    {{}%
+     {{Bayerisches Statistisches Landesamt}}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {München}%
+  }
+  \strng{namehash}{B1}
+  \strng{fullhash}{B1}
+  \field{labelyear}{1972}
+  \field{sortinit}{Z}
+  \field{booktitle}{Einwohnerzahlen am 31. {Dezember} 1971. {Jährliches}
+  {Ergänzungsheft} zum {Amtlichen} {Gemeindeverzeichnis} für {Bayern}}
+  \field{title}{Einwohnerzahlen am 31. {Dezember} 1971. {Jährliches}
+  {Ergänzungsheft} zum {Amtlichen} {Gemeindeverzeichnis} für {Bayern}}
+  \field{year}{1972}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

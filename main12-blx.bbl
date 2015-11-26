@@ -1,0 +1,547 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{bybee_phonology_2001}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bybee}{B.}%
+     {Joan~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{BJL1}
+  \strng{fullhash}{BJL1}
+  \field{labelyear}{2001}
+  \field{sortinit}{B}
+  \field{isbn}{0511016069 9780511016066 0521583748 9780521583749 9780511612886
+  0511612885}
+  \field{title}{Phonology and language use}
+  \verb{url}
+  \verb http://dx.doi.org/10.1017/CBO9780511612886
+  \endverb
+  \list{location}{1}{%
+    {Cambridge; New York}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{carver_american_1987}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Carver}{C.}%
+     {Craig~M}{C.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Michigan Press}%
+  }
+  \strng{namehash}{CCM1}
+  \strng{fullhash}{CCM1}
+  \field{labelyear}{1987}
+  \field{sortinit}{C}
+  \field{isbn}{0472100769 9780472100767 0472081039 9780472081035}
+  \field{shorttitle}{American regional dialects}
+  \field{title}{American regional dialects: {A} word geography}
+  \list{location}{1}{%
+    {Ann Arbor}%
+  }
+  \field{year}{1987}
+\endentry
+
+\entry{giacomelli_atlante_2000}{book}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Giacomelli}{G.}%
+     {Gabriella}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Agostiniani}{A.}%
+     {Luciano}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bellucci}{B.}%
+     {Patrizia}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Giannelli}{G.}%
+     {Luciano}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nesi}{N.}%
+     {Annalisa}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paoli}{P.}%
+     {Matilde}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Picchi}{P.}%
+     {Eugenio}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poggi~Salani}{P.~S.}%
+     {Teresa}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lexis Progetti}%
+  }
+  \strng{namehash}{GG+1}
+  \strng{fullhash}{GGALBPGLMSNAPMPEPST1}
+  \field{labelyear}{2000}
+  \field{sortinit}{G}
+  \field{title}{Atlante Lessicale Toscano}
+  \list{location}{1}{%
+    {Roma}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{goebl_dialektometrische_1984}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Goebl}{G.}%
+     {Hans}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Niemeyer}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{1984}
+  \field{sortinit}{G}
+  \field{shorttitle}{Dialektometrische {S}tudien}
+  \field{title}{Dialektometrische {S}tudien: {A}nhand italoromanischer,
+  rätoromanischer und galloromanischer {Sprachmaterialien} aus {AIS} und
+  {ALF}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{kretzschmar_scaled_2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Kretzschmar}{K.}%
+     {William~A.}{W.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kretzschmar}{K.}%
+     {Brendan~A.}{B.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brockman}{B.}%
+     {Irene~M.}{I.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KWAKBABIM1}
+  \strng{fullhash}{KWAKBABIM1}
+  \field{labelyear}{2013}
+  \field{sortinit}{K}
+  \field{issn}{0268-1145}
+  \field{number}{1}
+  \field{pages}{173\bibrangedash 187}
+  \field{title}{Scaled measurement of geographic and social speech data}
+  \field{volume}{28}
+  \field{journaltitle}{{LLC}: Journal of Digital Scholarship in the Humanities}
+  \field{year}{2013}
+\endentry
+
+\entry{manning_foundations_1999}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Manning}{M.}%
+     {Christopher~D}{C.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schütze}{S.}%
+     {Hinrich}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The MIT Press}%
+  }
+  \strng{namehash}{MCDSH1}
+  \strng{fullhash}{MCDSH1}
+  \field{labelyear}{1999}
+  \field{sortinit}{M}
+  \field{isbn}{0262133601 9780262133609}
+  \field{title}{Foundations of statistical natural language processing}
+  \list{location}{1}{%
+    {Cambridge, Mass. [etc.]}%
+  }
+  \field{year}{1999}
+\endentry
+
+\entry{montemagni_tracking_2015}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {C\^ote}{C.}%
+     {Marie-H\'el\`ene}{M.-H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knooihuizen}{K.}%
+     {Remco}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{MSWM1}
+  \strng{fullhash}{MSWM1}
+  \field{labelyear}{2015}
+  \field{sortinit}{M}
+  \field{booktitle}{{The Future of Dialects}}
+  \field{title}{{Tracking linguistic features underlying lexical variation
+  patterns: A case study on Tuscan dialects}}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{nerbonne_data-driven_2009}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{N}
+  \field{number}{1}
+  \field{pages}{175\bibrangedash 198}
+  \field{title}{Data-driven dialectology}
+  \field{volume}{3}
+  \field{journaltitle}{Language and Linguistics Compass}
+  \field{year}{2009}
+\endentry
+
+\entry{nerbonne_toward_2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJKP1}
+  \strng{fullhash}{NJKP1}
+  \field{labelyear}{2007}
+  \field{sortinit}{N}
+  \field{number}{2}
+  \field{pages}{148\bibrangedash 166}
+  \field{title}{Toward a Dialectological Yardstick}
+  \field{volume}{14}
+  \field{journaltitle}{Journal of Quantitative Linguistics}
+  \field{year}{2007}
+\endentry
+
+\entry{nerbonne_gabmap_2011}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Colen}{C.}%
+     {Rinke}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leinonen}{L.}%
+     {Therese}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ+1}
+  \strng{fullhash}{NJCRGCKPLT1}
+  \field{labelyear}{2011}
+  \field{sortinit}{N}
+  \field{pages}{65\bibrangedash 89}
+  \field{title}{Gabmap – A web application for dialectology}
+  \verb{url}
+  \verb http://www.gabmap.nl/
+  \endverb
+  \field{volume}{{Special Issue II}}
+  \field{journaltitle}{Dialectologia}
+  \field{year}{2011}
+\endentry
+
+\entry{szmrecsanyi_corpus-based_2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SB1}
+  \strng{fullhash}{SB1}
+  \field{labelyear}{2011}
+  \field{sortinit}{S}
+  \field{number}{1}
+  \field{pages}{45\bibrangedash 76}
+  \field{title}{Corpus-based dialectometry: {A} methodological sketch}
+  \field{volume}{6}
+  \field{journaltitle}{Corpora}
+  \field{year}{2011}
+\endentry
+
+\entry{seguy_relation_1971}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Séguy}{S.}%
+     {Jean}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SJ1}
+  \strng{fullhash}{SJ1}
+  \field{labelyear}{1971}
+  \field{sortinit}{S}
+  \field{number}{138}
+  \field{pages}{335\bibrangedash 357}
+  \field{title}{La relation entre la distance spatiale et la distance lexicale}
+  \field{volume}{35}
+  \field{journaltitle}{Revue de Linguistique Romane}
+  \field{year}{1971}
+\endentry
+
+\entry{chapters/wiel_monte}{incollection}{skipbib}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{WMMS1}
+  \strng{fullhash}{WMMS1}
+  \field{labelyear}{2015}
+  \field{sortinit}{W}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{185\bibrangedash 193}
+  \field{title}{Infrequent forms: Noise or not?}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{wieling_bipartite_2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{700\bibrangedash 715}
+  \field{title}{Bipartite spectral graph partitioning for clustering dialect
+  varieties and detecting their linguistic features}
+  \field{volume}{25}
+  \field{journaltitle}{Computer Speech \& Language}
+  \field{year}{2011}
+\endentry
+
+\entry{wieling_advances_2015}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{W}
+  \field{issn}{2333-9683}
+  \field{pages}{243\bibrangedash 264}
+  \field{title}{Advances in {Dialectometry}}
+  \field{volume}{1}
+  \field{journaltitle}{Annual Review of Linguistics}
+  \field{year}{2015}
+\endentry
+
+\entry{wieling_analyzing_2014}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Upton}{U.}%
+     {Clive}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {Ann}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMUCTA1}
+  \strng{fullhash}{WMUCTA1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{number}{1}
+  \field{pages}{107\bibrangedash 117}
+  \field{title}{Analyzing the {BBC} {Voices} data: {Contemporary} {English}
+  dialect areas and their characteristic lexical variants}
+  \field{volume}{29}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2014}
+\endentry
+
+\entry{wieling_lexical_2014}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montemagni}{M.}%
+     {Simonetta}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baayen}{B.}%
+     {R.~Harald}{R.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WM+1}
+  \strng{fullhash}{WMMSNJBRH1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{669\bibrangedash 692}
+  \field{title}{Lexical Differences between {Tuscan} Dialects and {Standard}
+  {Italian}: {A} Sociolinguistic Analysis using Generalized Additive Mixed
+  Modeling}
+  \field{volume}{90}
+  \field{journaltitle}{Language}
+  \field{year}{2014}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

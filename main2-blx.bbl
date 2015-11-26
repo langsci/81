@@ -1,0 +1,1383 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{auer_role_2005}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{APHF1}
+  \strng{fullhash}{APHF1}
+  \field{labelyear}{2004}
+  \field{sortinit}{A}
+  \field{booktitle}{Dialect change: {C}onvergence and divergence in {European}
+  languages}
+  \field{pages}{335\bibrangedash 357}
+  \field{title}{The role of interpersonal accommodation in a theory of language
+  change}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{auer_dialect_2004}{book}{}
+  \name{editor}{3}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{APHFKP1}
+  \strng{fullhash}{APHFKP1}
+  \field{labelyear}{2004}
+  \field{extrayear}{1}
+  \field{sortinit}{A}
+  \field{booktitle}{Dialect change: {C}onvergence and divergence in {European}
+  languages}
+  \field{isbn}{0521806879 9780521806879}
+  \field{shorttitle}{Dialect change}
+  \field{title}{Dialect change: {C}onvergence and divergence in {European}
+  languages}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{auer_study_2004}{incollection}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{APHFKP1}
+  \strng{fullhash}{APHFKP1}
+  \field{labelyear}{2004}
+  \field{extrayear}{2}
+  \field{sortinit}{A}
+  \field{booktitle}{Dialect change: {C}onvergence and divergence in {European}
+  languages}
+  \field{pages}{1\bibrangedash 51}
+  \field{title}{The study of dialect convergence and divergence: {C}onceptual
+  and methodological considerations}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{bailey_apparent_1991}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Bailey}{B.}%
+     {Guy}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wikle}{W.}%
+     {Tom}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tillery}{T.}%
+     {Jan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sand}{S.}%
+     {Lori}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BG+1}
+  \strng{fullhash}{BGWTTJSL1}
+  \field{labelyear}{1991}
+  \field{sortinit}{B}
+  \field{issn}{0954-3945}
+  \field{number}{3}
+  \field{pages}{241\bibrangedash 264}
+  \field{title}{The apparent time construct}
+  \field{volume}{3}
+  \field{journaltitle}{Language Variation and Change}
+  \field{year}{1991}
+\endentry
+
+\entry{berruto_fondamenti_1995}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Berruto}{B.}%
+     {Gaetano}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Laterza}%
+  }
+  \strng{namehash}{BG1}
+  \strng{fullhash}{BG1}
+  \field{labelyear}{1995}
+  \field{sortinit}{B}
+  \field{isbn}{8842045713 9788842045717}
+  \field{title}{Fondamenti di sociolinguistica}
+  \list{location}{1}{%
+    {Roma / Bari}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{bouchard_langue_1998}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bouchard}{B.}%
+     {Chantal}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Fides}%
+  }
+  \strng{namehash}{BC1}
+  \strng{fullhash}{BC1}
+  \field{labelyear}{{1998 [2002]}}
+  \field{sortinit}{B}
+  \field{edition}{2}
+  \field{isbn}{2762120101 9782762120103}
+  \field{series}{Nouvelles études québecoises}
+  \field{shorttitle}{La langue et le nombril}
+  \field{title}{La langue et le nombril: {H}istoire d'une obsession
+  québécoise}
+  \list{location}{1}{%
+    {Montréal}%
+  }
+  \field{year}{{1998 [2002]}}
+\endentry
+
+\entry{budzhak-jones_variable_1994}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Budzhak-Jones}{B.-J.}%
+     {Svitlana}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJS1}
+  \strng{fullhash}{BJS1}
+  \field{labelyear}{1994}
+  \field{sortinit}{B}
+  \field{number}{3}
+  \field{pages}{202\bibrangedash 211}
+  \field{title}{Variable rule analysis of {V}/{U} alternation constraints in
+  {Canadian} {Ukrainian}}
+  \field{volume}{1}
+  \field{journaltitle}{Journal of Quantitative Linguistics}
+  \field{year}{1994}
+\endentry
+
+\entry{cacoullos_testing_2010}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Cacoullos}{C.}%
+     {Rena}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Travis}{T.}%
+     {Catherine}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CRTC1}
+  \strng{fullhash}{CRTC1}
+  \field{labelyear}{2010}
+  \field{sortinit}{C}
+  \field{number}{3}
+  \field{pages}{241\bibrangedash 267}
+  \field{title}{Testing convergence via code-switching: {P}riming and the
+  structure of variable subject expression}
+  \field{volume}{15}
+  \field{journaltitle}{International Journal of Bilingualism}
+  \field{year}{2010}
+\endentry
+
+\entry{chambers_dialectology_1998}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Chambers}{C.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CJTP1}
+  \strng{fullhash}{CJTP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{edition}{1}
+  \field{title}{Dialectology}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{chumak-horbatsch_language_1987}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chumak-Horbatsch}{C.-H.}%
+     {Roma}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CHR1}
+  \strng{fullhash}{CHR1}
+  \field{labelyear}{1987}
+  \field{sortinit}{C}
+  \field{pages}{99\bibrangedash 118}
+  \field{title}{Language use in the {Ukrainian} home: {A} {Toronto} sample}
+  \field{volume}{63}
+  \field{journaltitle}{International Journal of the Sociology of Language}
+  \field{year}{1987}
+\endentry
+
+\entry{coursen_it_1846}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Coursen}{C.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Brady}%
+  }
+  \strng{namehash}{CC1}
+  \strng{fullhash}{CC1}
+  \field{labelyear}{1846}
+  \field{sortinit}{C}
+  \field{shorttitle}{It blows, it snows}
+  \field{title}{It blows, it snows: {A} winter's rambles through {Canada}.}
+  \list{location}{1}{%
+    {Dublin}%
+  }
+  \field{year}{1846}
+\endentry
+
+\entry{cummins_lifting_1990}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Cummins}{C.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Danesi}{D.}%
+     {Marcel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CJDM1}
+  \strng{fullhash}{CJDM1}
+  \field{labelyear}{1990}
+  \field{sortinit}{C}
+  \field{number}{Heritage Languages}
+  \field{pages}{\biberror{no pages}}
+  \field{title}{Lifting the multicultural veil}
+  \field{volume}{{Special Issue: Heritage Languages}}
+  \field{journaltitle}{Our Schools/Our Selves}
+  \field{year}{1990}
+\endentry
+
+\entry{danesi_canadian_1983}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Danesi}{D.}%
+     {Marcel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DM1}
+  \strng{fullhash}{DM1}
+  \field{labelyear}{1983}
+  \field{sortinit}{D}
+  \field{number}{8}
+  \field{pages}{99\bibrangedash 105}
+  \field{title}{Canadian {Italian} as a Marker of Ethnicity}
+  \verb{url}
+  \verb http://www.tgmag.ca/magic/mt84.html
+  \endverb
+  \field{volume}{7}
+  \field{journaltitle}{NEMLA Italian Studies}
+  \field{year}{1983}
+\endentry
+
+\entry{danesi_canadian_1984}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Danesi}{D.}%
+     {Marcel}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DM1}
+  \strng{fullhash}{DM1}
+  \field{labelyear}{1984}
+  \field{sortinit}{D}
+  \field{pages}{110\bibrangedash 113}
+  \field{title}{Canadian {Italian}: {A} Case in point of how language adapts to
+  environment}
+  \field{volume}{7}
+  \field{journaltitle}{Polyphony}
+  \field{year}{1984}
+\endentry
+
+\entry{foley_personhood_2005}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Foley}{F.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Austin}{A.}%
+     {P.~K.}{P.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {SOAS}%
+  }
+  \strng{namehash}{FW1}
+  \strng{fullhash}{FW1}
+  \field{labelyear}{2005}
+  \field{sortinit}{F}
+  \field{booktitle}{Language Documentation and Description}
+  \field{pages}{157\bibrangedash 180}
+  \field{title}{Personhood and linguistic identity, purism and variation}
+  \verb{url}
+  \verb http://www.elpublishing.org/PID/040
+  \endverb
+  \field{volume}{3}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{2005}
+  \field{urlday}{17}
+  \field{urlmonth}{04}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{giovanardi_inglese_2003}{book}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Giovanardi}{G.}%
+     {Claudio}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gualdo}{G.}%
+     {Riccardo}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Coco}{C.}%
+     {Alessandra}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Manni}%
+  }
+  \strng{namehash}{GCGRCA1}
+  \strng{fullhash}{GCGRCA1}
+  \field{labelyear}{2003}
+  \field{sortinit}{G}
+  \field{isbn}{8881764385 9788881764389}
+  \field{shorttitle}{Inglese - italiano 1 a 1}
+  \field{title}{Inglese - italiano 1 a 1: {T}radurre o non tradurre le parole
+  inglesi?}
+  \list{location}{1}{%
+    {San Cesario di Lecce (Lecce)}%
+  }
+  \field{year}{2003}
+\endentry
+
+\entry{hudyma_ukrainian_2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hudyma}{H.}%
+     {Khrystyna}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HK1}
+  \strng{fullhash}{HK1}
+  \field{labelyear}{2011}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{pages}{181\bibrangedash 189}
+  \field{title}{Ukrainian language in {Canada}: {From} prosperity to
+  extinction?}
+  \verb{url}
+  \verb http://journals.uvic.ca/index.php/WPLC/article/view/5817
+  \endverb
+  \field{volume}{21}
+  \field{journaltitle}{Working Papers of the Linguistics Circle of the
+  University of Victoria}
+  \field{year}{2011}
+  \field{urlday}{01}
+  \field{urlmonth}{12}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{kang_vot_2013}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kang}{K.}%
+     {Yoonjung}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KYNN1}
+  \strng{fullhash}{KYNN1}
+  \field{labelyear}{2013}
+  \field{sortinit}{K}
+  \field{pages}{\biberror{no pages}}
+  \field{title}{{VOT} merger in {Heritage} {Korean} in {Toronto}}
+  \verb{url}
+  \verb http://homes.chass.utoronto.ca/%7Ecla-acl/actes2012/actes2012.html/Kang
+  \verb _Nagy_2012.pdf
+  \endverb
+  \field{volume}{\biberror{no volume}}
+  \field{journaltitle}{Proceedings of the Canadian Linguistics Association
+  2012}
+  \field{year}{2013}
+\endentry
+
+\entry{auer_birth_2004}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hinskens}{H.}%
+     {Frans}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{KPTP1}
+  \strng{fullhash}{KPTP1}
+  \field{labelyear}{2004}
+  \field{sortinit}{K}
+  \field{booktitle}{Dialect change: {C}onvergence and divergence in {European}
+  languages}
+  \field{isbn}{0521806879 9780521806879}
+  \field{pages}{196\bibrangedash 220}
+  \field{title}{The birth of new dialects}
+  \list{location}{1}{%
+    {Cambridge, UK; New York}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{labov_sociolinguistic_1972}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Philadelphia Press}%
+  }
+  \strng{namehash}{LW1}
+  \strng{fullhash}{LW1}
+  \field{labelyear}{1972}
+  \field{sortinit}{L}
+  \field{title}{Sociolinguistic patterns}
+  \list{location}{1}{%
+    {Philadelphia}%
+  }
+  \field{year}{1972}
+\endentry
+
+\entry{labov_field_1984}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Baugh}{B.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scherzer}{S.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Prentice Hall}%
+  }
+  \strng{namehash}{LW1}
+  \strng{fullhash}{LW1}
+  \field{labelyear}{1984}
+  \field{sortinit}{L}
+  \field{booktitle}{Language in Use: {Readings} in Sociolinguistics}
+  \field{pages}{28\bibrangedash 53}
+  \field{title}{Field methods of the project on linguistic change and
+  variation}
+  \list{location}{1}{%
+    {Englewood Cliffs, NJ}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{labov_principles_2001}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Blackwell}%
+  }
+  \strng{namehash}{LW1}
+  \strng{fullhash}{LW1}
+  \field{labelyear}{2001}
+  \field{sortinit}{L}
+  \field{isbn}{0631179151 9780631179153 063117916X 9780631179160}
+  \field{title}{Principles of linguistic change {Vol}. 2: {Social} Factors}
+  \field{volume}{2}
+  \list{location}{1}{%
+    {Oxford [etc.]}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{labov_transmission_2007}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LW1}
+  \strng{fullhash}{LW1}
+  \field{labelyear}{2007}
+  \field{sortinit}{L}
+  \field{issn}{0097-8507}
+  \field{number}{2}
+  \field{pages}{344\bibrangedash 387}
+  \field{title}{Transmission and Diffusion}
+  \field{volume}{83}
+  \field{journaltitle}{Language}
+  \field{year}{2007}
+\endentry
+
+\entry{language_factory_canadian_2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Language Factory}}{L.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{L1}
+  \strng{fullhash}{L1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{title}{Canadian dialects of {European} languages}
+  \verb{url}
+  \verb http://www.thelanguagefactory.co.uk/canadian-dialects-european-language
+  \verb s/
+  \endverb
+  \field{year}{2013}
+  \field{urlday}{10}
+  \field{urlmonth}{10}
+  \field{urlyear}{2013}
+\endentry
+
+\entry{meyerhoff_linguistic_2006}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Meyerhoff}{M.}%
+     {Miriam}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MM1}
+  \strng{fullhash}{MM1}
+  \field{labelyear}{2006}
+  \field{sortinit}{M}
+  \field{issn}{1360-6743}
+  \field{number}{1}
+  \field{pages}{173\bibrangedash 194}
+  \field{shorttitle}{Linguistic change, sociohistorical context, and
+  theory-building in variationist linguistics}
+  \field{title}{Linguistic change, sociohistorical context, and theory-building
+  in variationist linguistics: {N}ew-dialect formation in {New} {Zealand}}
+  \field{volume}{10}
+  \field{journaltitle}{English Language and Linguistics}
+  \field{year}{2006}
+\endentry
+
+\entry{nagy_language_1996}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NN1}
+  \strng{fullhash}{NN1}
+  \field{labelyear}{1996}
+  \field{sortinit}{N}
+  \field{title}{Language contact and language change in the {Faetar} speech
+  community}
+  \list{institution}{1}{%
+    {University of Pennsylvania}%
+  }
+  \field{type}{{PhD} dissertation}
+  \field{year}{1996}
+\endentry
+
+\entry{nagy_multilingual_2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NN1}
+  \strng{fullhash}{NN1}
+  \field{labelyear}{2011}
+  \field{sortinit}{N}
+  \field{number}{1-2}
+  \field{pages}{65\bibrangedash 84}
+  \field{title}{A multilingual corpus to explore geographic variation}
+  \field{volume}{43}
+  \field{journaltitle}{Rassegna Italiana di Linguistica Applicata}
+  \field{year}{2011}
+\endentry
+
+\entry{nagy_sociolinguistic_2014}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NN1}
+  \strng{fullhash}{NN1}
+  \field{labelyear}{2014}
+  \field{sortinit}{N}
+  \field{number}{2}
+  \field{pages}{\biberror{no pages}}
+  \field{title}{A sociolinguistic view of null subjects and {VOT} in {Toronto}
+  heritage languages}
+  \verb{url}
+  \verb doi:10.1016/j.lingua.2014.04.012
+  \endverb
+  \field{volume}{\biberror{no volume}}
+  \field{journaltitle}{Lingua}
+  \field{year}{2014}
+\endentry
+
+\entry{chapters/nagy}{incollection}{skipbib}
+  \name{author}{1}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{NN1}
+  \strng{fullhash}{NN1}
+  \field{labelyear}{2015}
+  \field{sortinit}{N}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{13\bibrangedash 30}
+  \field{title}{Heritage Languages as New Dialects}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{nagy_older_2014}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iannozzi}{I.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NNIM1}
+  \strng{fullhash}{NNIM1}
+  \field{labelyear}{2014}
+  \field{sortinit}{N}
+  \field{title}{Older speakers use more null subjects, but is the variable
+  stable? {Accounting} for contrasting reports of contact effects}
+  \list{location}{1}{%
+    {Chicago}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{nagy_vot_2013}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kochetov}{K.}%
+     {Alexei}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Siemund}{S.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gogolin}{G.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schulz}{S.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Davydova}{D.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{NNKA1}
+  \strng{fullhash}{NNKA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{N}
+  \field{booktitle}{Multilingualism and language contact in urban areas:
+  {Acquisition} - {Development} - {Teaching} - {Communication}}
+  \field{pages}{19\bibrangedash 38}
+  \field{title}{{VOT} across the generations: {A} cross-linguistic study of
+  contact-induced change}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{nagy_love_2008}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meyerhoff}{M.}%
+     {Miriam}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NNMM1}
+  \strng{fullhash}{NNMM1}
+  \field{labelyear}{2008}
+  \field{sortinit}{N}
+  \field{title}{The love that dare not speak its name--{The} fascination with
+  monolingual speech communities in sociolinguistics}
+  \verb{url}
+  \verb http://projects.chass.utoronto.ca/ngn/pdf/NN&MM_monolingual_poster.pdf
+  \endverb
+  \list{location}{1}{%
+    {Houston}%
+  }
+  \field{type}{Poster}
+  \field{year}{2008}
+\endentry
+
+\entry{nagy_extending_2015}{unpublished}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meyerhoff}{M.}%
+     {Miriam}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NNMM1}
+  \strng{fullhash}{NNMM1}
+  \field{labelyear}{2015}
+  \field{sortinit}{N}
+  \field{title}{Extending {ELAN} into {Variationist} {Sociolinguistics}
+  (description and tutorial)}
+  \verb{url}
+  \verb http://projects.chass.utoronto.ca/ngn/pdf/Extending%20ELAN_NN&MM_310320
+  \verb 15.pdf
+  \endverb
+  \field{year}{2015}
+\endentry
+
+\entry{schneider_dynamics_2003}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schneider}{S.}%
+     {Edgar~W.}{E.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SEW1}
+  \strng{fullhash}{SEW1}
+  \field{labelyear}{2003}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{233\bibrangedash 281}
+  \field{title}{The dynamics of {New} {Englishes}: {From} identity construction
+  to dialect birth}
+  \field{volume}{79}
+  \field{journaltitle}{Language}
+  \field{year}{2003}
+\endentry
+
+\entry{schneider_postcolonial_2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schneider}{S.}%
+     {Edgar~W.}{E.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge Press}%
+  }
+  \strng{namehash}{SEW1}
+  \strng{fullhash}{SEW1}
+  \field{labelyear}{2007}
+  \field{sortinit}{S}
+  \field{title}{Postcolonial {English}: {Varieties} around the world}
+  \list{location}{1}{%
+    {New York}%
+  }
+  \field{year}{2007}
+\endentry
+
+\entry{struk_between_2000}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Struk}{S.}%
+     {Danylo}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Koscharsky}{K.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Nova Science Publishers}%
+  }
+  \strng{namehash}{SD1}
+  \strng{fullhash}{SD1}
+  \field{labelyear}{2000}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of the {Third} {Conference} of the {Ukrainian}
+  {Studies} {Association} of {Australia}, in association with the {Shevchenko}
+  {Scientific} {Society} in {Australia}, {Macquarie} {University}, 3–5 {July}
+  1998}
+  \field{pages}{67\bibrangedash 74}
+  \field{title}{Between {Ukish} and Oblivion: {The} {Ukrainian} Language in
+  {Canada} Today. {First} Wave Emigrants: {The} First Fifty Years of
+  {Ukrainian} Settlement in {Australia}.}
+  \list{location}{1}{%
+    {Huntington, NY}%
+  }
+  \field{year}{2000}
+\endentry
+
+\entry{tagliamonte_analysing_2006}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tagliamonte}{T.}%
+     {Sali}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{TS1}
+  \strng{fullhash}{TS1}
+  \field{labelyear}{2006}
+  \field{sortinit}{T}
+  \field{isbn}{0521771153 9780521771153 0521778182 9780521778183}
+  \field{title}{Analysing sociolinguistic variation}
+  \list{location}{1}{%
+    {Cambridge [etc.]}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{thomason_language_2001}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Thomason}{T.}%
+     {Sarah~Grey}{S.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Georgetown University Press}%
+  }
+  \strng{namehash}{TSG1}
+  \strng{fullhash}{TSG1}
+  \field{labelyear}{2001}
+  \field{sortinit}{T}
+  \field{isbn}{0748607196 9780748607198}
+  \field{title}{Language contact}
+  \list{location}{1}{%
+    {Washington D.C.}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{thomason_language_1988}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Thomason}{T.}%
+     {Sarah~Grey}{S.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaufman}{K.}%
+     {Terrence}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of California Press}%
+  }
+  \keyw{borrowing scale}
+  \strng{namehash}{TSGKT1}
+  \strng{fullhash}{TSGKT1}
+  \field{labelyear}{1988}
+  \field{sortinit}{T}
+  \field{title}{Language contact, creolization, and genetic linguistics}
+  \list{location}{1}{%
+    {Berkeley}%
+  }
+  \field{year}{1988}
+\endentry
+
+\entry{trudgill_dialects_1986}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Blackwell}%
+  }
+  \strng{namehash}{TP1}
+  \strng{fullhash}{TP1}
+  \field{labelyear}{1986}
+  \field{sortinit}{T}
+  \field{title}{Dialects in contact}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1986}
+\endentry
+
+\entry{trudgill_new-dialect_2004}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Edinburgh University Press}%
+  }
+  \strng{namehash}{TP1}
+  \strng{fullhash}{TP1}
+  \field{labelyear}{2004}
+  \field{sortinit}{T}
+  \field{title}{New-dialect formation. The inevitability of colonial
+  {Englishes}}
+  \list{location}{1}{%
+    {Edinburgh}%
+  }
+  \field{year}{2004}
+\endentry
+
+\entry{tse_exploring_2014}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tse}{T.}%
+     {Holman}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nagy}{N.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{THNN1}
+  \strng{fullhash}{THNN1}
+  \field{labelyear}{2014}
+  \field{sortinit}{T}
+  \field{title}{Exploring automated formant analysis for variationist study of
+  {Heritage} {Cantonese}}
+  \list{location}{1}{%
+    {Toronto}%
+  }
+  \field{month}{06}
+  \field{year}{2014}
+\endentry
+
+\entry{van_herk_undergraduate-conducted_2015}{misc}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Van~Herk}{V.~H.}%
+     {Gerard}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {DeDecker}{D.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thorburn}{T.}%
+     {Jennifer}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{VHGDPTJ1}
+  \strng{fullhash}{VHGDPTJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{V}
+  \field{title}{Undergraduate-conducted surveys: {Balancing} learning and data
+  collection.}
+  \list{location}{1}{%
+    {Groningen}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{walker_variation_2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Walker}{W.}%
+     {James~A}{J.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Routledge}%
+  }
+  \strng{namehash}{WJA1}
+  \strng{fullhash}{WJA1}
+  \field{labelyear}{2010}
+  \field{sortinit}{W}
+  \field{isbn}{041599067X 9780415990677 0415990688 9780415990684 9780203854204
+  0203854209}
+  \field{title}{Variation in linguistic systems}
+  \list{location}{1}{%
+    {New York [etc.]}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{statistics_canada_mother_2014}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Statistics Canada}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{labelyear}{2014}
+  \field{sortinit}{Z}
+  \field{title}{Mother tongue of person}
+  \verb{url}
+  \verb http://www.statcan.gc.ca/concepts/ definitions/language-langue01-eng.ht
+  \verb m
+  \endverb
+  \field{year}{2014}
+  \field{urlday}{27}
+  \field{urlmonth}{04}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{statistics_canada_census_2011}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Statistics Canada}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{labelyear}{2011}
+  \field{extrayear}{1}
+  \field{sortinit}{Z}
+  \field{title}{Census profile}
+  \verb{url}
+  \verb http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/index.cfm
+  \verb ?Lang=E
+  \endverb
+  \field{year}{2011}
+  \field{urlday}{20}
+  \field{urlmonth}{11}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{statistics_canada_2011_2011}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Statistics Canada}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{labelyear}{2011}
+  \field{extrayear}{2}
+  \field{sortinit}{Z}
+  \field{title}{2011 Census Highlights: {Factsheet} 6}
+  \verb{url}
+  \verb http://www.fin.gov.on.ca/en/ economy/demographics/census/cenhi11-6.html
+  \endverb
+  \field{year}{2011}
+  \field{urlday}{20}
+  \field{urlmonth}{11}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{wikipedia_canadian_2014}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Wikipedia}}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{labelyear}{2014}
+  \field{sortinit}{Z}
+  \field{title}{Candian {Ukranian}}
+  \verb{url}
+  \verb http://en.wikipedia.org/wiki/Canadian_Ukrainian
+  \endverb
+  \field{year}{2014}
+  \field{urlday}{01}
+  \field{urlmonth}{01}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{istat_istituto_nazionale_di_statistica_lingua_2007}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{ISTAT (Istituto Nazionale di Statistica)}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I1}
+  \strng{fullhash}{I1}
+  \field{labelyear}{2007}
+  \field{sortinit}{Z}
+  \field{title}{La lingua italiana, i dialetti e le linge straniere (2006).}
+  \verb{url}
+  \verb http://www.istat.it/salastampa/communicati/non_calendario/20070420_00/
+  \endverb
+  \field{year}{2007}
+  \field{urlday}{01}
+  \field{urlmonth}{05}
+  \field{urlyear}{2010}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

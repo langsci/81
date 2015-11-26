@@ -1,0 +1,515 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{auer_auswirkungen_2015}{incollection}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Breuninger}{B.}%
+     {Julia}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Huck}{H.}%
+     {Dominique}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pfeiffer}{P.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kehrein}{K.}%
+     {Roland}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Kehrein}{K.}%
+     {Roland}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {De Gruyter}%
+  }
+  \strng{namehash}{AP+1}
+  \strng{fullhash}{APBJHDPMKR1}
+  \field{labelyear}{2015}
+  \field{sortinit}{A}
+  \field{booktitle}{[{Untitled}]}
+  \field{pages}{\biberror{no pages}}
+  \field{title}{Auswirkungen der {Staatsgrenze} auf die {Sprachsituation} im
+  {Oberrheingebiet} ({Frontière} linguistique au {Rhin} {Supérieur},
+  {FLARS})}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{bellmann_mittelrheinischer_????}{misc}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Bellmann}{B.}%
+     {Günter}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Herrgen}{H.}%
+     {Joachim}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Jürgen~Erich}{J.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BGHJSJE1}
+  \strng{fullhash}{BGHJSJE1}
+  \field{sortinit}{B}
+  \field{title}{Mittelrheinischer {Sprachatlas}}
+  \verb{url}
+  \verb http://www.igl.uni-mainz.de/forschung/dialektforschung/mittelrheinische
+  \verb r-sprachatlas.html
+  \endverb
+  \field{urlday}{20}
+  \field{urlmonth}{05}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{gluck_metzler_2005}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Glück}{G.}%
+     {Helmut}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Metzler}%
+  }
+  \strng{namehash}{GH1}
+  \strng{fullhash}{GH1}
+  \field{labelyear}{2005}
+  \field{sortinit}{G}
+  \field{isbn}{3476009378 9783476009371}
+  \field{title}{Metzler {Lexikon} {Sprache}}
+  \list{location}{1}{%
+    {Stuttgart; Weimar}%
+  }
+  \field{year}{2005}
+\endentry
+
+\entry{hotzenkocherle_einfuhrung_1962}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hotzenköcherle}{H.}%
+     {Rudolf}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Franke}%
+  }
+  \strng{namehash}{HR1}
+  \strng{fullhash}{HR1}
+  \field{labelyear}{1962}
+  \field{sortinit}{H}
+  \field{title}{Einführung in den {Sprachatlas} der {Deutschen} {Schweiz}.
+  {A}: {Zur} {Methodologie} der {Kleinraumatlanten}}
+  \list{location}{1}{%
+    {Bern}%
+  }
+  \field{year}{1962}
+\endentry
+
+\entry{kerswill_limits_1990}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kerswill}{K.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wright}{W.}%
+     {Susan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KPWS1}
+  \strng{fullhash}{KPWS1}
+  \field{labelyear}{1990}
+  \field{sortinit}{K}
+  \field{pages}{255\bibrangedash 275}
+  \field{title}{On the limits of auditory description: {A} sociophonetic
+  perpective}
+  \field{volume}{2}
+  \field{journaltitle}{Language Variation and Change}
+  \field{year}{1990}
+\endentry
+
+\entry{klepsch_sprachatlas_2013}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klepsch}{K.}%
+     {Alfred}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Winter}%
+  }
+  \strng{namehash}{KA1}
+  \strng{fullhash}{KA1}
+  \field{labelyear}{2013}
+  \field{extrayear}{1}
+  \field{sortinit}{K}
+  \field{shorttitle}{{SMF}1}
+  \field{title}{Sprachatlas von {Mittelfranken}. {Bd}. 1: {Einführung}}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{klepsch_wie_2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Klepsch}{K.}%
+     {Alfred}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Munske}{M.}%
+     {Horst~Haider}{H.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mathussek}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universitätsverlag Winter}%
+  }
+  \strng{namehash}{KA1}
+  \strng{fullhash}{KA1}
+  \field{labelyear}{2013}
+  \field{extrayear}{2}
+  \field{sortinit}{K}
+  \field{booktitle}{Handbuch zum {Sprachatlas} von {Mittelfranken}:
+  {Dokumentation} und {Auswertung}}
+  \field{pages}{19\bibrangedash 38}
+  \field{title}{Wie entstand der {Sprachatlas} von {Mittelfranken}? {Planung},
+  {Exploration} und {Publikation}}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{konig_sprachatlas_1997}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {König}{K.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Winter}%
+  }
+  \strng{namehash}{KW1}
+  \strng{fullhash}{KW1}
+  \field{labelyear}{1997}
+  \field{sortinit}{K}
+  \field{shorttitle}{{SBS} 1}
+  \field{title}{Sprachatlas von {Bayerisch}-{Schwaben}. {Bd}. 1: {Einführung}}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{konig_investigating_2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {König}{K.}%
+     {Werner}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Auer}{A.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmidt}{S.}%
+     {Jürgen~Erich}{J.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {De Gruyter}%
+  }
+  \strng{namehash}{KW1}
+  \strng{fullhash}{KW1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{booktitle}{Language and Space. {An} International Handbook of
+  Linguistic Variation. {Vol}. 1: {Theories} and Methods}
+  \field{pages}{494\bibrangedash 511}
+  \field{title}{Investigating language in space: {Methods} and empirical
+  standards}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Berlin / New York}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{mathussek_sprachraume_2014}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mathussek}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Winter}%
+  }
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{labelyear}{2014}
+  \field{sortinit}{M}
+  \field{shorttitle}{Sprachräume und {Sprachgrenzen} im {Untersuchungsgebiet}
+  des {Sprachatlas} von {Mittelfranken}}
+  \field{title}{Sprachräume und {Sprachgrenzen} im {Untersuchungsgebiet} des
+  {Sprachatlas} von {Mittelfranken}: {T}raditionelle {Dialektgeographie} -
+  {Wahrnehmungsdialektologie} - {Dialektometrie}}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{chapters/mathus}{incollection}{skipbib}
+  \name{author}{1}{}{%
+    {{}%
+     {Mathussek}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{labelyear}{2015}
+  \field{sortinit}{M}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{83\bibrangedash 99}
+  \field{title}{On the problem of field worker isoglosses}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{munske_zur_2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Munske}{M.}%
+     {Horst~Haider}{H.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Munske}{M.}%
+     {Horst~Haider}{H.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mathussek}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universitätsverlag Winter}%
+  }
+  \strng{namehash}{MHH1}
+  \strng{fullhash}{MHH1}
+  \field{labelyear}{2013}
+  \field{sortinit}{M}
+  \field{booktitle}{Handbuch zum {Sprachatlas} von {Mittelfranken}:
+  {Dokumentation} und {Auswertung}}
+  \field{pages}{11\bibrangedash 19}
+  \field{title}{Zur {Geschichte} des {Sprachatlas} von {Mittelfranken}}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{nerbonne_gabmap_2011}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Colen}{C.}%
+     {Rinke}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leinonen}{L.}%
+     {Therese}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ+1}
+  \strng{fullhash}{NJCRGCKPLT1}
+  \field{labelyear}{2011}
+  \field{sortinit}{N}
+  \field{pages}{65\bibrangedash 89}
+  \field{title}{Gabmap – A web application for dialectology}
+  \verb{url}
+  \verb http://www.gabmap.nl/
+  \endverb
+  \field{volume}{{Special Issue II}}
+  \field{journaltitle}{Dialectologia}
+  \field{year}{2011}
+\endentry
+
+\entry{ogura_isoglosses_1992}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ogura}{O.}%
+     {Mieko}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wang}{W.}%
+     {W.~S.-Y.}{W.~S.-Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Brogyanyi}{B.}%
+     {Bela}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {John Benjamins}%
+  }
+  \strng{namehash}{OMWWSY1}
+  \strng{fullhash}{OMWWSY1}
+  \field{labelyear}{1992}
+  \field{sortinit}{O}
+  \field{booktitle}{Prehistory, History and Histography of Language, Speech,
+  and Linguistic Theory}
+  \field{pages}{153\bibrangedash 181}
+  \field{title}{Isoglosses – {Artificial} or real?}
+  \list{location}{1}{%
+    {Amsterdam / Philadelphia}%
+  }
+  \field{year}{1992}
+\endentry
+
+\entry{reichel_elektronische_2013}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Reichel}{R.}%
+     {Sibylle}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Munske}{M.}%
+     {Horst~Haider}{H.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mathussek}{M.}%
+     {Andrea}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Universitätsverlag Winter}%
+  }
+  \strng{namehash}{RS1}
+  \strng{fullhash}{RS1}
+  \field{labelyear}{2013}
+  \field{sortinit}{R}
+  \field{booktitle}{Handbuch zum {Sprachatlas} von {Mittelfranken}:
+  {Dokumentation} und {Auswertung}}
+  \field{pages}{38\bibrangedash 51}
+  \field{title}{Die elektronische {Datenverarbeitung} im {Sprachatlas} von
+  {Mittelfranken}. {Von} den {Daten} zur {Sprachkarte}}
+  \list{location}{1}{%
+    {Heidelberg}%
+  }
+  \field{year}{2013}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
