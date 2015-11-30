@@ -16,3 +16,59 @@
 \usepackage{adjustbox}
 \usepackage{array}
 \usepackage{dcolumn}
+
+\usetikzlibrary{fit}
+\usetikzlibrary{positioning}
+\usetikzlibrary{backgrounds}
+\usetikzlibrary{arrows}
+\usetikzlibrary{decorations.markings}
+\tikzset{%
+	vecOpenArrowRed/.style={
+		thick,
+		red,
+		decoration={
+			markings,
+			mark=at position 1 with {\arrow[semithick,red]{open triangle 60}}
+		},
+		double distance=1.4pt,
+		shorten >= 5.5pt,
+		preaction = {
+			decorate
+		},
+		postaction = {
+			draw,
+			line width=1.4pt,
+			white,
+			shorten >= 4.5pt
+		}%
+	},
+	vecArrowOlive/.style={
+		thick,
+		red,
+		decoration={
+			markings,
+			mark=at position 1 with {\arrow[semithick,olive!40!]{triangle 60}}
+		},
+		double distance=1.4pt,
+		shorten >= 5.5pt,
+		preaction = {
+			decorate
+		},
+		postaction = {
+			draw,
+			line width=1.4pt,
+			white,
+			shorten >= 4.5pt
+		}%	
+	},
+	innerOlive/.style={
+		semithick,
+		olive!40!,
+		line width=1.4pt,
+		shorten >= 4.5pt
+	}%
+}
+
+\usepackage{graphicx}
+
+\usepackage{subcaption}
