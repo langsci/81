@@ -16,71 +16,614 @@
   {}
 \endgroup
 
-\entry{abercrombie_problems_1956}{book}{}
+\entry{allbritten_sounding_2011}{thesis}{}
   \name{author}{1}{}{%
     {{}%
-     {Abercrombie}{A.}%
-     {David}{D.}%
+     {Allbritten}{A.}%
+     {Rachael}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AR1}
+  \strng{fullhash}{AR1}
+  \field{labelyear}{2011}
+  \field{sortinit}{A}
+  \field{title}{Sounding {Southern}: {Phonetic} features and dialect
+  perceptions}
+  \list{location}{1}{%
+    {Washington, D.C.}%
+  }
+  \list{institution}{1}{%
+    {Georgetown University}%
+  }
+  \field{type}{{PhD} dissertation}
+  \field{year}{2011}
+\endentry
+
+\entry{van_bezooijen_identification_1999}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Bezooijen}{B.}%
+     {Renée}{R.}%
+     {van}{v.}%
+     {}{}}%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BRvGC1}
+  \strng{fullhash}{BRvGC1}
+  \field{labelyear}{1999}
+  \field{sortinit}{B}
+  \field{issn}{0261-927X}
+  \field{number}{1}
+  \field{pages}{31\bibrangedash 48}
+  \field{shorttitle}{Identification of {Language} {Varieties}}
+  \field{title}{Identification of {Language} {Varieties}: {The} {Contribution}
+  of {Different} {Linguistic} {Levels}}
+  \field{volume}{18}
+  \field{journaltitle}{Journal of Language and Social Psychology}
+  \field{year}{1999}
+\endentry
+
+\entry{bivand_creating_2014}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bivand}{B.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BR1}
+  \strng{fullhash}{BR1}
+  \field{labelyear}{2014}
+  \field{extrayear}{1}
+  \field{sortinit}{B}
+  \field{title}{Creating neighbours. {S}pdep {R} {Package} {Vignette}}
+  \verb{url}
+  \verb http://cran.r-project.org/web/packages/spdep/vignettes/nb.pdf
+  \endverb
+  \field{year}{2014}
+  \field{urlday}{01}
+  \field{urlmonth}{08}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{bivand_spdep._2014}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bivand}{B.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BR1}
+  \strng{fullhash}{BR1}
+  \field{labelyear}{2014}
+  \field{extrayear}{2}
+  \field{sortinit}{B}
+  \field{note}{et al.}
+  \field{title}{spdep. {R} {Package}}
+  \verb{url}
+  \verb http://cran.r-project.org/web/packages/spdep/
+  \endverb
+  \field{year}{2014}
+\endentry
+
+\entry{bright_word_1967}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bright}{B.}%
+     {Elizabeth}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BE1}
+  \strng{fullhash}{BE1}
+  \field{labelyear}{1967}
+  \field{sortinit}{B}
+  \field{title}{A word geography of {California} and {Nevada}}
+  \list{location}{1}{%
+    {Berkeley}%
+  }
+  \list{institution}{1}{%
+    {University of California, Berkeley}%
+  }
+  \field{type}{{PhD} dissertation}
+  \field{year}{1967}
+\endentry
+
+\entry{carver_american_1987}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Carver}{C.}%
+     {Craig~M}{C.~M.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Longmans, Green}%
+    {University of Michigan Press}%
   }
-  \strng{namehash}{AD1}
-  \strng{fullhash}{AD1}
-  \field{labelyear}{1956}
-  \field{sortinit}{A}
-  \field{title}{Problems and principles: {Studies} in the Teaching of {English}
-  as a Second Language}
+  \strng{namehash}{CCM1}
+  \strng{fullhash}{CCM1}
+  \field{labelyear}{1987}
+  \field{sortinit}{C}
+  \field{isbn}{0472100769 9780472100767 0472081039 9780472081035}
+  \field{shorttitle}{American regional dialects}
+  \field{title}{American regional dialects: {A} word geography}
   \list{location}{1}{%
-    {London, New York, Toronto}%
+    {Ann Arbor}%
   }
-  \field{year}{1956}
+  \field{year}{1987}
 \endentry
 
-\entry{angkititrakul_advances_2006}{article}{}
+\entry{chambers_dialectology_1998}{book}{}
   \name{author}{2}{}{%
     {{}%
-     {Angkititrakul}{A.}%
-     {Pongtep}{P.}%
+     {Chambers}{C.}%
+     {Jack}{J.}%
      {}{}%
      {}{}}%
     {{}%
-     {Hansen}{H.}%
-     {John~HL}{J.~H.}%
+     {Trudgill}{T.}%
+     {Peter}{P.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{APHJH1}
-  \strng{fullhash}{APHJH1}
-  \field{labelyear}{2006}
-  \field{sortinit}{A}
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{CJTP1}
+  \strng{fullhash}{CJTP1}
+  \field{labelyear}{1998}
+  \field{sortinit}{C}
+  \field{edition}{1}
+  \field{title}{Dialectology}
+  \list{location}{1}{%
+    {Cambridge, New York}%
+  }
+  \field{year}{1998}
+\endentry
+
+\entry{clopper_acoustic_2004}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Clopper}{C.}%
+     {Cynthia}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pisoni}{P.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CCPD1}
+  \strng{fullhash}{CCPD1}
+  \field{labelyear}{2004}
+  \field{sortinit}{C}
+  \field{issn}{0095-4470}
+  \field{number}{1}
+  \field{pages}{111\bibrangedash 140}
+  \field{title}{Some acoustic cues for the perceptual categorization of
+  {American} {English} regional dialects}
+  \field{volume}{32}
+  \field{journaltitle}{Journal of Phonetics}
+  \field{year}{2004}
+\endentry
+
+\entry{clopper_free_2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Clopper}{C.}%
+     {Cynthia}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pisoni}{P.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CCPD1}
+  \strng{fullhash}{CCPD1}
+  \field{labelyear}{2007}
+  \field{sortinit}{C}
+  \field{issn}{0095-4470}
+  \field{number}{3}
+  \field{pages}{421\bibrangedash 438}
+  \field{title}{Free classification of regional dialects of {American}
+  {English}}
+  \field{volume}{35}
+  \field{journaltitle}{Journal of Phonetics}
+  \field{year}{2007}
+\endentry
+
+\entry{evans_seattle_2013}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Evans}{E.}%
+     {Betsy}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EB1}
+  \strng{fullhash}{EB1}
+  \field{labelyear}{2013}
+  \field{sortinit}{E}
+  \field{issn}{0075-4242}
+  \field{pages}{268\bibrangedash 291}
+  \field{shorttitle}{Seattle to {Spokane}}
+  \field{title}{Seattle to {Spokane}: {Mapping} Perceptions of {English} in
+  {Washington} {State}}
+  \field{volume}{41}
+  \field{journaltitle}{Journal of English Linguistics}
+  \field{year}{2013}
+\endentry
+
+\entry{evans_vowel_2004}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Evans}{E.}%
+     {Bronwen}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Iverson}{I.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EBIP1}
+  \strng{fullhash}{EBIP1}
+  \field{labelyear}{2004}
+  \field{sortinit}{E}
+  \field{issn}{0001-4966}
+  \field{number}{1}
+  \field{pages}{352\bibrangedash 361}
+  \field{shorttitle}{Vowel normalization for accent}
+  \field{title}{Vowel normalization for accent: {A}n investigation of best
+  exemplar locations in northern and southern {British} {English} sentences.}
+  \field{volume}{115}
+  \field{journaltitle}{The Journal of the Acoustical Society of America}
+  \field{year}{2004}
+\endentry
+
+\entry{fridland_exploring_2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Fridland}{F.}%
+     {Valerie}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kendall}{K.}%
+     {Tyler}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FVKT1}
+  \strng{fullhash}{FVKT1}
+  \field{labelyear}{2012}
+  \field{sortinit}{F}
+  \field{issn}{0024-3841}
+  \field{number}{7}
+  \field{pages}{779\bibrangedash 793}
+  \field{title}{Exploring the relationship between production and perception in
+  the mid front vowels of {U}.{S}. {English}}
+  \field{volume}{122}
+  \field{journaltitle}{Lingua}
+  \field{year}{2012}
+\endentry
+
+\entry{fridland_durational_2014}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Fridland}{F.}%
+     {Valerie}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kendall}{K.}%
+     {Tyler}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Farrington}{F.}%
+     {Charlie}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FVKTFC1}
+  \strng{fullhash}{FVKTFC1}
+  \field{labelyear}{2014}
+  \field{sortinit}{F}
+  \field{issn}{0001-4966}
+  \field{number}{1}
+  \field{pages}{341\bibrangedash 349}
+  \field{shorttitle}{Durational and spectral differences in {American}
+  {English} vowels}
+  \field{title}{Durational and spectral differences in {American} {English}
+  vowels: {Dialect} variation within and across regions}
+  \field{volume}{136}
+  \field{journaltitle}{Journal of the acoustical society of america}
+  \field{year}{2014}
+\endentry
+
+\entry{grieve_corpus-based_2009}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJ1}
+  \strng{fullhash}{GJ1}
+  \field{labelyear}{2009}
+  \field{sortinit}{G}
+  \field{title}{A corpus-based regional dialect survey of grammatical variation
+  in written {Standard} {American} {English}}
+  \list{location}{1}{%
+    {Flagstaff}%
+  }
+  \list{institution}{1}{%
+    {Northern Arizona University}%
+  }
+  \field{type}{{PhD} dissertation}
+  \field{year}{2009}
+\endentry
+
+\entry{grieve_comparison_2014}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{2}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wälchli}{W.}%
+     {Bernhard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Walter de Gruyter}%
+  }
+  \strng{namehash}{GJ1}
+  \strng{fullhash}{GJ1}
+  \field{labelyear}{2014}
+  \field{sortinit}{G}
+  \field{booktitle}{Aggregating dialectology, typology, and register analysis:
+  {Linguistic} variation in text and speech}
+  \field{number}{28}
+  \field{pages}{53\bibrangedash 88}
+  \field{series}{Lingua \& {Litterae}}
+  \field{title}{A comparison of statistical methods for the aggregation of
+  regional linguistic variation}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2014}
+\endentry
+
+\entry{grieve_statistical_2011}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speelman}{S.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Geeraerts}{G.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJSDGD1}
+  \strng{fullhash}{GJSDGD1}
+  \field{labelyear}{2011}
+  \field{sortinit}{G}
+  \field{issn}{0954-3945}
   \field{number}{2}
-  \field{pages}{634\bibrangedash 646}
-  \field{title}{Advances in phone-based modeling for automatic accent
-  classification}
-  \field{volume}{14}
-  \field{journaltitle}{Audio, Speech, and Language Processing, IEEE
-  Transactions on}
+  \field{pages}{193\bibrangedash 221}
+  \field{title}{A statistical method for the identification and aggregation of
+  regional linguistic variation}
+  \field{volume}{23}
+  \field{journaltitle}{Language Variation and Change}
+  \field{year}{2011}
+\endentry
+
+\entry{grieve_multivariate_2013}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Grieve}{G.}%
+     {Jack}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Speelman}{S.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Geeraerts}{G.}%
+     {Dirk}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GJSDGD1}
+  \strng{fullhash}{GJSDGD1}
+  \field{labelyear}{2013}
+  \field{sortinit}{G}
+  \field{number}{1}
+  \field{pages}{31\bibrangedash 51}
+  \field{title}{A multivariate spatial analysis of vowel formants in {American}
+  {English}}
+  \field{volume}{1}
+  \field{journaltitle}{J. of Ling. Geography Journal of Linguistic Geography}
+  \field{year}{2013}
+\endentry
+
+\entry{hay_stuffed_2010}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hay}{H.}%
+     {Jennifer}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Drager}{D.}%
+     {Katie}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJDK1}
+  \strng{fullhash}{HJDK1}
+  \field{labelyear}{2010}
+  \field{sortinit}{H}
+  \field{issn}{0024-3949}
+  \field{number}{4}
+  \field{pages}{865\bibrangedash 892}
+  \field{title}{Stuffed toys and speech perception}
+  \field{volume}{48}
+  \field{journaltitle}{Linguistics}
+  \field{year}{2010}
+\endentry
+
+\entry{hay_factors_2006}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hay}{H.}%
+     {Jennifer}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Warren}{W.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Drager}{D.}%
+     {Katie}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJWPDK1}
+  \strng{fullhash}{HJWPDK1}
+  \field{labelyear}{2006}
+  \field{sortinit}{H}
+  \field{number}{4}
+  \field{pages}{458\bibrangedash 484}
+  \field{title}{Factors influencing speech perception in the context of a
+  merger-in-progress}
+  \field{volume}{34}
+  \field{journaltitle}{Journal of Phonetics}
   \field{year}{2006}
 \endentry
 
-\entry{chapters/bloem_etal}{incollection}{skipbib}
-  \name{author}{3}{}{%
+\entry{kendall_mapping_2010}{article}{}
+  \name{author}{2}{}{%
     {{}%
-     {Bloem}{B.}%
-     {Jelke}{J.}%
+     {Kendall}{K.}%
+     {Tyler}{T.}%
      {}{}%
      {}{}}%
     {{}%
-     {Wieling}{W.}%
-     {Martijn}{M.}%
+     {Fridland}{F.}%
+     {Valerie}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KTFV1}
+  \strng{fullhash}{KTFV1}
+  \field{labelyear}{2010}
+  \field{sortinit}{K}
+  \field{number}{2}
+  \field{pages}{\biberror{no pages}}
+  \field{title}{Mapping Production and Perception in Regional Vowel Shifts}
+  \verb{url}
+  \verb http://repository.upenn.edu/pwpl/vol16/iss2/13
+  \endverb
+  \field{volume}{16}
+  \field{journaltitle}{Penn Working Papers in Linguistics}
+  \field{year}{2010}
+  \field{urlday}{08}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{kendall_variation_2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kendall}{K.}%
+     {Tyler}{T.}%
      {}{}%
      {}{}}%
     {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
+     {Fridland}{F.}%
+     {Valerie}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KTFV1}
+  \strng{fullhash}{KTFV1}
+  \field{labelyear}{2012}
+  \field{sortinit}{K}
+  \field{abstract}{%
+  Looking at speech perception from a sociolinguistic perspective, the paper
+  first explores how speakers from three different regions in the U.S. perform
+  on a vowel identification task for a continuum between /e/ and /@?/.
+  Following the general analysis of cross-regional perception, we turn our
+  focus to a subsample of Southern participants who also provided speech data,
+  investigating the nature of the link between their speech production and
+  perception for these vowels. In particular, we are interested in the extent
+  to which participation in a series of shifts affecting the Southern speech
+  region in production (the Southern Vowel Shift or SVS) affects perception in
+  that region. The data includes a set of seven siblings and we also examine
+  whether sibling status affects perceptual variability. Our results suggest
+  that region does play a significant role in mediating perception,
+  particularly in the South, and that SVS participation in production is
+  related to differences in perception within that region, suggesting that both
+  individual and community based norms are crucial in speech processing.
+  Finally, identifying a large amount of familial variability in both
+  perception and production, we find that siblinghood does not seem to play a
+  greater role in speech perception similarity than shift participation.%
+  }
+  \field{issn}{0095-4470}
+  \field{number}{2}
+  \field{pages}{289\bibrangedash 306}
+  \field{title}{Variation in perception and production of mid front vowels in
+  the {U}.{S}. {Southern} {Vowel} {Shift}}
+  \field{volume}{40}
+  \field{journaltitle}{Journal of Phonetics}
+  \field{year}{2012}
+\endentry
+
+\entry{chapters/kend_frid}{incollection}{skipbib}
+  \name{author}{2}{}{%
+    {{}%
+     {Kendall}{K.}%
+     {Tyler}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fridland}{F.}%
+     {Valerie}{V.}%
      {}{}%
      {}{}}%
   }
@@ -104,85 +647,89 @@
   \list{publisher}{1}{%
     {Language Science Press}%
   }
-  \strng{namehash}{BJWMNJ1}
-  \strng{fullhash}{BJWMNJ1}
+  \strng{namehash}{KTFV1}
+  \strng{fullhash}{KTFV1}
   \field{labelyear}{2015}
-  \field{sortinit}{B}
+  \field{sortinit}{K}
   \field{booktitle}{The future of dialects}
-  \field{pages}{1\bibrangedash 19}
-  \field{title}{Automatically identifying characteristic features of non-native
-  English accents}
+  \field{pages}{1\bibrangedash 21}
+  \field{title}{Mapping the perception of linguistic form: Dialectometry with
+  perceptual data}
   \list{location}{1}{%
     {Berlin}%
   }
   \field{year}{2015}
 \endentry
 
-\entry{van_den_doel_evaluation_2006}{book}{}
-  \name{author}{1}{}{%
+\entry{kend_frid_inprogress}{article}{}
+  \name{author}{2}{}{%
     {{}%
-     {Doel}{D.}%
-     {Rias}{R.}%
-     {Van~den}{V.~d.}%
+     {Kendall}{K.}%
+     {Tyler}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fridland}{F.}%
+     {Valerie}{V.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KTFV1}
+  \strng{fullhash}{KTFV1}
+  \field{labelyear}{{in progress}}
+  \field{sortinit}{K}
+  \field{title}{The production and perception of low vowels in U.S. English:
+  {A} cross-regional view}
+  \field{year}{{in progress}}
+\endentry
+
+\entry{labov_understanding_1997}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Labov}{L.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ash}{A.}%
+     {Sharon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Bernstein}{B.}%
+     {Cynthia~G.}{C.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nunnally}{N.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sabino}{S.}%
+     {Robin}{R.}%
+     {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {LOT}%
+    {University of Alabama Press}%
   }
-  \strng{namehash}{DRVd1}
-  \strng{fullhash}{DRVd1}
-  \field{labelyear}{2006}
-  \field{sortinit}{D}
-  \field{title}{An Evaluation of Native-speaker Judgements of Foreign-accented
-  {British} and {American} {English}}
+  \strng{namehash}{LWAS1}
+  \strng{fullhash}{LWAS1}
+  \field{labelyear}{1997}
+  \field{sortinit}{L}
+  \field{booktitle}{Language variety in the {South} revisited}
+  \field{pages}{508\bibrangedash 573}
+  \field{title}{Understanding {Birmingham}}
   \list{location}{1}{%
-    {Utrecht}%
+    {Tuscaloosa}%
   }
-  \field{year}{2006}
+  \field{year}{1997}
 \endentry
 
-\entry{gao_pronunciation_2005}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Gao}{G.}%
-     {Lili}{L.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{GL1}
-  \strng{fullhash}{GL1}
-  \field{labelyear}{2005}
-  \field{sortinit}{G}
-  \field{number}{2}
-  \field{pages}{76\bibrangedash 84}
-  \field{title}{Pronunciation difficulties analysis: {A} case study using
-  native language linguistic background to understand a {Chinese} {English}
-  learner’s pronunciation problems}
-  \field{volume}{28}
-  \field{journaltitle}{Celea Journal}
-  \field{year}{2005}
-\endentry
-
-\entry{gynan_comprehension_1985}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Gynan}{G.}%
-     {Shaw~Nicholas}{S.~N.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{GSN1}
-  \strng{fullhash}{GSN1}
-  \field{labelyear}{1985}
-  \field{sortinit}{G}
-  \field{pages}{160\bibrangedash 165}
-  \field{title}{Comprehension, irritation and error hierarchies}
-  \field{volume}{68}
-  \field{journaltitle}{Hispania}
-  \field{year}{1985}
-\endentry
-
-\entry{labov_atlas_2006}{book}{}
+\entry{labov_atlas_2006-1}{book}{}
   \name{author}{3}{}{%
     {{}%
      {Labov}{L.}%
@@ -215,6 +762,59 @@
   \field{year}{2006}
 \endentry
 
+\entry{lee_spatial_1993}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Lee}{L.}%
+     {Jay}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kretzschmar}{K.}%
+     {William~A}{W.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LJKWA1}
+  \strng{fullhash}{LJKWA1}
+  \field{labelyear}{1993}
+  \field{sortinit}{L}
+  \field{issn}{0269-3798}
+  \field{number}{6}
+  \field{pages}{541\bibrangedash 560}
+  \field{title}{Spatial analysis of linguistic data with {GIS} functions}
+  \field{volume}{7}
+  \verb{file}
+  \verb Snapshot:C\:\\Users\\Diane & Oscar\\AppData\\Roaming\\Zotero\\Zotero\\P
+  \verb rofiles\\hv4g4pes.default\\zotero\\storage\\MTQDGUCS\\02693799308901981
+  \verb .html:text/html
+  \endverb
+  \field{journaltitle}{International journal of geographical information
+  systems}
+  \field{year}{1993}
+\endentry
+
+\entry{moran_notes_1950}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Moran}{M.}%
+     {P.~A.~P.}{P.~A.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MPAP1}
+  \strng{fullhash}{MPAP1}
+  \field{labelyear}{1950}
+  \field{sortinit}{M}
+  \field{issn}{0006-3444}
+  \field{number}{1-2}
+  \field{pages}{17\bibrangedash 23}
+  \field{title}{Notes on continuous stochastic phenomena.}
+  \field{volume}{37}
+  \field{journaltitle}{Biometrika}
+  \field{year}{1950}
+\endentry
+
 \entry{nerbonne_data-driven_2009}{article}{}
   \name{author}{1}{}{%
     {{}%
@@ -235,456 +835,440 @@
   \field{year}{2009}
 \endentry
 
-\entry{nerbonne_gabmap_2011}{article}{}
-  \name{author}{5}{}{%
+\entry{nerbonne_introducing_2003}{article}{}
+  \name{author}{2}{}{%
     {{}%
      {Nerbonne}{N.}%
      {John}{J.}%
      {}{}%
      {}{}}%
     {{}%
-     {Colen}{C.}%
-     {Rinke}{R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Gooskens}{G.}%
-     {Charlotte}{C.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kleiweg}{K.}%
-     {Peter}{P.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Leinonen}{L.}%
-     {Therese}{T.}%
+     {Kretzschmar}{K.}%
+     {William~A.}{W.~A.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{NJ+1}
-  \strng{fullhash}{NJCRGCKPLT1}
-  \field{labelyear}{2011}
+  \strng{namehash}{NJKWA1}
+  \strng{fullhash}{NJKWA1}
+  \field{labelyear}{2003}
   \field{sortinit}{N}
-  \field{pages}{65\bibrangedash 89}
-  \field{title}{Gabmap – A web application for dialectology}
-  \verb{url}
-  \verb http://www.gabmap.nl/
-  \endverb
-  \field{volume}{{Special Issue II}}
-  \field{journaltitle}{Dialectologia}
-  \field{year}{2011}
+  \field{number}{3}
+  \field{pages}{245\bibrangedash 255}
+  \field{title}{Introducing Computational Methods in Dialectometry}
+  \field{volume}{37}
+  \field{journaltitle}{Computers and the Humanities}
+  \field{year}{2003}
 \endentry
 
-\entry{nadasdy_background_2006}{book}{}
+\entry{niedzielski_effect_1999}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {Nádasdy}{N.}%
-     {Ádám}{�.}%
+     {Niedzielski}{N.}%
+     {Nancy}{N.}%
      {}{}%
      {}{}}%
   }
-  \list{publisher}{1}{%
-    {{N}emzeti Tankönyvkiadó}%
-  }
-  \strng{namehash}{N�1}
-  \strng{fullhash}{N�1}
-  \field{labelyear}{2006}
+  \strng{namehash}{NN1}
+  \strng{fullhash}{NN1}
+  \field{labelyear}{1999}
   \field{sortinit}{N}
-  \field{title}{Background to {English} pronunciation}
-  \list{location}{1}{%
-    {Budapest}%
+  \field{abstract}{%
+  Forty-one Detroit-area residents were given perceptual tests in which they
+  were asked to choose from a set of resynthesized vowels the tokens that they
+  felt best matched the vowels they heard in the speech of a fellow Detroiter.
+  Half of the respondents were told that the speaker was from Detroit, whereas
+  half were told that she was from Canada. Respondents given the Canadian label
+  chose raised-diphthong tokens as those present in the dialect of the speaker,
+  whereas those given the Michigan label did not. Respondents given the
+  Michigan label chose vowels that were quite different from the Northern
+  Cities Chain-Shifted variety present in the speaker’s dialect. Because the
+  “speaker’s” perceived nationality was the only aspect that varied
+  between the two groups of respondents, this label alone must have caused the
+  difference in the selection of tokens. This indicates that listeners use
+  social information in speech perception.%
   }
-  \field{year}{2006}
-\endentry
-
-\entry{petrova_voice_2006}{article}{}
-  \name{author}{4}{}{%
-    {{}%
-     {Petrova}{P.}%
-     {Olga}{O.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Plapp}{P.}%
-     {Rosemary}{R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Ringen}{R.}%
-     {Catherine}{C.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Szentgyörgyi}{S.}%
-     {Szilárd}{S.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{PO+1}
-  \strng{fullhash}{POPRRCSS1}
-  \field{labelyear}{2006}
-  \field{sortinit}{P}
+  \field{issn}{0261-927X}
   \field{number}{1}
-  \field{pages}{1\bibrangedash 35}
-  \field{title}{Voice and aspiration: {Evidence} from {Russian}, {Hungarian},
-  {German}, {Swedish}, and {Turkish}}
-  \field{volume}{23}
-  \field{journaltitle}{The Linguistic Review}
-  \field{year}{2006}
+  \field{pages}{62\bibrangedash 85}
+  \field{title}{The Effect of Social Information on the Perception of
+  Sociolinguistic Variables}
+  \field{volume}{18}
+  \field{journaltitle}{Journal of Language and Social Psychology}
+  \field{year}{1999}
 \endentry
 
-\entry{prokic_detecting_2012}{inproceedings}{}
-  \name{author}{3}{}{%
+\entry{niedzielski_folk_1999}{book}{}
+  \name{author}{2}{}{%
     {{}%
-     {Prokić}{P.}%
-     {Jelena}{J.}%
+     {Niedzielski}{N.}%
+     {Nancy}{N.}%
      {}{}%
      {}{}}%
     {{}%
-     {Çöltekin}{�.}%
-     {Çağri}{�.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Association for Computational Linguistics}%
+    {Mouton de Gruyter}%
   }
-  \strng{namehash}{PJ��NJ1}
-  \strng{fullhash}{PJ��NJ1}
-  \field{labelyear}{2012}
-  \field{sortinit}{P}
-  \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of
-  {LINGVIS} \& {UNCLH}}
-  \field{pages}{72\bibrangedash 80}
-  \field{title}{Detecting shibboleths}
-  \field{year}{2012}
+  \strng{namehash}{NNPD1}
+  \strng{fullhash}{NNPD1}
+  \field{labelyear}{1999}
+  \field{sortinit}{N}
+  \field{title}{Folk linguistics}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{1999}
 \endentry
 
-\entry{rifkin_error_1995}{article}{}
-  \name{author}{1}{}{%
+\entry{ord_local_1995}{article}{}
+  \name{author}{2}{}{%
     {{}%
-     {Rifkin}{R.}%
-     {Benjamin}{B.}%
+     {Ord}{O.}%
+     {J.~K.}{J.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Getis}{G.}%
+     {Arthur}{A.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{RB1}
-  \strng{fullhash}{RB1}
+  \strng{namehash}{OJKGA1}
+  \strng{fullhash}{OJKGA1}
   \field{labelyear}{1995}
-  \field{sortinit}{R}
+  \field{sortinit}{O}
+  \field{issn}{0016-7363}
   \field{number}{4}
-  \field{pages}{477\bibrangedash 490}
-  \field{title}{Error Gravity in Learners' Spoken {Russian}: {A} Preliminary
-  Study}
-  \field{volume}{79}
-  \field{journaltitle}{The Modern Language Journal}
+  \field{pages}{286\bibrangedash 306}
+  \field{title}{Local Spatial Autocorrelation Statistics: {Distributional}
+  Issues and an Application}
+  \field{volume}{27}
+  \field{journaltitle}{Geographical Analysis}
   \field{year}{1995}
 \endentry
 
-\entry{ryan_social_1983}{article}{}
-  \name{author}{1}{}{%
+\entry{plichta_/ay/s_2005}{article}{}
+  \name{author}{2}{}{%
     {{}%
-     {Ryan}{R.}%
-     {Ellen~Bouchard}{E.~B.}%
+     {Plichta}{P.}%
+     {Bartek}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{REB1}
-  \strng{fullhash}{REB1}
-  \field{labelyear}{1983}
+  \strng{namehash}{PBPD1}
+  \strng{fullhash}{PBPD1}
+  \field{labelyear}{2005}
+  \field{sortinit}{P}
+  \field{pages}{243\bibrangedash 285}
+  \field{title}{The /ay/s have it: {The} perception of /ay/ as a
+  {North}-{South} stereotype in {U}.{S}. {English}}
+  \field{volume}{37}
+  \field{journaltitle}{Acta Linguistica Hafniensia}
+  \field{year}{2005}
+\endentry
+
+\entry{preston_perceptual_1989}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Foris Publications}%
+  }
+  \strng{namehash}{PD1}
+  \strng{fullhash}{PD1}
+  \field{labelyear}{1989}
+  \field{sortinit}{P}
+  \field{isbn}{9783110871913 3110871912}
+  \field{title}{Perceptual dialectology nonlinguists' views of areal
+  linguistics}
+  \verb{url}
+  \verb http://site.ebrary.com/id/10598243
+  \endverb
+  \list{location}{1}{%
+    {Dordrecht}%
+  }
+  \field{year}{1989}
+  \field{urlday}{08}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
+\endentry
+
+\entry{preston_folk_1993}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Benjamins}%
+  }
+  \strng{namehash}{PD1}
+  \strng{fullhash}{PD1}
+  \field{labelyear}{1993}
+  \field{sortinit}{P}
+  \field{booktitle}{American dialect research}
+  \field{pages}{333\bibrangedash 377}
+  \field{title}{Folk dialectology}
+  \list{location}{1}{%
+    {Amsterdam, Philadelphia}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{preston_where_1996}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Preston}{P.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Schneider}{S.}%
+     {Edgar}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Benjamins}%
+  }
+  \strng{namehash}{PD1}
+  \strng{fullhash}{PD1}
+  \field{labelyear}{1996}
+  \field{sortinit}{P}
+  \field{booktitle}{Focus on the {USA}}
+  \field{pages}{297\bibrangedash 360}
+  \field{title}{Where the worst {English} is spoken}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{1996}
+\endentry
+
+\entry{reed_problems_1972}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Reed}{R.}%
+     {Carroll~E.}{C.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reed}{R.}%
+     {David~W.}{D.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Davis}{D.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Alabama Press}%
+  }
+  \strng{namehash}{RCERDW1}
+  \strng{fullhash}{RCERDW1}
+  \field{labelyear}{1972}
   \field{sortinit}{R}
-  \field{number}{02}
-  \field{pages}{148\bibrangedash 159}
-  \field{title}{Social psychological mechanisms underlying native speaker
-  evaluations of non-native speech}
-  \field{volume}{5}
-  \field{journaltitle}{Studies in Second Language Acquisition}
-  \field{year}{1983}
+  \field{booktitle}{Studies in Linguistics in Honor of {Raven} {I}. {McDavid}}
+  \field{pages}{135\bibrangedash 143}
+  \field{title}{Problems of {English} speech mixture in {California} and
+  {Nevada}}
+  \list{location}{1}{%
+    {Auburn}%
+  }
+  \field{year}{1972}
 \endentry
 
-\entry{schaden_crosstowns_2004}{inproceedings}{}
+\entry{strand_uncovering_1999}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {Schaden}{S.}%
-     {Stefan}{S.}%
+     {Strand}{S.}%
+     {Elizabeth~A.}{E.~A.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{SS1}
-  \strng{fullhash}{SS1}
-  \field{labelyear}{2004}
+  \strng{namehash}{SEA1}
+  \strng{fullhash}{SEA1}
+  \field{labelyear}{1999}
   \field{sortinit}{S}
-  \field{booktitle}{Proceedings of {LREC} 2004}
-  \field{title}{{CrossTowns}: {Automatically} Generated Phonetic Lexicons of
-  Cross-lingual Pronunciation Variants of European City Names}
-  \field{year}{2004}
-\endentry
-
-\entry{schaden_casselberveetovallarga_2006}{inproceedings}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Schaden}{S.}%
-     {Stefan}{S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Jekosch}{J.}%
-     {Ute}{U.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{SSJU1}
-  \strng{fullhash}{SSJU1}
-  \field{labelyear}{2006}
-  \field{sortinit}{S}
-  \field{booktitle}{Proceedings of {LREC} 2006}
-  \field{title}{Casselberveetovallarga and other unpronounceable places: {The}
-  {CrossTowns} corpus}
-  \field{year}{2006}
-\endentry
-
-\entry{sebregts_sociophonetics_2015}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Sebregts}{S.}%
-     {Koen}{K.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {LOT}%
-  }
-  \strng{namehash}{SK1}
-  \strng{fullhash}{SK1}
-  \field{labelyear}{2015}
-  \field{sortinit}{S}
-  \field{title}{The sociophonetics and phonology of {Dutch} \textit{r}}
-  \list{location}{1}{%
-    {Utrecht}%
-  }
-  \field{year}{2015}
-\endentry
-
-\entry{walker_pronunciation_1984}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Walker}{W.}%
-     {Douglas~C}{D.~C.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {University of Ottawa Press}%
-  }
-  \strng{namehash}{WDC1}
-  \strng{fullhash}{WDC1}
-  \field{labelyear}{1984}
-  \field{sortinit}{W}
-  \field{title}{The pronunciation of {Canadian} {French}}
-  \list{location}{1}{%
-    {Ottawa}%
-  }
-  \field{year}{1984}
-\endentry
-
-\entry{walker_french_2001}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Walker}{W.}%
-     {Douglas~C}{D.~C.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {University of Calgary Press}%
-  }
-  \strng{namehash}{WDC1}
-  \strng{fullhash}{WDC1}
-  \field{labelyear}{2001}
-  \field{sortinit}{W}
-  \field{title}{French sound structure}
-  \field{volume}{1}
-  \list{location}{1}{%
-    {Calgary}%
-  }
-  \field{year}{2001}
-\endentry
-
-\entry{waniek-klimczak_issues_2008}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Waniek-Klimczak}{W.-K.}%
-     {Ewa}{E.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Cambridge Scholars Pub}%
-  }
-  \strng{namehash}{WKE1}
-  \strng{fullhash}{WKE1}
-  \field{labelyear}{2008}
-  \field{sortinit}{W}
-  \field{title}{Issues in accents of {English}}
-  \field{volume}{2}
-  \list{location}{1}{%
-    {Newcastle-upon-Tyne}%
-  }
-  \field{year}{2008}
-\endentry
-
-\entry{weinberger_speech_2011}{article}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Weinberger}{W.}%
-     {Steven~H}{S.~H.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kunath}{K.}%
-     {Stephen~A}{S.~A.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{WSHKSA1}
-  \strng{fullhash}{WSHKSA1}
-  \field{labelyear}{2011}
-  \field{sortinit}{W}
+  \field{issn}{0261-927X}
   \field{number}{1}
-  \field{pages}{265\bibrangedash 281}
-  \field{title}{The Speech Accent Archive: {T}owards a typology of {English}
-  accents}
-  \field{volume}{73}
-  \field{journaltitle}{Language and Computers}
-  \field{year}{2011}
+  \field{pages}{86\bibrangedash 100}
+  \field{title}{Uncovering the Role of Gender Stereotypes in Speech Perception}
+  \field{volume}{18}
+  \field{journaltitle}{Journal of Language and Social Psychology}
+  \field{year}{1999}
 \endentry
 
-\entry{wells_accents_1982}{book}{}
+\entry{strange_cross-language_1995}{incollection}{}
   \name{author}{1}{}{%
     {{}%
-     {Wells}{W.}%
-     {John~C}{J.~C.}%
+     {Strange}{S.}%
+     {Winifred}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Strange}{S.}%
+     {Winifred}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {York Press}%
+  }
+  \strng{namehash}{SW1}
+  \strng{fullhash}{SW1}
+  \field{labelyear}{1995}
+  \field{sortinit}{S}
+  \field{booktitle}{Speech Perception and Linguistic Experience: {Issues} in
+  Cross-Language Research}
+  \field{pages}{3\bibrangedash 48}
+  \field{title}{Cross-language studies of speech perception: {A} historical
+  review}
+  \list{location}{1}{%
+    {Baltimore}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{sumner_effect_2009}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Sumner}{S.}%
+     {Megan}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Samuel}{S.}%
+     {Arthur~G.}{A.~G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SMSAG1}
+  \strng{fullhash}{SMSAG1}
+  \field{labelyear}{2009}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  The task of recognizing spoken words is notoriously difficult. Once dialectal
+  variation is considered, the difficulty of this task increases. When living
+  in a new dialect region, however, processing difficulties associated with
+  dialectal variation dissipate over time. Through a series of primed lexical
+  decision tasks (form priming, semantic priming, and long-term repetition
+  priming), we examine the general issue of dialectal variation in spoken word
+  recognition, while investigating the role of experience in perception and
+  representation. The main questions we address are: (1) how are cross-dialect
+  variants recognized and stored, and (2) how are these variants accommodated
+  by listeners with different levels of exposure to the dialect? Three claims
+  are made based on the results: (1) dialect production is not always
+  representative of dialect perception and representation, (2) experience
+  strongly affects a listener's ability to recognize and represent spoken
+  words, and (3) there is a general benefit for variants that are not
+  regionally-marked.%
+  }
+  \field{issn}{0749-596X}
+  \field{number}{4}
+  \field{pages}{487\bibrangedash 501}
+  \field{title}{The effect of experience on the perception and representation
+  of dialect variants}
+  \field{volume}{60}
+  \field{journaltitle}{Journal of Memory and Language}
+  \field{year}{2009}
+\endentry
+
+\entry{szmrecsanyi_grammatical_2012}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Szmrecsanyi}{S.}%
+     {Benedikt}{B.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
     {Cambridge University Press}%
   }
-  \strng{namehash}{WJC1}
-  \strng{fullhash}{WJC1}
-  \field{labelyear}{1982}
-  \field{sortinit}{W}
-  \field{title}{Accents of {English}}
-  \field{volume}{1}
+  \strng{namehash}{SB1}
+  \strng{fullhash}{SB1}
+  \field{labelyear}{2012}
+  \field{sortinit}{S}
+  \field{abstract}{%
+  "Variation within the English language is a vast research area, of which
+  dialectology, the study of geographic variation, is a significant part. This
+  book explores grammatical differences between British English dialects,
+  drawing on authentic speech data collected in over thirty counties. In doing
+  so it presents a new approach known as 'corpus-based dialectometry', which
+  focuses on the joint quantitative measurement of dozens of grammatical
+  features to gauge regional differences. These features include, for example,
+  multiple negation (e.g. don't you make no damn mistake), non-standard verbals
+  (e.g. so I says, What have you to do?), or non-standard weak past tense and
+  past participle forms (e.g. they knowed all about these things). Utilizing
+  state-of-the-art dialectometrical analysis and visualization techniques, the
+  book is original both in terms of its fundamental research question ('What
+  are the large-scale patterns of grammatical variability in British English
+  dialects?') as well as in terms of its methodology"--%
+  }
+  \field{isbn}{9781139776288 1139776282 1139782312 9781139782319 9780511763380
+  0511763387 9781139779326 113977932X 1283746301 9781283746304}
+  \field{title}{Grammatical variation in {British} {English} dialects a study
+  in corpus-based dialectometry}
+  \verb{url}
+  \verb http://dx.doi.org/10.1017/CBO9780511763380
+  \endverb
   \list{location}{1}{%
-    {Cambridge}%
+    {Cambridge, New York}%
   }
-  \field{year}{1982}
+  \field{year}{2012}
+  \field{urlday}{08}
+  \field{urlmonth}{07}
+  \field{urlyear}{2015}
 \endentry
 
-\entry{wieling_bipartite_2011}{article}{}
-  \name{author}{2}{}{%
+\entry{thomas_sociophonetic_2002}{article}{}
+  \name{author}{1}{}{%
     {{}%
-     {Wieling}{W.}%
-     {Martijn}{M.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
+     {Thomas}{T.}%
+     {Erik~R.}{E.~R.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{WMNJ1}
-  \strng{fullhash}{WMNJ1}
-  \field{labelyear}{2011}
-  \field{sortinit}{W}
-  \field{number}{3}
-  \field{pages}{700\bibrangedash 715}
-  \field{title}{Bipartite spectral graph partitioning for clustering dialect
-  varieties and detecting their linguistic features}
-  \field{volume}{25}
-  \field{journaltitle}{Computer Speech \& Language}
-  \field{year}{2011}
-\endentry
-
-\entry{wieling_analyzing_2014}{article}{}
-  \name{author}{3}{}{%
-    {{}%
-     {Wieling}{W.}%
-     {Martijn}{M.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Upton}{U.}%
-     {Clive}{C.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Thompson}{T.}%
-     {Ann}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{WMUCTA1}
-  \strng{fullhash}{WMUCTA1}
-  \field{labelyear}{2014}
-  \field{sortinit}{W}
-  \field{number}{1}
-  \field{pages}{107\bibrangedash 117}
-  \field{title}{Analyzing the {BBC} {Voices} data: {Contemporary} {English}
-  dialect areas and their characteristic lexical variants}
-  \field{volume}{29}
-  \field{journaltitle}{Literary and Linguistic Computing}
-  \field{year}{2014}
-\endentry
-
-\entry{wieling_measuring_2014}{article}{}
-  \name{author}{5}{}{%
-    {{}%
-     {Wieling}{W.}%
-     {Martijn}{M.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Bloem}{B.}%
-     {Jelke}{J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Mignella}{M.}%
-     {Kaitlin}{K.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Timmermeister}{T.}%
-     {Mona}{M.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{WM+1}
-  \strng{fullhash}{WMBJMKTMNJ1}
-  \field{labelyear}{2014}
-  \field{sortinit}{W}
+  \strng{namehash}{TER1}
+  \strng{fullhash}{TER1}
+  \field{labelyear}{2002}
+  \field{sortinit}{T}
+  \field{issn}{0003-1283}
   \field{number}{2}
-  \field{pages}{253\bibrangedash 269}
-  \field{title}{Measuring foreign accent strength in {English}. {Validating}
-  {Levenshtein} Distance as a Measure}
-  \field{volume}{4}
-  \field{journaltitle}{Language Dynamics and Change}
-  \field{year}{2014}
+  \field{pages}{115\bibrangedash 147}
+  \field{title}{Sociophonetic Applications of Speech Perception Experiments}
+  \field{volume}{77}
+  \field{journaltitle}{American Speech}
+  \field{year}{2002}
 \endentry
 
 \lossort
