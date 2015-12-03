@@ -1,0 +1,42 @@
+Subject Index (Chitsuko Fukushima)		
+CF received two sets of proofs, the first one should be right.
+
+- concepts or theories 
+geolinguistics			347 (315)
+real-time changes		347 (315)
+apparent-time changes	347 (315)
+real-time interval research	348 (316)
+dialectal border 		349 (317)
+diffusion			350 (318)
+completed changes		350 (318)
+standardization		352 (320)
+changes in progress		354 (322)
+standard system		358 (326)
+localized system		358 (326)
+
+- methods or techniques you use or discuss
+linguistic maps		347 (315)
+superimposing maps		350 (318)
+Geographical Information Systems (GIS)	
+				358 (326)
+georeferencing			359 (327)
+
+- levels of language you address  
+lexical variation		350 (318)
+morphological variation	352 (320)
+lexical innovation		354 (322)
+
+
+
+
+
+References (Chitsuko Fukushima)		Oct. 23, 2015
+
+    As for references, I would like you to revise the year of publication of two atlases. Each of them had six volumes, so it took years to publish them. If it looks strange, please add “six volumes” to each.
+
+References
+National Language Research Institute (ed.) 1966-1974. Linguistic Atlas of Japan. 6 volumes. Tokyo: National Printing Bureau.
+National Language Research Institute (ed.) 1989-2006. Grammar Atlas of Japanese Dialects. 6 volumes. Tokyo: National Printing Bureau.
+
+
+

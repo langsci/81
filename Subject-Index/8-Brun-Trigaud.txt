@@ -1,0 +1,8 @@
+dialectometry 
+Levenshtein distance 
+edit distance 
+dialect areas
+linguistic geography 
+phonetic variation 
+quantitative analysis
+qualitative analysis

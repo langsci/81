@@ -1,0 +1,7 @@
+dialectometry 209-210
+word frequency 210
+hierarchical bipartite spectral graph partitioning (HBSGP) 211
+clustering 211
+representativeness 212
+distinctiveness 212
+importance 212

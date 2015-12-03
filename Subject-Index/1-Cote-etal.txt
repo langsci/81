@@ -1,0 +1,3 @@
+dialect area 4
+dialect leveling 3
+regiolect 3

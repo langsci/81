@@ -1,0 +1,15 @@
+animation 338, 341-343
+buffer 341, 343
+Delaunay triangulation  341
+diffusion (route)  326, 330, 331, 336, 339
+distance matrix 342
+geographical information system  329
+GIS  329
+image database  328
+informants’ comment  327, 329, 337, 338
+multiple answers  329, 336, 337, 338
+network representation  341-345
+road network  326, 331, 345
+similarity  340-344
+standard (word) form  326, 330, 331-340, 345
+transportation  333, 334, 340, 346

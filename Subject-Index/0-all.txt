@@ -1,0 +1,322 @@
+ANOVA
+Atlas of North American English
+California vowel shift
+Crossover points
+Dialectometry
+Geographic information system (GIS)
+Geospatial autocorrelation
+GetisOrd Gi
+Perceptual dialectology
+Principal components analysis
+Southern vowel shift
+Spatial distance matrix
+Spatial weighting function
+
+conservative vs. innovative dialect areas
+dialect syntax
+dynamism
+Geographic Information System (GIS)
+GetisOrd Gi* statistic
+hot spot analysis
+interpersonal variation
+language change
+optionality in grammar
+microvariation
+spatial autocorrelation
+syntactic theory
+syntactic variation
+variation index
+verb doubling
+dialectometry
+word frequency
+hierarchical bipartite spectral graph partitioning (HBSG)
+clustering
+representativeness
+distinctiveness
+importance
+Age differences
+Correlation
+CorpusBased Dialectometry 
+Dialectometry 
+Freiburg Corpus of English Dialects
+Fundamental Dialectological Postulate
+Generalized additive model
+Gender differences
+Hierarchical clustering
+Ngrams
+Permutation
+Regression modeling 
+Partsofspeech 
+RuG/L04
+Usage data
+dialect continuum 
+
+
+core linguistic 
+dialect perception  
+lexis
+phonology 
+morphology 
+syntax 
+pronoun doubling 
+Satzklammer 
+language acquisition 
+diachrony 
+synchrony 
+matrix language frame model (MLFM)  
+Ilanguage 
+variabliity 
+fictional language 
+language perception 
+lay concepts 
+selfassessment 
+orality 
+
+natural stimuli 
+internet survey 
+fiction 
+alignment 
+cluster analysis th century 
+Gravity model
+Wave model 
+Logistic regression
+Chisquared
+Standardisation throughout the article
+Audiovisual stimuli
+Age differences
+Forms of address throughout the article
+Person disagreement throughout the article
+Quantitative methodology
+Qualitative methodology
+Syntactic hierarchy
+Data elicitation
+Educational level differences
+Semiosphere
+Primary modeling system
+Secondary modeling system
+Semiological sign 
+Semiotic space
+Dialect levelling
+Intrasystemic quantitative variation
+Intrasystemic qualitative variation
+Linguistic accommodation
+Convergence
+Divergence
+Semiotic triangle 
+Semiosis
+Saliency
+
+Anglophone community
+codeswitching
+community of practice
+English teacher
+group phraseology
+language contact
+multiple regression
+Pearson correlation
+social network
+Linear regression
+Matlab
+Principal component analysis
+Shorta
+Smoothing
+Spline ANOVA
+Tensing
+Ultrasound
+Ultraspeech
+Bilingualism
+Indexicality
+Sociophonetics
+Articulatory phonetics
+Ultrasound tongue imaging
+sretraction
+fricatives
+dialect area
+dialect leveling
+regiolectanimation
+buffer
+Delaunay triangulation
+diffusion (route)
+distance matrix
+geographical information system
+GIS
+image database
+informants' comment
+multiple answers
+network representation
+road network
+similarity
+standard (word) form
+transportation concepts or theories 
+geolinguistics 
+realtime changes 
+apparenttime changes 
+realtime interval research 
+dialectal border 
+diffusion 
+completed changes 
+standardization 
+changes in progress 
+standard system 
+localized system  methods or techniques you use or discuss
+linguistic maps 
+superimposing maps 
+Geographical Information Systems (GIS) 
+georeferencing  levels of language you address  
+lexical variation 
+morphological variation 
+lexical innovation 
+
+
+dialect radiation theory
+real time research
+Formation Process of Japanese Dialects
+FPJD
+real time
+pasttense negative verbs suffix
+realtime comparison of dialectal distributions
+rapid change
+standstills
+realtime interval comparison
+accentuation pattern
+bilingualism
+broadcasting media
+dedialectization
+destandardization
+indexical meaning
+Logistic Regression
+mass media broadcasting
+pop culture program
+reading sentence
+scripted conversation
+social meaning
+tonal change
+
+heritage language
+new dialect
+dialect divergence
+language contact
+ethnic orientation
+leveling
+koinéization
+variationist sociolinguistics
+comparative variationist sociolinguistics
+timealigned transcription and integrated coding
+integrated teaching and research
+sociolinguistic interview
+interactive speakersample map
+
+diglossia
+diaglossia
+cluster analysis
+correspondence analysis
+styleshifting
+VRTDutch
+tussentaal
+dialect loss
+destandardisation
+demotisation
+dialect awareness 
+emphatic negation 
+emphatic particles 
+Jespersen's cycle 
+metacorpus 
+microsyntax
+minimizer
+participant observation 
+bipartite spectral graph partitioning
+bootstrap clustering
+category
+cluster analysis
+condensation
+continuum
+cue validity
+dialect area
+dialect classification
+dialect ty
+dialectometry
+emic
+etic
+factor analysis or FA
+feature validity
+fuzzy clustering
+fuzzy set
+isogloss
+layer
+layer model
+lexical variable
+lexical variation
+lexicon
+mophological variable
+morphological variation
+morphology
+multidimensional scaling or MDS
+noisy clustering
+phonetic variable
+phonetic variation
+phonetics
+principal component analysis or PCA
+prototype theory
+schema theory
+spatial pattern
+transition area
+typicality
+variety
+
+isogloss
+speech atlas
+Gabmap
+dialectometry
+dialect geography 
+phonology 
+transcription
+methodology
+critique of methodology
+
+bundle of isoglosses
+conceptlexicalization pair
+dialect border
+dialect clustering
+distinctiveness
+granularity of dialectal areas
+Hierarchical Bipartite Spectral Graph Partitioning (HBSG)
+importance
+isogloss
+kmeans clustering
+lexical area
+lexical change
+lexical features
+lexical variation
+nested isoglosses
+representativeness
+Singular Value Decomposition (SVD)
+dialectometry 
+Levenshtein distance 
+edit distance 
+dialect areas
+linguistic geography 
+phonetic variation 
+quantitative analysis
+qualitative analysis
+accent classification
+accent perception
+accent transcription
+aggregated Levenshtein distance
+characteristic accent feature
+dental fricative
+dialectometry
+distinctiveness
+edit distance
+foreign accent
+fortis/lenis neutralization
+Gabmap
+pronunciation error hierarchy
+pronunciation teaching
+quantitative methods
+regressive assimilation
+representativeness
+segment
+shibboleths
+Speech Accent Archive
+speech errors
+vowel reduction

@@ -1,0 +1,22 @@
+accent classification 3
+accent perception 2, 13
+accent transcription 15
+aggregated Levenshtein distance 6
+characteristic accent feature 5-6, 13, 15-16
+dental fricative 10-11, 15
+dialectometry 2
+distinctiveness 4-6
+edit distance 6
+foreign accent 2-4
+fortis/lenis neutralization 14
+Gabmap 6
+pronunciation error hierarchy 2-3, 12-14
+pronunciation teaching 16
+quantitative methods 2, 15-16
+regressive assimilation 11-12
+representativeness 4-6
+segment 4
+shibboleths 2
+Speech Accent Archive 6-7
+speech errors 16
+vowel reduction 9-10
