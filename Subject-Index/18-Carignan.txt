@@ -1,0 +1,8 @@
+Linear regression 21
+Matlab 20
+Principal component analysis 20-21
+Short-a 19-23
+Smoothing-Spline ANOVA 21
+Tensing 19-23
+Ultrasound 20-23
+Ultraspeech 20

@@ -1,0 +1,13 @@
+ANOVA	176-177
+Atlas of North American English	171-172, 176, 182-183
+California vowel shift	182
+Cross-over points	175-176
+Dialectometry	167-168, 172, 183-184
+Geographic information system (GIS)	169
+Geospatial autocorrelation	168, 176-179, 183
+Getis-Ord Gi	177-179, 182
+Perceptual dialectology	169-170
+Principal components analysis	176, 179
+Southern vowel shift	171, 182
+Spatial distance matrix	177-178
+Spatial weighting function	177

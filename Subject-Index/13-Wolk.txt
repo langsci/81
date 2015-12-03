@@ -1,0 +1,15 @@
+Age differences  226
+Correlation  226-227, 229, 231
+Corpus-Based Dialectometry  221-238 
+Dialectometry  221-238 
+Freiburg Corpus of English Dialects  221-222
+Fundamental Dialectological Postulate 227-228
+Generalized additive model  228
+Gender differences  226
+Hierarchical clustering  224-225, 231-232
+N-grams 230-233
+Permutation 230-231
+Regression modeling 228 
+Parts-of-speech 229-233 
+RuG/L04 234-238
+Usage data  219-220

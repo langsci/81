@@ -1,0 +1,38 @@
+bipartite spectral graph partitioning 77, 93
+bootstrap clustering 73, 77
+category 71- 74, 76
+cluster analysis 73, 77, 81, 87
+condensation 76-78
+continuum 72, 77
+cue validity 75
+dialect area 71-73, 75-78, 82, 87, 89
+dialect classification 87, 89
+dialect type 73-79, 82, 87, 89
+dialectometry 77, 79, 93
+emic 71, 74, 76, 89
+etic 71, 74, 76, 89
+factor analysis or FA 71, 73, 78-82, 89
+feature validity 75, 82
+fuzzy clustering 76
+fuzzy set 73-75, 94
+isogloss 73
+layer 73, 75-76, 78
+layer model 75
+lexical variable 79
+lexical variation 80, 91
+lexicon 80
+mophological variable 79
+morphological variation 80
+morphology 80-81
+multi-dimensional scaling or MDS 77-78
+noisy clustering 73, 77
+phonetic variable 79
+phonetic variation 80
+phonetics 80, 81, 92
+principal component analysis or PCA 78-79
+prototype theory 71, 74, 75, 89
+schema theory 74
+spatial pattern 71, 78
+transition area 75
+typicality 75
+variety 72-76, 78, 85

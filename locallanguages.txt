@@ -1,2 +1,11 @@
-languages to index
-oneperline
+Cantonese
+Faetar
+Swiss German
+West Germanic Languages  
+Eastern Yiddish  
+Western Yiddish 
+Low German  
+Central German  
+Hessian  
+Upper German 
+Alemannic
