@@ -554,7 +554,6 @@
   \field{labelyear}{2010}
   \field{sortinit}{K}
   \field{number}{2}
-  \field{pages}{\biberror{no pages}}
   \field{title}{Mapping Production and Perception in Regional Vowel Shifts}
   \verb{url}
   \verb http://repository.upenn.edu/pwpl/vol16/iss2/13
@@ -612,53 +611,6 @@
   \field{volume}{40}
   \field{journaltitle}{Journal of Phonetics}
   \field{year}{2012}
-\endentry
-
-\entry{chapters/kend_frid}{incollection}{skipbib}
-  \name{author}{2}{}{%
-    {{}%
-     {Kendall}{K.}%
-     {Tyler}{T.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Fridland}{F.}%
-     {Valerie}{V.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{3}{}{%
-    {{}%
-     {Côté}{C.}%
-     {Marie-Hélène}{M.-H.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Knooihuizen}{K.}%
-     {Remco}{R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Language Science Press}%
-  }
-  \strng{namehash}{KTFV1}
-  \strng{fullhash}{KTFV1}
-  \field{labelyear}{2015}
-  \field{sortinit}{K}
-  \field{booktitle}{The future of dialects}
-  \field{pages}{1\bibrangedash 21}
-  \field{title}{Mapping the perception of linguistic form: Dialectometry with
-  perceptual data}
-  \list{location}{1}{%
-    {Berlin}%
-  }
-  \field{year}{2015}
 \endentry
 
 \entry{kend_frid_inprogress}{article}{}
