@@ -16,60 +16,71 @@
   {}
 \endgroup
 
-\entry{brun-trigaud_usage_2014}{incollection}{}
+\entry{abercrombie_problems_1956}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Brun-Trigaud}{B.-T.}%
-     {Guylaine}{G.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Diémoz}{D.}%
-     {F.}{F.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Aquino-Weber}{A.-W.}%
-     {D.}{D.}%
+     {Abercrombie}{A.}%
+     {David}{D.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Droz}%
+    {Longmans, Green}%
   }
-  \strng{namehash}{BTG1}
-  \strng{fullhash}{BTG1}
-  \field{labelyear}{2014}
-  \field{sortinit}{B}
-  \field{booktitle}{Toujours langue varie ... {Mélanges} de linguistique
-  historique du français et de dialectologie galloromane offerts à {M}. {L}e
-  {Professeur} {Andres} {Kristol} par ses collègues et anciens élèves}
-  \field{pages}{127\bibrangedash 147}
-  \field{title}{Un usage particulier de l’algorithme de
-  {Damerau}-{Levenshtein} dans le domaine occitan}
+  \strng{namehash}{AD1}
+  \strng{fullhash}{AD1}
+  \field{labelyear}{1956}
+  \field{sortinit}{A}
+  \field{title}{Problems and principles: {Studies} in the Teaching of {English}
+  as a Second Language}
   \list{location}{1}{%
-    {Geneva}%
+    {London, New York, Toronto}%
   }
-  \field{year}{2014}
+  \field{year}{1956}
 \endentry
 
-\entry{chapters/brun_etal}{incollection}{skipbib}
+\entry{angkititrakul_advances_2006}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Angkititrakul}{A.}%
+     {Pongtep}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hansen}{H.}%
+     {John~HL}{J.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{APHJH1}
+  \strng{fullhash}{APHJH1}
+  \field{labelyear}{2006}
+  \field{sortinit}{A}
+  \field{number}{2}
+  \field{pages}{634\bibrangedash 646}
+  \field{title}{Advances in phone-based modeling for automatic accent
+  classification}
+  \field{volume}{14}
+  \field{journaltitle}{Audio, Speech, and Language Processing, IEEE
+  Transactions on}
+  \field{year}{2006}
+\endentry
+
+\entry{chapters/bloem_etal}{incollection}{skipbib}
   \name{author}{3}{}{%
     {{}%
-     {Brun-Trigaud}{B.-T.}%
-     {Guylaine}{G.}%
+     {Bloem}{B.}%
+     {Jelke}{J.}%
      {}{}%
      {}{}}%
     {{}%
-     {Solliec}{S.}%
-     {Tanguy}{T.}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
      {}{}%
      {}{}}%
     {{}%
-     {Dû}{D.}%
-     {Jean~Le}{J.~L.}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
      {}{}%
      {}{}}%
   }
@@ -93,507 +104,587 @@
   \list{publisher}{1}{%
     {Language Science Press}%
   }
-  \strng{namehash}{BTGSTDJL1}
-  \strng{fullhash}{BTGSTDJL1}
+  \strng{namehash}{BJWMNJ1}
+  \strng{fullhash}{BJWMNJ1}
   \field{labelyear}{2015}
   \field{sortinit}{B}
   \field{booktitle}{The future of dialects}
-  \field{pages}{1\bibrangedash 21}
-  \field{title}{A new dialectometric approach applied to the Breton language}
+  \field{pages}{1\bibrangedash 19}
+  \field{title}{Automatically identifying characteristic features of non-native
+  English accents}
   \list{location}{1}{%
     {Berlin}%
   }
   \field{year}{2015}
 \endentry
 
-\entry{costaouec_breton_1998}{thesis}{}
+\entry{van_den_doel_evaluation_2006}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Costaouec}{C.}%
-     {Denis}{D.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{CD1}
-  \strng{fullhash}{CD1}
-  \field{labelyear}{1998}
-  \field{sortinit}{C}
-  \field{title}{Le breton parlé à {La} {Forêt}-{Fouesnant} ({Finistère}).
-  {Pratique} actuelle, problèmes de phonologie et de syntaxe}
-  \list{location}{1}{%
-    {Paris}%
-  }
-  \list{institution}{1}{%
-    {Université Paris 5}%
-  }
-  \field{type}{{PhD} {Thesis}}
-  \field{year}{1998}
-\endentry
-
-\entry{costaouec_linguistic_2012}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Costaouec}{C.}%
-     {Denis}{D.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{CD1}
-  \strng{fullhash}{CD1}
-  \field{labelyear}{2012}
-  \field{sortinit}{C}
-  \field{issn}{0942-2919}
-  \field{number}{1}
-  \field{pages}{47\bibrangedash 64}
-  \field{title}{Linguistic geography of {Breton} and sociocultural motivations}
-  \field{volume}{65}
-  \field{journaltitle}{STUF - Sprachtypologie und Universalienforschung}
-  \field{year}{2012}
-\endentry
-
-\entry{falchun_perspectives_1981}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Falc’hun}{F.}%
-     {François}{F.}%
-     {}{}%
+     {Doel}{D.}%
+     {Rias}{R.}%
+     {Van~den}{V.~d.}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {UGE}%
+    {LOT}%
   }
-  \strng{namehash}{FF1}
-  \strng{fullhash}{FF1}
-  \field{labelyear}{1981}
-  \field{sortinit}{F}
-  \field{title}{Perspectives nouvelles sur l'histoire de la langue bretonne}
+  \strng{namehash}{DRVd1}
+  \strng{fullhash}{DRVd1}
+  \field{labelyear}{2006}
+  \field{sortinit}{D}
+  \field{title}{An Evaluation of Native-speaker Judgements of Foreign-accented
+  {British} and {American} {English}}
   \list{location}{1}{%
-    {Paris}%
+    {Utrecht}%
   }
-  \field{year}{1981}
+  \field{year}{2006}
 \endentry
 
-\entry{german_etude_1984}{thesis}{}
+\entry{gao_pronunciation_2005}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {German}{G.}%
-     {Gary}{G.}%
+     {Gao}{G.}%
+     {Lili}{L.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{GG1}
-  \strng{fullhash}{GG1}
-  \field{labelyear}{1984}
+  \strng{namehash}{GL1}
+  \strng{fullhash}{GL1}
+  \field{labelyear}{2005}
   \field{sortinit}{G}
-  \field{title}{Une étude linguistique sur le breton de {Saint}-{Yvi}}
-  \list{location}{1}{%
-    {Brest}%
-  }
-  \list{institution}{1}{%
-    {Université de Bretagne Occidentale}%
-  }
-  \field{type}{{PhD} {Thesis}}
-  \field{year}{1984}
+  \field{number}{2}
+  \field{pages}{76\bibrangedash 84}
+  \field{title}{Pronunciation difficulties analysis: {A} case study using
+  native language linguistic background to understand a {Chinese} {English}
+  learner’s pronunciation problems}
+  \field{volume}{28}
+  \field{journaltitle}{Celea Journal}
+  \field{year}{2005}
 \endentry
 
-\entry{german_methode_1991}{article}{}
+\entry{gynan_comprehension_1985}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {German}{G.}%
-     {Gary}{G.}%
+     {Gynan}{G.}%
+     {Shaw~Nicholas}{S.~N.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{GG1}
-  \strng{fullhash}{GG1}
-  \field{labelyear}{1991}
+  \strng{namehash}{GSN1}
+  \strng{fullhash}{GSN1}
+  \field{labelyear}{1985}
   \field{sortinit}{G}
-  \field{pages}{177\bibrangedash 213}
-  \field{title}{Une méthode dialectométrique (assistée par ordinateur) pour
-  l’analyse des atlas linguistiques}
-  \field{volume}{7}
-  \field{journaltitle}{La Bretagne linguistique}
-  \field{year}{1991}
+  \field{pages}{160\bibrangedash 165}
+  \field{title}{Comprehension, irritation and error hierarchies}
+  \field{volume}{68}
+  \field{journaltitle}{Hispania}
+  \field{year}{1985}
 \endentry
 
-\entry{goebl_introduction_2012}{incollection}{}
-  \name{author}{1}{}{%
+\entry{labov_atlas_2006}{book}{}
+  \name{author}{3}{}{%
     {{}%
-     {Goebl}{G.}%
-     {Hans}{H.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{3}{}{%
-    {{}%
-     {Pérez}{P.}%
-     {X.~A.}{X.~A.}%
-     {Álvarez}{�.}%
-     {}{}}%
-    {{}%
-     {Carrilho}{C.}%
-     {E.}{E.}%
+     {Labov}{L.}%
+     {William}{W.}%
      {}{}%
      {}{}}%
     {{}%
-     {Magro}{M.}%
-     {C.}{C.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Centro de Linguística da Universidade de Lisboa}%
-  }
-  \strng{namehash}{GH1}
-  \strng{fullhash}{GH1}
-  \field{labelyear}{2012}
-  \field{sortinit}{G}
-  \field{booktitle}{Proceedings of the International Symposium on Limits and
-  Areas in Dialectology ({LimiAr}). {Lisbon} 2011}
-  \field{pages}{117\bibrangedash 166}
-  \field{title}{Introduction aux problèmes et méthodes de l'« École
-  dialectométrique de {Salzbourg} » (avec des exemples gallo-, italo- et
-  ibéroromans)}
-  \list{location}{1}{%
-    {Lisbon}%
-  }
-  \field{year}{2012}
-\endentry
-
-\entry{guiter_atlas_1973}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Guiter}{G.}%
-     {Henri}{H.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Straka}{S.}%
-     {G.}{G.}%
+     {Ash}{A.}%
+     {Sharon}{S.}%
      {}{}%
      {}{}}%
     {{}%
-     {Gardette}{G.}%
-     {P.}{P.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Éditions du CNRS}%
-  }
-  \strng{namehash}{GH2}
-  \strng{fullhash}{GH2}
-  \field{labelyear}{1973}
-  \field{sortinit}{G}
-  \field{booktitle}{Les dialectes romans de la {France} à la lumière des
-  atlas régionaux}
-  \field{pages}{61\bibrangedash 109}
-  \field{title}{Atlas et frontières linguistiques}
-  \list{location}{1}{%
-    {Paris}%
-  }
-  \field{year}{1973}
-\endentry
-
-\entry{heeringa_measuring_2004}{thesis}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Heeringa}{H.}%
-     {Wilbert}{W.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{HW1}
-  \strng{fullhash}{HW1}
-  \field{labelyear}{2004}
-  \field{sortinit}{H}
-  \field{title}{Measuring dialect pronunciation differences using {Levenshtein}
-  distance}
-  \list{location}{1}{%
-    {Groningen}%
-  }
-  \list{institution}{1}{%
-    {University of Groningen}%
-  }
-  \field{type}{{PhD} {Thesis}}
-  \field{year}{2004}
-\endentry
-
-\entry{jackson_historical_1967}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Jackson}{J.}%
-     {Kenneth~Hurlstone}{K.~H.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Dublin Institute for advanced studies}%
-  }
-  \strng{namehash}{JKH1}
-  \strng{fullhash}{JKH1}
-  \field{labelyear}{1967}
-  \field{sortinit}{J}
-  \field{title}{A historical phonology of {Breton}}
-  \list{location}{1}{%
-    {Dublin}%
-  }
-  \field{year}{1967}
-\endentry
-
-\entry{le_du_nouvel_2001}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Le~Dû}{L.~D.}%
-     {Jean}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Centre de recherche bretonne et celtique, Université de Bretagne
-  occidentale}%
-  }
-  \strng{namehash}{LDJ1}
-  \strng{fullhash}{LDJ1}
-  \field{labelyear}{2001}
-  \field{sortinit}{L}
-  \field{title}{Nouvel atlas linguistique de la {Basse}-{Bretagne}}
-  \list{location}{1}{%
-    {Brest}%
-  }
-  \field{year}{2001}
-\endentry
-
-\entry{le_roux_atlas_1924}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Le~Roux}{L.~R.}%
-     {Pierre}{P.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Plihon et Hommay}%
-  }
-  \strng{namehash}{LRP1}
-  \strng{fullhash}{LRP1}
-  \field{labelyear}{{1924--1963}}
-  \field{sortinit}{L}
-  \field{note}{77 sites of investigation. 600 maps.}
-  \field{title}{Atlas linguistique de la {Basse}-{Bretagne}}
-  \list{location}{1}{%
-    {Rennes; Paris}%
-  }
-  \field{year}{{1924--1963}}
-\endentry
-
-\entry{martinet_economie_1955}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Martinet}{M.}%
-     {André}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Éditions A. Francke S. A.}%
-  }
-  \strng{namehash}{MA1}
-  \strng{fullhash}{MA1}
-  \field{labelyear}{1955}
-  \field{sortinit}{M}
-  \field{shorttitle}{Économie des changements phonétiques}
-  \field{title}{Économie des changements phonétiques. {Traité} de phonologie
-  diachronique}
-  \list{location}{1}{%
-    {Bern}%
-  }
-  \field{year}{1955}
-\endentry
-
-\entry{moseley_atlas_2010}{book}{}
-  \name{editor}{1}{}{%
-    {{}%
-     {Moseley}{M.}%
-     {Chris}{C.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {UNESCO Publishing}%
-  }
-  \strng{namehash}{MC1}
-  \strng{fullhash}{MC1}
-  \field{labelyear}{2010}
-  \field{sortinit}{M}
-  \field{booktitle}{Atlas of the world's languages in danger}
-  \field{edition}{3}
-  \field{isbn}{9789231040955 9231040952}
-  \field{title}{Atlas of the world's languages in danger}
-  \list{location}{1}{%
-    {Paris}%
-  }
-  \field{year}{2010}
-\endentry
-
-\entry{nerbonne_computational_2001}{article}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Heeringa}{H.}%
-     {Wilbert}{W.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{NJHW1}
-  \strng{fullhash}{NJHW1}
-  \field{labelyear}{2001}
-  \field{sortinit}{N}
-  \field{issn}{0942-4040}
-  \field{number}{9}
-  \field{pages}{69\bibrangedash 83}
-  \field{title}{Computational Comparison and Classification of Dialects}
-  \field{volume}{2001}
-  \field{journaltitle}{Dialectologia et Geolinguistica}
-  \field{year}{2001}
-\endentry
-
-\entry{nerbonne_measuring_2010}{incollection}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Heeringa}{H.}%
-     {Wilbert}{W.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Schmidt}{S.}%
-     {Jürgen~Erich}{J.~E.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Auer}{A.}%
-     {Peter}{P.}%
+     {Boberg}{B.}%
+     {Charles}{C.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
     {Mouton de Gruyter}%
   }
-  \strng{namehash}{NJHW1}
-  \strng{fullhash}{NJHW1}
-  \field{labelyear}{2010}
+  \strng{namehash}{LWASBC1}
+  \strng{fullhash}{LWASBC1}
+  \field{labelyear}{2006}
+  \field{sortinit}{L}
+  \field{title}{The Atlas of {North} {American} {English}: {Phonetics}
+  Phonology and Sound change}
+  \list{location}{1}{%
+    {Berlin, New York}%
+  }
+  \field{year}{2006}
+\endentry
+
+\entry{nerbonne_data-driven_2009}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{labelyear}{2009}
   \field{sortinit}{N}
-  \field{booktitle}{Language and Space: {Theories} and Methods}
-  \field{pages}{550\bibrangedash 567}
-  \field{series}{Handbooks of {Linguistics} and {Communication} {Science}}
-  \field{title}{Measuring dialect differences}
-  \list{location}{1}{%
-    {Berlin}%
-  }
-  \field{year}{2010}
+  \field{number}{1}
+  \field{pages}{175\bibrangedash 198}
+  \field{title}{Data-driven dialectology}
+  \field{volume}{3}
+  \field{journaltitle}{Language and Linguistics Compass}
+  \field{year}{2009}
 \endentry
 
-\entry{solliec_dialectometrie_2014}{thesis}{}
-  \name{author}{1}{}{%
+\entry{nerbonne_gabmap_2011}{article}{}
+  \name{author}{5}{}{%
     {{}%
-     {Solliec}{S.}%
-     {Tanguy}{T.}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Colen}{C.}%
+     {Rinke}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gooskens}{G.}%
+     {Charlotte}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kleiweg}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leinonen}{L.}%
+     {Therese}{T.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{ST1}
-  \strng{fullhash}{ST1}
-  \field{labelyear}{2014}
-  \field{sortinit}{S}
-  \field{title}{Dialectométrie de la {Basse}-{Bretagne} : {E}njeux,
-  méthodologie et applications. {Quantifier} et qualifier la variation
-  linguistique, vision symbolique de l'espace et écho du dynamisme
-  synchronique en breton}
-  \list{location}{1}{%
-    {Brest}%
-  }
-  \list{institution}{1}{%
-    {Université de Bretagne Occidentale}%
-  }
-  \field{type}{{PhD} {Thesis}}
-  \field{year}{2014}
+  \strng{namehash}{NJ+1}
+  \strng{fullhash}{NJCRGCKPLT1}
+  \field{labelyear}{2011}
+  \field{sortinit}{N}
+  \field{pages}{65\bibrangedash 89}
+  \field{title}{Gabmap – A web application for dialectology}
+  \verb{url}
+  \verb http://www.gabmap.nl/
+  \endverb
+  \field{volume}{{Special Issue II}}
+  \field{journaltitle}{Dialectologia}
+  \field{year}{2011}
 \endentry
 
-\entry{seguy_relation_1971}{article}{}
+\entry{nadasdy_background_2006}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Séguy}{S.}%
-     {Jean}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{SJ1}
-  \strng{fullhash}{SJ1}
-  \field{labelyear}{1971}
-  \field{sortinit}{S}
-  \field{number}{138}
-  \field{pages}{335\bibrangedash 357}
-  \field{title}{La relation entre la distance spatiale et la distance lexicale}
-  \field{volume}{35}
-  \field{journaltitle}{Revue de Linguistique Romane}
-  \field{year}{1971}
-\endentry
-
-\entry{seguy_dialectometrie_1973}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Séguy}{S.}%
-     {Jean}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{SJ1}
-  \strng{fullhash}{SJ1}
-  \field{labelyear}{1973}
-  \field{sortinit}{S}
-  \field{pages}{1\bibrangedash 24}
-  \field{title}{La dialectométrie dans l'{Atlas} linguistique de la
-  {Gascogne}}
-  \field{volume}{37}
-  \field{journaltitle}{Revue de Linguistique Romane}
-  \field{year}{1973}
-\endentry
-
-\entry{wmffre_central_1998}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Wmffre}{W.}%
-     {Iwan}{I.}%
+     {Nádasdy}{N.}%
+     {Ádám}{�.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Lincom}%
+    {{N}emzeti Tankönyvkiadó}%
   }
-  \strng{namehash}{WI1}
-  \strng{fullhash}{WI1}
-  \field{labelyear}{1998}
-  \field{sortinit}{W}
-  \field{number}{152}
-  \field{series}{Languages of the {World}/{Materials}}
-  \field{title}{Central {Breton}}
+  \strng{namehash}{N�1}
+  \strng{fullhash}{N�1}
+  \field{labelyear}{2006}
+  \field{sortinit}{N}
+  \field{title}{Background to {English} pronunciation}
   \list{location}{1}{%
-    {Munich}%
+    {Budapest}%
   }
-  \field{year}{1998}
+  \field{year}{2006}
+\endentry
+
+\entry{petrova_voice_2006}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Petrova}{P.}%
+     {Olga}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Plapp}{P.}%
+     {Rosemary}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ringen}{R.}%
+     {Catherine}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Szentgyörgyi}{S.}%
+     {Szilárd}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PO+1}
+  \strng{fullhash}{POPRRCSS1}
+  \field{labelyear}{2006}
+  \field{sortinit}{P}
+  \field{number}{1}
+  \field{pages}{1\bibrangedash 35}
+  \field{title}{Voice and aspiration: {Evidence} from {Russian}, {Hungarian},
+  {German}, {Swedish}, and {Turkish}}
+  \field{volume}{23}
+  \field{journaltitle}{The Linguistic Review}
+  \field{year}{2006}
+\endentry
+
+\entry{prokic_detecting_2012}{inproceedings}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Prokić}{P.}%
+     {Jelena}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Çöltekin}{�.}%
+     {Çağri}{�.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Association for Computational Linguistics}%
+  }
+  \strng{namehash}{PJ��NJ1}
+  \strng{fullhash}{PJ��NJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{P}
+  \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of
+  {LINGVIS} \& {UNCLH}}
+  \field{pages}{72\bibrangedash 80}
+  \field{title}{Detecting shibboleths}
+  \field{year}{2012}
+\endentry
+
+\entry{rifkin_error_1995}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rifkin}{R.}%
+     {Benjamin}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RB1}
+  \strng{fullhash}{RB1}
+  \field{labelyear}{1995}
+  \field{sortinit}{R}
+  \field{number}{4}
+  \field{pages}{477\bibrangedash 490}
+  \field{title}{Error Gravity in Learners' Spoken {Russian}: {A} Preliminary
+  Study}
+  \field{volume}{79}
+  \field{journaltitle}{The Modern Language Journal}
+  \field{year}{1995}
+\endentry
+
+\entry{ryan_social_1983}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ryan}{R.}%
+     {Ellen~Bouchard}{E.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{REB1}
+  \strng{fullhash}{REB1}
+  \field{labelyear}{1983}
+  \field{sortinit}{R}
+  \field{number}{02}
+  \field{pages}{148\bibrangedash 159}
+  \field{title}{Social psychological mechanisms underlying native speaker
+  evaluations of non-native speech}
+  \field{volume}{5}
+  \field{journaltitle}{Studies in Second Language Acquisition}
+  \field{year}{1983}
+\endentry
+
+\entry{schaden_crosstowns_2004}{inproceedings}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schaden}{S.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SS1}
+  \strng{fullhash}{SS1}
+  \field{labelyear}{2004}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of {LREC} 2004}
+  \field{title}{{CrossTowns}: {Automatically} Generated Phonetic Lexicons of
+  Cross-lingual Pronunciation Variants of European City Names}
+  \field{year}{2004}
+\endentry
+
+\entry{schaden_casselberveetovallarga_2006}{inproceedings}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Schaden}{S.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jekosch}{J.}%
+     {Ute}{U.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SSJU1}
+  \strng{fullhash}{SSJU1}
+  \field{labelyear}{2006}
+  \field{sortinit}{S}
+  \field{booktitle}{Proceedings of {LREC} 2006}
+  \field{title}{Casselberveetovallarga and other unpronounceable places: {The}
+  {CrossTowns} corpus}
+  \field{year}{2006}
+\endentry
+
+\entry{sebregts_sociophonetics_2015}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sebregts}{S.}%
+     {Koen}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {LOT}%
+  }
+  \strng{namehash}{SK1}
+  \strng{fullhash}{SK1}
+  \field{labelyear}{2015}
+  \field{sortinit}{S}
+  \field{title}{The sociophonetics and phonology of {Dutch} \textit{r}}
+  \list{location}{1}{%
+    {Utrecht}%
+  }
+  \field{year}{2015}
+\endentry
+
+\entry{walker_pronunciation_1984}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Walker}{W.}%
+     {Douglas~C}{D.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Ottawa Press}%
+  }
+  \strng{namehash}{WDC1}
+  \strng{fullhash}{WDC1}
+  \field{labelyear}{1984}
+  \field{sortinit}{W}
+  \field{title}{The pronunciation of {Canadian} {French}}
+  \list{location}{1}{%
+    {Ottawa}%
+  }
+  \field{year}{1984}
+\endentry
+
+\entry{walker_french_2001}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Walker}{W.}%
+     {Douglas~C}{D.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of Calgary Press}%
+  }
+  \strng{namehash}{WDC1}
+  \strng{fullhash}{WDC1}
+  \field{labelyear}{2001}
+  \field{sortinit}{W}
+  \field{title}{French sound structure}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Calgary}%
+  }
+  \field{year}{2001}
+\endentry
+
+\entry{waniek-klimczak_issues_2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Waniek-Klimczak}{W.-K.}%
+     {Ewa}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge Scholars Pub}%
+  }
+  \strng{namehash}{WKE1}
+  \strng{fullhash}{WKE1}
+  \field{labelyear}{2008}
+  \field{sortinit}{W}
+  \field{title}{Issues in accents of {English}}
+  \field{volume}{2}
+  \list{location}{1}{%
+    {Newcastle-upon-Tyne}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{weinberger_speech_2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Weinberger}{W.}%
+     {Steven~H}{S.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kunath}{K.}%
+     {Stephen~A}{S.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WSHKSA1}
+  \strng{fullhash}{WSHKSA1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{number}{1}
+  \field{pages}{265\bibrangedash 281}
+  \field{title}{The Speech Accent Archive: {T}owards a typology of {English}
+  accents}
+  \field{volume}{73}
+  \field{journaltitle}{Language and Computers}
+  \field{year}{2011}
+\endentry
+
+\entry{wells_accents_1982}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wells}{W.}%
+     {John~C}{J.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{WJC1}
+  \strng{fullhash}{WJC1}
+  \field{labelyear}{1982}
+  \field{sortinit}{W}
+  \field{title}{Accents of {English}}
+  \field{volume}{1}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{1982}
+\endentry
+
+\entry{wieling_bipartite_2011}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMNJ1}
+  \strng{fullhash}{WMNJ1}
+  \field{labelyear}{2011}
+  \field{sortinit}{W}
+  \field{number}{3}
+  \field{pages}{700\bibrangedash 715}
+  \field{title}{Bipartite spectral graph partitioning for clustering dialect
+  varieties and detecting their linguistic features}
+  \field{volume}{25}
+  \field{journaltitle}{Computer Speech \& Language}
+  \field{year}{2011}
+\endentry
+
+\entry{wieling_analyzing_2014}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Upton}{U.}%
+     {Clive}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thompson}{T.}%
+     {Ann}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WMUCTA1}
+  \strng{fullhash}{WMUCTA1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{number}{1}
+  \field{pages}{107\bibrangedash 117}
+  \field{title}{Analyzing the {BBC} {Voices} data: {Contemporary} {English}
+  dialect areas and their characteristic lexical variants}
+  \field{volume}{29}
+  \field{journaltitle}{Literary and Linguistic Computing}
+  \field{year}{2014}
+\endentry
+
+\entry{wieling_measuring_2014}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bloem}{B.}%
+     {Jelke}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mignella}{M.}%
+     {Kaitlin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Timmermeister}{T.}%
+     {Mona}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WM+1}
+  \strng{fullhash}{WMBJMKTMNJ1}
+  \field{labelyear}{2014}
+  \field{sortinit}{W}
+  \field{number}{2}
+  \field{pages}{253\bibrangedash 269}
+  \field{title}{Measuring foreign accent strength in {English}. {Validating}
+  {Levenshtein} Distance as a Measure}
+  \field{volume}{4}
+  \field{journaltitle}{Language Dynamics and Change}
+  \field{year}{2014}
 \endentry
 
 \lossort

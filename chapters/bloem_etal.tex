@@ -23,9 +23,9 @@
 % \epigram{Change epigram in chapters/01.tex or remove it there }
 \abstract{We demonstrate the application of statistical measures from dialectometry to the study of accented English speech. This new methodology enables a more quantitative approach to the study of accents. Studies on spoken dialect data have shown that a combination of representativeness (the difference between pronunciations within the language variety is small) and distinctiveness (the difference between pronunciations inside and outside the variety is large) is a good way to identify characteristic features of a language variety. We applied this method from dialectology to transcriptions of the words from the Speech Accent Archive, while treating L2 English speakers with different L1s as `varieties'. This yields lists of words that are pronounced characteristically differently in comparison to native accents of English. We discuss English accent characteristics for French, Hungarian and Dutch, and compare the results to other sources of accent information. Knowing about these characteristic features of accents has useful applications in teaching L2 learners of English, since potentially difficult sounds or sound combinations can be identified and addressed based on the learner's native language.
 }
+\rohead{Automatically identifying features of non-native English accents} 
 \maketitle 
 \begin{document}
- 
 %\author{Jelke Bloem\textsuperscript{1}, Martijn Wieling\textsuperscript{2,3}, John Nerbonne\textsuperscript{2,4}} 
 %\affil[1]{Amsterdam Center for Language and Communication, University of Amsterdam}
 %\affil[2]{Center for Language and Cognition, University of Groningen}
@@ -67,6 +67,7 @@ To illustrate the method, we discuss the results for three languages: French, Hu
 \label{s:measure}
 \citet{wieling_bipartite_2011} proposed two measures to identify characteristic features of dialects. The first measure is \textsc{representativeness}, which they defined as how frequently the feature occurred within the dialect area. A high representativeness indicates that the differences between pronunciations within the dialect area are small. The second measure is \textsc{distinctiveness}, which they defined as how characteristic the feature is for the dialect. A high distinctiveness indicates that the differences between pronunciations within and outside the dialect area are large. 
 
+\largerpage
 These measures are comparable to \citegen[p.43]{labov_atlas_2006} isogloss measures: \textsc{representativeness} is identical to their measure of homogeneity, and \textsc{distinctiveness} is similar but not identical to their consistency measure. The differences are discussed by \citet{wieling_analyzing_2014}. Furthermore, the representativeness measure is similar to \textsc{recall} and distinctiveness to \textsc{precision}, as used in information retrieval.
 
 \citet{prokic_detecting_2012} showed that even a single dialect word can be used to characterize a dialect area using these measures. The measures proposed by \citet{wieling_bipartite_2011} were generalized by \citet{prokic_detecting_2012} in order to apply them (numerically) to the word level, rather than at the level of the individual features. Given that we are interested in the word level, we follow Proki\'{c} et al.'s definition. A further advantage of focusing on the word level is that phonetic context is taken into account. Non-native speakers are likely to use phonological rules from their native language, which may depend on context.
@@ -83,7 +84,9 @@ To quantify distinctiveness, we calculate a mean difference $\bar{d}$ with respe
 \begin{equation}
 \bar{d}^{\neg l}_f = \frac{1}{|l|(|G| - |l|)} \sum_{s \in l,s' \notin l} d_f(s,s')
 \end{equation}
+
 Characteristic features are considered to be those where the difference between $\bar{d}^{\neg l}_f$ and $\bar{d}^l_f$ is relatively large. Following \citet{prokic_detecting_2012}, we normalize these measures by calculating the difference between their z-scores rather than just the raw difference:
+
 \begin{equation}
 \frac{\bar{d}^{\neg l}_f - \bar{d}_f}{sd(d_f)} - \frac{\bar{d}^{l}_f - \bar{d}_f}{sd(d_f)}
 \end{equation}
@@ -150,6 +153,7 @@ There are 34 speakers of French in the data set, providing us with a large sampl
 
 In French, unstressed vowels tend to be pronounced, and French speakers would be unlikely to produce the form [ɾə] anyway. The [ə] does exist in French, but it is phonetically realized only under special circumstances. A word-final schwa is usually elided, and only pronounced when the next word starts with a consonant. However, in the orthography this sound always appears as an <\textit{e}>. A similar effect can be observed for \textit{into} (ranked 2nd). English speakers use the form [ɪ̃ntə], used 56 times, as well as other forms ending in [ə], which are only used by one of the French speakers. The French language does not have vowel reduction to [ə] in word-final position, so it makes sense that French speakers would deviate from standard English here.
 
+\largerpage[-1]
 For the word \textit{call} (rank 3), we mainly observe the use of [ɔ] as the vowel, while the majority of the native speakers uses [ɑ]. In French, the vowel [ɑ] is used, but it is in the process of merging with [a] \citep[60--62]{walker_french_2001}. Perhaps for this reason, the French native speakers use [ɔ] in their English. The [ɔ] pronunciation can be observed in the speech of some native speakers as well. British Received Pronunciation (RP) speakers would use [ɔ] here, and this dialect is prestigious. Furthermore, the same difference can be observed in the Dutch and Hungarian data, though not as strongly. It may be the case that [ɔ] is taught to second language learners of English in this context, explaining the effect. The same phenomenon occurs in \textit{small} (rank 4), where there are even some instances of [o] in the French-accented speech.
 
 To continue, we can see that French native speakers do not aspirate the initial consonants of \textit{call} or \textit{can} (5th), for there are no aspirated consonants in Standard French \citep[p. 35]{walker_pronunciation_1984}. In the fifth word, \textit{can}, we can also observe the usage of [æ̃] or [æ] instead of [ə] by the French speakers. [æ] is not a phoneme of standard French \citep{walker_french_2001}, however, it is the vowel used in the full American English form of \textit{can}. It is likely that the speakers have mostly acquired this English sound, but have not or not yet learned to reduce it, as the native speakers do.
@@ -190,7 +194,11 @@ In summary, our data show that regressive devoicing and the lack of dental frica
 
 \subsection{Dutch}
 
-\begin{table}[h]
+
+While it is interesting to have quantitative evidence for characteristic features that can be linked to the phonetics of the native language, this does not tell us much about the ranking of the features. How do we know that the top five words really contain the most characteristic features? We are not aware of any other work that ranks phonetic or segment-based features of accents using a computational measure, but we may be able to find some evidence in perception studies. \citet{van_den_doel_evaluation_2006} conducted a large study on how Dutch accents are judged by British (Received Pronunciation) and American native speakers, which was aimed at finding salient pronunciation errors. In his study, he presented native English speakers 32 sentences, each containing a single pronunciation error considered to be typically Dutch, based on a survey. The pronunciation of the sentences was native, except for the error. Not all of the errors are phonemic (and therefore relevant to our study), but the ones that are, are considered by the authors to be representative of a more general phonological error. In the study, \citet[292]{van_den_doel_evaluation_2006} established hierarchies of errors consisting of five classes of severity, and separately for British English and American English. The most severe errors according to both groups are stress errors, which are not relevant to our study. We will discuss the most severe phonemic errors mentioned in the study, reproduced in Table~\ref{tb:doel}, and compare them to our most characteristic features of Dutch accents, the top five of which are listed in Table~\ref{tb:nl}.
+
+
+\begin{table}[t] 
 \begin{tabular}{l  p{4.4cm} @{\hskip 1cm} p{4.4cm}}
 \lsptoprule %\midrule
 {Severity} & {Received Pronunciation} & {General American} \\ \midrule
@@ -203,7 +211,8 @@ In summary, our data show that regressive devoicing and the lack of dental frica
 \label{tb:doel}
 \end{table}
 
-\begin{table}[h]
+
+\begin{table} 
 \begin{tabular}{lld{3}ll}
 \lsptoprule %\midrule
 Rank & Word   & \multicolumn{1}{l}{Score} & Characteristic forms & Native forms \\ \midrule
@@ -223,7 +232,8 @@ Rank & Word   & \multicolumn{1}{l}{Score} & Characteristic forms & Native forms 
 \label{tb:nl}
 \end{table}
 
-While it is interesting to have quantitative evidence for characteristic features that can be linked to the phonetics of the native language, this does not tell us much about the ranking of the features. How do we know that the top five words really contain the most characteristic features? We are not aware of any other work that ranks phonetic or segment-based features of accents using a computational measure, but we may be able to find some evidence in perception studies. \citet{van_den_doel_evaluation_2006} conducted a large study on how Dutch accents are judged by British (Received Pronunciation) and American native speakers, which was aimed at finding salient pronunciation errors. In his study, he presented native English speakers 32 sentences, each containing a single pronunciation error considered to be typically Dutch, based on a survey. The pronunciation of the sentences was native, except for the error. Not all of the errors are phonemic (and therefore relevant to our study), but the ones that are, are considered by the authors to be representative of a more general phonological error. In the study, \citet[292]{van_den_doel_evaluation_2006} established hierarchies of errors consisting of five classes of severity, and separately for British English and American English. The most severe errors according to both groups are stress errors, which are not relevant to our study. We will discuss the most severe phonemic errors mentioned in the study, reproduced in Table~\ref{tb:doel}, and compare them to our most characteristic features of Dutch accents, the top five of which are listed in Table~\ref{tb:nl}.
+
+
 
 For the American English data, two phonemic errors were classified in the most severe error class \citet{van_den_doel_evaluation_2006}: the use of the uvular trill [ʀ], and `fortis/lenis neutralization' (similar to devoicing, replacing [v] with [f], [d] with [t]).
 The first error is not observed in our top five. The topmost word where an [ʀ] might be found is \textit{for} [2] at rank 19. However the Dutch speakers either use [ɹ] or no final consonant at all, and this is similar to what the native speakers do. In fact, in all of the words spoken by the 16 Dutch native speakers in the SAA, no instances of [ʀ] occur. The error may be severe and distinctive, but not representative, and therefore not characteristic. Even in native Dutch, [ʀ] is only used in the south, and throughout the Dutch language area, five main categories of \textit{r} are in use, with further subdivisions possible \citep{sebregts_sociophonetics_2015}. 
@@ -232,6 +242,7 @@ This illustrates the fact that the perception experiment of \citet{van_den_doel_
 Out of the remaining errors listed in the second-most severe class for both British and American English, all but one appear to be relatively uncharacteristic for Dutch non-native speakers of English. /v/-/w/ confusion is listed as severe, and might be expected because the Dutch /w/ is usually often pronounced 
 [ʋ]. It almost never occurs in the data. For each word containing a \textit{w}, all but one or two Dutch speakers use [w]. In fact, both instances of \textit{we} in the elicitation paragraph are the two lowest ranked words using our difference scores. Another such confusion, /æ/-/e/ confusion, might be expected in \textit{slabs} (rank 3 in Table~\ref{tb:nl}). This confusion may arise because Dutch does not normally use [æ]. However, no Dutch speakers pronounce \textit{slabs} with an [e], though [a] and [ɛ] are each used by one speaker. The word mainly ranks highly because of devoicing in the final consonant cluster. Another error considered severe, though it can only occur in intermediate stages of learning, is glottalization of final /d/. While Dutch does not have any final glottalization, the hypothesis is that because English has glottalization of final /t/, Dutch speakers may generalize it. There is only one final /d/ in our elicitation paragraph, in \textit{red}, and the phenomenon does not occur there. The word has a score of only -0.05, indicating a very similar distribution of forms as among the native speakers, with the exception of two speakers who did fortis/lenis neutralization. The last uncommon error is the insertion of an epenthetic schwa in [lm] clusters. There are no such consonant clusters in the elicitation paragraph, and there are not many words that end in \textit{lm} in English.
 
+\largerpage 
 One notable characteristic that \citet{van_den_doel_evaluation_2006} classifies in the second-most severe category, is the replacement of dental fricative with other sounds (most likely [t] and [d] in Dutch). The highest ranked word with a dental fricative in Dutch accents is \textit{the }[2] at rank 17. The reason is that various different replacements of the 
 [ð] are used by the Dutch speakers. The expected phoneme [d] was used seven times, and four times [d̪] was used, the dental variety which is used in Flemish Dutch. Only two out of these four speakers were actually Flemish, so it may be used as a closer approximation of a dental fricative when learning English. Three more speakers correctly used [ð].
 Since there is so much variation, there is no form that is particularly representative of Dutch accents, and the feature is not judged to be characteristic as a result. However, if we rank the Dutch accent features only by distinctiveness, two instances of \textit{the} are ranked second and third. Consequently, this approach may be use to detect errors which show great variability by the non-native speakers.

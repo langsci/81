@@ -66,6 +66,58 @@
   \field{year}{2006}
 \endentry
 
+\entry{chapters/bloem_etal}{incollection}{skipbib}
+  \name{author}{3}{}{%
+    {{}%
+     {Bloem}{B.}%
+     {Jelke}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wieling}{W.}%
+     {Martijn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Côté}{C.}%
+     {Marie-Hélène}{M.-H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knooihuizen}{K.}%
+     {Remco}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{BJWMNJ1}
+  \strng{fullhash}{BJWMNJ1}
+  \field{labelyear}{2015}
+  \field{sortinit}{B}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{1\bibrangedash 19}
+  \field{title}{Automatically identifying characteristic features of non-native
+  English accents}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
 \entry{van_den_doel_evaluation_2006}{book}{}
   \name{author}{1}{}{%
     {{}%
