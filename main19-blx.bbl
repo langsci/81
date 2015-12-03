@@ -32,7 +32,7 @@
   \field{pages}{3\bibrangedash 41}
   \field{title}{Regional variation and edges}
   \field{volume}{20}
-  \field{journaltitle}{Zeitschrift für Sprachwissenschaft}
+  \field{journaltitle}{Zeitschrift f??r Sprachwissenschaft}
   \field{year}{2001}
 \endentry
 
@@ -207,7 +207,7 @@
      {}{}%
      {}{}}%
     {{}%
-     {Żygis}{�.}%
+     {??ygis}{?.}%
      {Marzena}{M.}%
      {}{}%
      {}{}}%
@@ -240,7 +240,7 @@
   \name{author}{1}{}{%
     {{}%
      {Grosjean}{G.}%
-     {François}{F.}%
+     {Fran??ois}{F.}%
      {}{}%
      {}{}}%
   }
@@ -249,7 +249,7 @@
   \field{labelyear}{1998}
   \field{sortinit}{G}
   \field{abstract}{%
-  Natascha Müller's proposal to view transfer as a relief strategy used by
+  Natascha M??ller's proposal to view transfer as a relief strategy used by
   bilingual learners to cope with problematic input is very interesting and has
   far-reaching consequences for theories of bilingual language acquisition. The
   author makes a strong case for the fact that bilingual children transfer
@@ -260,7 +260,7 @@
   usually too broad. I will then propose that anyone interested in studying
   transfer must take into account the language mode the language learner or
   bilingual subject is in when being studied, and I will end by showing the
-  consequences that this may have if it is not done. Natascha Müller's main
+  consequences that this may have if it is not done. Natascha M??ller's main
   argument is not affected by the language mode factor but the quantitative
   difference she finds between monolingual and bilingual children could be.%
   }
@@ -300,9 +300,9 @@
   \strng{fullhash}{MA1}
   \field{labelyear}{2001}
   \field{sortinit}{M}
-  \field{booktitle}{Die {Deutsche} {Sprache} in {Südtirol}}
+  \field{booktitle}{Die {Deutsche} {Sprache} in {S??dtirol}}
   \field{pages}{65\bibrangedash 76}
-  \field{title}{L’italiano nelle tre comunità linguistiche tirolesi}
+  \field{title}{L???italiano nelle tre comunit?? linguistiche tirolesi}
   \list{location}{1}{%
     {Vienna}%
   }

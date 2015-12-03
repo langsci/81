@@ -1,14 +1,14 @@
 Gravity model: 326 - 335
-Wave model: 315 – 325 / 99 – 112 
+Wave model: 315 ? 325 / 99 ? 112 
 Logistic regression: 313
-Chi-squared: 313 / 338 – 390
+Chi-squared: 313 / 338 ? 390
 Standardisation: throughout the article
-Audiovisual stimuli: 163 – 314
-Age differences: 382 – 390
+Audiovisual stimuli: 163 ? 314
+Age differences: 382 ? 390
 Forms of address: throughout the article
 Person disagreement: throughout the article
-Quantitative methodology: 163 – 314 
-Qualitative methodology: 163 – 314
-Syntactic hierarchy: 391 – 417 / 113 – 162
-Data elicitation: 163 – 314
-Educational level differences: 335 – 382
+Quantitative methodology: 163 ? 314 
+Qualitative methodology: 163 ? 314
+Syntactic hierarchy: 391 ? 417 / 113 ? 162
+Data elicitation: 163 ? 314
+Educational level differences: 335 ? 382

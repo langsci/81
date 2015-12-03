@@ -6,7 +6,7 @@ distance matrix 342
 geographical information system  329
 GIS  329
 image database  328
-informants’ comment  327, 329, 337, 338
+informants? comment  327, 329, 337, 338
 multiple answers  329, 336, 337, 338
 network representation  341-345
 road network  326, 331, 345
