@@ -16,876 +16,729 @@
   {}
 \endgroup
 
-\entry{andres_verdoppelung_2011}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Andres}{A.}%
-     {Marie-Christine}{M.-C.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{AMC1}
-  \strng{fullhash}{AMC1}
-  \field{labelyear}{2011}
-  \field{sortinit}{A}
-  \field{number}{1}
-  \field{pages}{9\bibrangedash 18}
-  \field{title}{Die {Verdoppelung} beim {Verb} \textit{afaa} im
-  nord-öst\-li\-chen {Aargau}}
-  \field{volume}{45}
-  \field{journaltitle}{Linguistik online}
-  \field{year}{2011}
-\endentry
-
-\entry{bellmann_zur_1997}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Bellmann}{B.}%
-     {Günter}{G.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{1}{}{%
-    {{}%
-     {Stickel}{S.}%
-     {Gerhard}{G.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {de Gruyter}%
-  }
-  \strng{namehash}{BG1}
-  \strng{fullhash}{BG1}
-  \field{labelyear}{1997}
-  \field{sortinit}{B}
-  \field{booktitle}{Varietäten des {Deutschen}. {Regional}- und
-  {Umgangssprachen}}
-  \field{pages}{271\bibrangedash 290}
-  \field{title}{Zur {Technik} und {Aussagefähigkeit} zweidimensionaler
-  {Dialekterhebung} und {Dialektkartographie} am {Beispiel} des
-  {Mittelrheinischen} {Sprachatlasses}}
-  \list{location}{1}{%
-    {Berlin; New York}%
-  }
-  \field{year}{1997}
-\endentry
-
-\entry{bellmann_mittelrheinischer_1994}{book}{}
+\entry{adank_imitation_2010}{article}{}
   \name{author}{3}{}{%
     {{}%
-     {Bellmann}{B.}%
-     {Günter}{G.}%
+     {Adank}{A.}%
+     {Patti}{P.}%
      {}{}%
      {}{}}%
     {{}%
-     {Herrgen}{H.}%
-     {Joachim}{J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Schmidt}{S.}%
-     {Jürgen~Erich}{J.~E.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Niemeyer}%
-  }
-  \strng{namehash}{BGHJSJE1}
-  \strng{fullhash}{BGHJSJE1}
-  \field{labelyear}{{1994--2002}}
-  \field{sortinit}{B}
-  \field{note}{5 Bände}
-  \field{title}{Mittelrheinischer {Sprachatlas} ({MRhSA})}
-  \list{location}{1}{%
-    {Tübingen}%
-  }
-  \field{year}{{1994--2002}}
-\endentry
-
-\entry{berger_depictive_2005}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Bucheli~Berger}{B.~B.}%
-     {Claudia}{C.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Himmelmann}{H.}%
-     {Nikolaus~P.}{N.~P.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Schultze-Berndt}{S.-B.}%
-     {Eva}{E.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Oxford University Press}%
-  }
-  \strng{namehash}{BBC1}
-  \strng{fullhash}{BBC1}
-  \field{labelyear}{2005}
-  \field{sortinit}{B}
-  \field{booktitle}{Secondary Predication and Adverbial Modification. {The}
-  Typology of Depictives}
-  \field{pages}{141\bibrangedash 171}
-  \field{title}{Depictive agreement and the development of a depictive marker
-  in {Swiss} {German} dialects}
-  \list{location}{1}{%
-    {Oxford}%
-  }
-  \field{year}{2005}
-\endentry
-
-\entry{berger_neue_2008}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Bucheli~Berger}{B.~B.}%
-     {Claudia}{C.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Elspass}{E.}%
-     {Stephan}{S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {König}{K.}%
-     {Wer\-ner}{W.-n.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Olms}%
-  }
-  \strng{namehash}{BBC1}
-  \strng{fullhash}{BBC1}
-  \field{labelyear}{2008}
-  \field{sortinit}{B}
-  \field{booktitle}{Sprachgeographie digital – die neue {Generation} der
-  {Sprachatlanten} (mit 80 {Karten})}
-  \field{pages}{29\bibrangedash 44}
-  \field{series}{Germanistische {Linguistik} 190–191}
-  \field{title}{Neue {Technik}, alte {Probleme}: {A}uf dem {Weg} zum
-  {Syntaktischen} {Atlas} der {Deutschen} {Schweiz} ({SADS})}
-  \list{location}{1}{%
-    {Hildesheim}%
-  }
-  \field{year}{2008}
-\endentry
-
-\entry{bucheli_syntactic_2002}{incollection}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Bucheli~Berger}{B.~B.}%
-     {Claudia}{C.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Glaser}{G.}%
-     {Elvira}{E.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{3}{}{%
-    {{}%
-     {Barbiers}{B.}%
-     {Sjef}{S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Cornips}{C.}%
-     {Leonie}{L.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kleij}{K.}%
-     {Susanne van~der}{S.~v.~d.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Meertens Instituut (Meertens Institute Electronic Publications in
-  Linguistics 2)}%
-  }
-  \strng{namehash}{BBCGE1}
-  \strng{fullhash}{BBCGE1}
-  \field{labelyear}{2002}
-  \field{sortinit}{B}
-  \field{booktitle}{Syntactic Microvariation}
-  \field{pages}{41\bibrangedash 74}
-  \field{title}{The Syntactic Atlas of {Swiss} {German} Dialects: {E}mpirical
-  and methodological problems}
-  \list{location}{1}{%
-    {Amsterdam}%
-  }
-  \field{year}{2002}
-\endentry
-
-\entry{cornips_syntax_2005}{book}{}
-  \name{editor}{2}{}{%
-    {{}%
-     {Cornips}{C.}%
-     {Leonie}{L.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Corrigan}{C.}%
-     {Karen~P.}{K.~P.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {John Benjamins}%
-  }
-  \strng{namehash}{CLCKP1}
-  \strng{fullhash}{CLCKP1}
-  \field{labelyear}{2005}
-  \field{sortinit}{C}
-  \field{booktitle}{Syntax and Variation. {Reconciling} the Biological and the
-  Social}
-  \field{title}{Syntax and Variation. {Reconciling} the Biological and the
-  Social}
-  \list{location}{1}{%
-    {Amsterdam/Philadelphia}%
-  }
-  \field{year}{2005}
-\endentry
-
-\entry{fleischer_erhebung_2012}{article}{}
-  \name{author}{3}{}{%
-    {{}%
-     {Fleischer}{F.}%
-     {Jürg}{J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kasper}{K.}%
-     {Simon}{S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Lenz}{L.}%
-     {Alexandra~N.}{A.~N.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{FJKSLAN1}
-  \strng{fullhash}{FJKSLAN1}
-  \field{labelyear}{2012}
-  \field{sortinit}{F}
-  \field{number}{1}
-  \field{pages}{2\bibrangedash 42}
-  \field{title}{Die {Erhebung} syntaktischer Phänomene durch die indirekte
-  {Methode}: {Ergebnisse} und {Erfahrungen} aus dem {Forschungsprojekt}
-  '{Syntax} hessischer {Dialekte}' ({SyHD})}
-  \field{volume}{79}
-  \field{journaltitle}{Zeitschrift für Dialektologie und Linguistik}
-  \field{year}{2012}
-\endentry
-
-\entry{getis_analysis_1992}{article}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Getis}{G.}%
-     {Arthur}{A.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Ord}{O.}%
-     {J.~Keith}{J.~K.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{GAOJK1}
-  \strng{fullhash}{GAOJK1}
-  \field{labelyear}{1992}
-  \field{sortinit}{G}
-  \field{number}{3}
-  \field{pages}{189\bibrangedash 206}
-  \field{title}{The Analysis of Spatial Association by Use of Distance
-  Statistics}
-  \field{volume}{24}
-  \field{journaltitle}{Geographical Analysis}
-  \field{year}{1992}
-\endentry
-
-\entry{glaser_wandel_2014}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Glaser}{G.}%
-     {Elvira}{E.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{GE1}
-  \strng{fullhash}{GE1}
-  \field{labelyear}{2014}
-  \field{sortinit}{G}
-  \field{number}{1}
-  \field{pages}{21\bibrangedash 64}
-  \field{title}{Wandel und {Variaion} in der {Morphosyntax} der
-  schweizerdeutschen {Dialekte}}
-  \field{volume}{66}
-  \field{journaltitle}{Taal en Tongval}
-  \field{year}{2014}
-\endentry
-
-\entry{glaser_empirische_2011}{article}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Glaser}{G.}%
-     {Elvira}{E.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Frey}{F.}%
-     {Natascha}{N.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{GEFN1}
-  \strng{fullhash}{GEFN1}
-  \field{labelyear}{2011}
-  \field{sortinit}{G}
-  \field{number}{1}
-  \field{pages}{3\bibrangedash 7}
-  \field{title}{Empirische {Studien} zur {Verbverdoppelung} in
-  schweizerdeutschen {Dialekten}}
-  \field{volume}{45}
-  \field{journaltitle}{Linguistik online}
-  \field{year}{2011}
-\endentry
-
-\entry{goebl_dialectometry_2010}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Goebl}{G.}%
-     {Hans}{H.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{3}{}{%
-    {{}%
-     {Lameli}{L.}%
-     {Alfred}{A.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kehrein}{K.}%
-     {Roland}{R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Rabanus}{R.}%
-     {Stefan}{S.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {De Gruyter Mouton}%
-  }
-  \strng{namehash}{GH1}
-  \strng{fullhash}{GH1}
-  \field{labelyear}{2010}
-  \field{sortinit}{G}
-  \field{booktitle}{Language and Space. {An} International Handbook of
-  Linguistic Variation}
-  \field{pages}{433\bibrangedash 457}
-  \field{title}{Dialectometry and quantitative mapping}
-  \field{volume}{2: {L}anguage Mapping}
-  \list{location}{1}{%
-    {Berlin}%
-  }
-  \field{year}{2010}
-\endentry
-
-\entry{grieve_use_2011}{inproceedings}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Grieve}{G.}%
-     {Jack}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Zeldes}{Z.}%
-     {Amir}{A.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Lüdeling}{L.}%
-     {Anke}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{GJ1}
-  \strng{fullhash}{GJ1}
-  \field{labelyear}{2011}
-  \field{sortinit}{G}
-  \field{booktitle}{Proceedings of {Quantitative} {Investigations} in
-  {Theoretical} {Linguistics} 4 ({QITL}-4)}
-  \field{pages}{34\bibrangedash 37}
-  \field{title}{The use of spatial autocorrelation statistics for the analysis
-  of regional linguistic variation}
-  \list{location}{1}{%
-    {Humboldt-Universität zu Berlin}%
-  }
-  \field{year}{2011}
-\endentry
-
-\entry{haas_deutschsprachige_2000}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Haas}{H.}%
-     {Walter}{W.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Bickel}{B.}%
-     {Hans}{H.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Schläp\-fer}{S.-f.}%
-     {Robert}{R.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Sauerländer}%
-  }
-  \strng{namehash}{HW1}
-  \strng{fullhash}{HW1}
-  \field{labelyear}{2000}
-  \field{sortinit}{H}
-  \field{booktitle}{Die viersprachige {Schweiz}}
-  \field{edition}{2}
-  \field{pages}{57\bibrangedash 74}
-  \field{title}{Die deutschsprachige {Schweiz}}
-  \list{location}{1}{%
-    {Aarau}%
-  }
-  \field{year}{2000}
-\endentry
-
-\entry{Henry2002}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Henry}{H.}%
-     {Alison}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{3}{}{%
-    {{}%
-     {Chambers}{C.}%
-     {Jack}{J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Trudgill}{T.}%
+     {Hagoort}{H.}%
      {Peter}{P.}%
      {}{}%
      {}{}}%
     {{}%
-     {{Schilling-Estes}}{S.}%
-     {Natalie}{N.}%
+     {Bekkering}{B.}%
+     {Harold}{H.}%
      {}{}%
      {}{}}%
   }
-  \list{publisher}{1}{%
-    {Blackwell}%
-  }
-  \strng{namehash}{HA1}
-  \strng{fullhash}{HA1}
-  \field{labelyear}{2002}
-  \field{sortinit}{H}
-  \field{booktitle}{The Handbook of Language Variation and Change}
-  \field{pages}{267\bibrangedash 282}
-  \field{title}{Variation and Syntactic Theory}
-  \list{location}{1}{%
-    {Oxford}%
-  }
-  \field{year}{2002}
-\endentry
-
-\entry{hotzenkocherle_sprachatlas_1962}{book}{}
-  \name{editor}{1}{}{%
-    {{}%
-     {Hotzenköcherle}{H.}%
-     {Rudolf}{R.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Francke}%
-  }
-  \strng{namehash}{HR1}
-  \strng{fullhash}{HR1}
-  \field{labelyear}{{1962--1997}}
-  \field{sortinit}{H}
-  \field{booktitle}{Sprachatlas der deutschen {Schweiz} ({SDS})}
-  \field{title}{Sprachatlas der deutschen {Schweiz} ({SDS})}
-  \list{location}{1}{%
-    {Bern; Basel}%
-  }
-  \field{year}{{1962--1997}}
-\endentry
-
-\entry{kayne_microparametric_1996}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Kayne}{K.}%
-     {Richard}{R.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Black}{B.}%
-     {James~R.}{J.~R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Motapanyane}{M.}%
-     {Virginia}{V.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {John Benjamins}%
-  }
-  \strng{namehash}{KR1}
-  \strng{fullhash}{KR1}
-  \field{labelyear}{1996}
-  \field{sortinit}{K}
-  \field{booktitle}{Microparametric Syntax and Dialect Variation}
-  \field{pages}{ix\bibrangedash xviii}
-  \field{title}{Microparametric Syntax: {Some} Introductory Remarks}
-  \list{location}{1}{%
-    {Amsterdam/Philadelphia}%
-  }
-  \field{year}{1996}
-\endentry
-
-\entry{kroch_morphosyntactic_1994}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Kroch}{K.}%
-     {Anthony}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{1}{}{%
-    {{}%
-     {Beals}{B.}%
-     {Katherine}{K.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Chicago Linguistic Society}%
-  }
-  \strng{namehash}{KA1}
-  \strng{fullhash}{KA1}
-  \field{labelyear}{1994}
-  \field{sortinit}{K}
-  \field{booktitle}{Papers from the 30th {Regional} {Meeting} of the {Chicago}
-  {Linguistic} {Society}}
-  \field{pages}{180\bibrangedash 201}
-  \field{title}{Morphosyntactic {Variation}}
-  \field{volume}{2}
-  \list{location}{1}{%
-    {Chicago}%
-  }
-  \field{year}{1994}
-\endentry
-
-\entry{loffler_dialektologie._2003}{book}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Löffler}{L.}%
-     {Heinrich}{H.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Narr}%
-  }
-  \strng{namehash}{LH1}
-  \strng{fullhash}{LH1}
-  \field{labelyear}{2003}
-  \field{sortinit}{L}
-  \field{title}{Dialektologie. {Eine} {Einführung}}
-  \list{location}{1}{%
-    {Tübingen}%
-  }
-  \field{year}{2003}
-\endentry
-
-\entry{lotscher_zur_1993}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Lötscher}{L.}%
-     {Andreas}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{2}{}{%
-    {{}%
-     {Abraham}{A.}%
-     {Werner}{W.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Bayer}{B.}%
-     {Josef}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Westdeutscher Verlag}%
-  }
-  \strng{namehash}{LA1}
-  \strng{fullhash}{LA1}
-  \field{labelyear}{1993}
-  \field{sortinit}{L}
-  \field{booktitle}{Dialektsyntax}
-  \field{pages}{180\bibrangedash 200}
-  \field{title}{Zur {Genese} der {Verbverdopplung} bei \textit{gaa},
-  \textit{choo}, \textit{laa} und \textit{aafaa} ('gehen', 'kommen', 'lassen'
-  und 'anfangen') im {Schweizerdeutschen}}
-  \list{location}{1}{%
-    {Opladen}%
-  }
-  \field{year}{1993}
-\endentry
-
-\entry{montgomery_geographic_2013}{article}{}
-  \name{author}{2}{}{%
-    {{}%
-     {Montgomery}{M.}%
-     {Chris}{C.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Stoeckle}{S.}%
-     {Philipp}{P.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{MCSP1}
-  \strng{fullhash}{MCSP1}
-  \field{labelyear}{2013}
-  \field{sortinit}{M}
-  \field{number}{1}
-  \field{pages}{52\bibrangedash 85}
-  \field{title}{Geographic Information Systems and Perceptual Dialectology: {A}
-  method for processing draw-a-map data}
-  \field{volume}{1}
-  \field{journaltitle}{Journal of Linguistic Geography}
-  \field{year}{2013}
-\endentry
-
-\entry{nerbonne_mapping_2010}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Nerbonne}{N.}%
-     {John}{J.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{3}{}{%
-    {{}%
-     {Rabanus}{R.}%
-     {Stephan}{S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Kehrein}{K.}%
-     {Ronald}{R.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Lameli}{L.}%
-     {Alfred}{A.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Mouton de Gruyter}%
-  }
-  \strng{namehash}{NJ1}
-  \strng{fullhash}{NJ1}
+  \strng{namehash}{APHPBH1}
+  \strng{fullhash}{APHPBH1}
   \field{labelyear}{2010}
-  \field{sortinit}{N}
-  \field{booktitle}{Mapping {Language}}
-  \field{pages}{476\bibrangedash 495}
-  \field{title}{Mapping aggregate variation}
-  \field{volume}{2: {L}anguage Mapping. Part I}
+  \field{sortinit}{A}
+  \field{pages}{1903\bibrangedash 1909}
+  \field{title}{Imitation improves language comprehension}
+  \field{volume}{21}
+  \field{journaltitle}{Psychological Science}
+  \field{year}{2010}
+\endentry
+
+\entry{androutsopoulos_intermediale_2012}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Androutsopoulos}{A.}%
+     {Jannis}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AJ1}
+  \strng{fullhash}{AJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{A}
+  \field{pages}{87\bibrangedash 101}
+  \field{title}{Intermediale {Varietätendynamik}: {Ein} explorativer {Blick}
+  auf die {Inszenierung} und {Aushandlung} von ‚{Dialekt}' auf {YouTube}.}
+  \field{volume}{26}
+  \field{journaltitle}{Sociolinguistica}
+  \field{year}{2012}
+\endentry
+
+\entry{babel_phonetic_2009}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Babel}{B.}%
+     {Molly}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BM1}
+  \strng{fullhash}{BM1}
+  \field{labelyear}{2009}
+  \field{sortinit}{B}
+  \field{title}{Phonetic and social selectivity in speech accommodation}
+  \list{institution}{1}{%
+    {University of California, Berkeley}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2009}
+\endentry
+
+\entry{dossey_spontaneous_2012}{online}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dossey}{D.}%
+     {Ellen~E.}{E.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Macalester College. Linguistics Department}%
+  }
+  \strng{namehash}{DEE1}
+  \strng{fullhash}{DEE1}
+  \field{labelyear}{2012}
+  \field{sortinit}{D}
+  \field{title}{Spontaneous phonetic imitation across regional dialects. Honors
+  project Macalester College}
+  \verb{url}
+  \verb http://digitalcommons.macalester.edu/ling_honors/8/
+  \endverb
+  \field{year}{2012}
+  \field{urlday}{23}
+  \field{urlmonth}{06}
+  \field{urlyear}{2014}
+\endentry
+
+\entry{fitch_evolution_2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fitch}{F.}%
+     {William Tecumseh~Sherman}{W.~T.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{FWTS1}
+  \strng{fullhash}{FWTS1}
+  \field{labelyear}{2010}
+  \field{sortinit}{F}
+  \field{title}{The evolution of language}
   \list{location}{1}{%
-    {Berlin}%
+    {Cambridge}%
   }
   \field{year}{2010}
 \endentry
 
-\entry{seiler_prapositionale_2003}{book}{}
+\entry{fleischer_syntax_2002}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Seiler}{S.}%
-     {Guido}{G.}%
+     {Fleischer}{F.}%
+     {Jürg}{J.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
     {Steiner}%
   }
-  \strng{namehash}{SG1}
-  \strng{fullhash}{SG1}
-  \field{labelyear}{2003}
-  \field{sortinit}{S}
-  \field{title}{Präpositionale {Dativmarkierung} im {Oberdeutschen}}
+  \strng{namehash}{FJ1}
+  \strng{fullhash}{FJ1}
+  \field{labelyear}{2002}
+  \field{sortinit}{F}
+  \field{series}{Zeitschrift für {Dialektologie} und {Linguistik}, {Beiheft}
+  123}
+  \field{title}{Die {Syntax} von {Pronominaladverbien} in den {Dialekten} des
+  {Deutschen}: {E}ine {Untersuchung} zu {Preposition} {Stranding} und
+  verwandten {Phänomenen}}
   \list{location}{1}{%
-    {Stuttgart}%
+    {Stuttgart, Wiesbaden}%
   }
-  \field{year}{2003}
+  \field{year}{2002}
 \endentry
 
-\entry{seiler_three_2004}{incollection}{}
+\entry{haider_poetenpidgin_2007}{incollection}{}
   \name{author}{1}{}{%
     {{}%
-     {Seiler}{S.}%
-     {Guido}{G.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{1}{}{%
-    {{}%
-     {Kortmann}{K.}%
-     {Bernd}{B.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {de Gruyter}%
-  }
-  \keyw{Verbcluster}
-  \strng{namehash}{SG1}
-  \strng{fullhash}{SG1}
-  \field{labelyear}{2004}
-  \field{sortinit}{S}
-  \field{booktitle}{Dialectology meets typology. {Dialect} grammar from a
-  cross-linguistic perspective}
-  \field{pages}{367\bibrangedash 399}
-  \field{series}{Trends in {Linguistics}. {Studies} and {Monographs} 153}
-  \field{title}{On three types of dialect variation, and their implications for
-  linguistic theory. {Evidence} from verb clusters in {Swiss} {German}
-  dialects}
-  \list{location}{1}{%
-    {Berlin/New York}%
-  }
-  \field{year}{2004}
-\endentry
-
-\entry{seiler_syntaxgeographie_2008}{incollection}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Seiler}{S.}%
-     {Guido}{G.}%
+     {Haider}{H.}%
+     {Hubert}{H.}%
      {}{}%
      {}{}}%
   }
   \name{editor}{2}{}{%
     {{}%
-     {Valentin}{V.}%
-     {Jean-Marie}{J.-M.}%
+     {Dressler}{D.}%
+     {Wolfgang~U.}{W.~U.}%
      {}{}%
      {}{}}%
     {{}%
-     {Vinckel}{V.}%
-     {H\'{e}l\`{e}ne}{H.}%
+     {Panagl}{P.}%
+     {Oswald}{O.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Peter Lang}%
+    {Praesens}%
   }
-  \strng{namehash}{SG1}
-  \strng{fullhash}{SG1}
-  \field{labelyear}{2008}
-  \field{sortinit}{S}
-  \field{booktitle}{Akten des {XI}. {Internationalen} {Germanistenkongresses}
-  {Paris} 2005}
-  \field{pages}{49\bibrangedash 58}
-  \field{title}{Syntaxgeographie und die {Plastizität} der {Grammatik}}
+  \strng{namehash}{HH1}
+  \strng{fullhash}{HH1}
+  \field{labelyear}{2007}
+  \field{sortinit}{H}
+  \field{booktitle}{Poetische {Lizenzen}}
+  \field{pages}{133\bibrangedash 145}
+  \field{title}{Poetenpidgin – Über {Ernst} {Jandls} {Grammatik} einer
+  heruntergekommenen {Sprache}}
   \list{location}{1}{%
-    {Bern}%
+    {Wien}%
   }
-  \field{year}{2008}
+  \field{year}{2007}
 \endentry
 
-\entry{sibler_visualisierung_2011}{thesis}{}
-  \name{author}{1}{}{%
+\entry{hauser_language_2002}{article}{}
+  \name{author}{3}{}{%
     {{}%
-     {Sibler}{S.}%
-     {Pius}{P.}%
+     {Hauser}{H.}%
+     {Marc~D.}{M.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chomsky}{C.}%
+     {Noam}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fitch}{F.}%
+     {William Tecumseh~Sherman}{W.~T.~S.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{SP1}
-  \strng{fullhash}{SP1}
-  \field{labelyear}{2011}
-  \field{sortinit}{S}
-  \field{title}{Visualisierung und geostatistische {Analyse} mit {Daten} des
-  {Syntaktischen} {Atlas} der {Deutschen} {Schweiz} ({SADS})}
-  \list{location}{1}{%
-    {Zürich}%
-  }
-  \list{institution}{1}{%
-    {University of Zurich, Department of Geography}%
-  }
-  \field{type}{phdthesis}
-  \field{year}{2011}
+  \strng{namehash}{HMDCNFWTS1}
+  \strng{fullhash}{HMDCNFWTS1}
+  \field{labelyear}{2002}
+  \field{sortinit}{H}
+  \field{pages}{1569\bibrangedash 1579}
+  \field{title}{The language faculty: {What} is it, who has it, and how did it
+  evolve?}
+  \field{volume}{298}
+  \field{journaltitle}{Science}
+  \field{year}{2002}
 \endentry
 
-\entry{stoeckle_subjektive_2014}{book}{}
+\entry{kleiner_medienbairisch_2013}{incollection}{}
   \name{author}{1}{}{%
     {{}%
-     {Stoeckle}{S.}%
-     {Philipp}{P.}%
+     {Kleiner}{K.}%
+     {Stefan}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Harnisch}{H.}%
+     {Rüdiger}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {edition vulpes}%
+  }
+  \strng{namehash}{KS1}
+  \strng{fullhash}{KS1}
+  \field{labelyear}{2013}
+  \field{sortinit}{K}
+  \field{booktitle}{Strömungen in der {Entwicklung} der {Dialekte} und ihrer
+  {Erforschung}. {Beiträge} zur 11. {Bayerisch}-Österreichischen
+  {Dialektologentagung} in {Passau} {September} 2010}
+  \field{number}{19}
+  \field{pages}{429\bibrangedash 449}
+  \field{series}{Regensburger {Dialektforum}}
+  \field{title}{Medienbairisch – {Eine} variationslinguistische
+  {Untersuchung} der {Dialekttiefe} des {Mittelbairischen} in {Film}- und
+  {Fernsehproduktionen}}
+  \list{location}{1}{%
+    {Regensburg}%
+  }
+  \field{year}{2013}
+\endentry
+
+\entry{wenker_schriften_2013}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Lameli}{L.}%
+     {Alfred}{A.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
     {Olms}%
   }
-  \strng{namehash}{SP2}
-  \strng{fullhash}{SP2}
-  \field{labelyear}{2014}
-  \field{sortinit}{S}
-  \field{title}{Subjektive Dialekträume im alemannischen Dreiländereck}
+  \strng{namehash}{LA1}
+  \strng{fullhash}{LA1}
+  \field{labelyear}{2013}
+  \field{sortinit}{L}
+  \field{booktitle}{Schriften zum {Sprachatlas} des {Deutschen} {Reichs}:
+  {Gesamtausgabe}}
+  \field{number}{Bd. 1–3}
+  \field{series}{Deutsche {Dialektgeographie}}
+  \field{title}{Schriften zum {Sprachatlas} des {Deutschen} {Reichs}:
+  {Gesamtausgabe}}
   \list{location}{1}{%
     {Hildesheim}%
   }
-  \field{year}{2014}
+  \field{year}{2013}
 \endentry
 
-\entry{chapters/stoeck}{incollection}{skipbib}
+\entry{leser_zum_2012}{incollection}{}
   \name{author}{1}{}{%
     {{}%
-     {Stoeckle}{S.}%
-     {Philipp}{P.}%
+     {Leser}{L.}%
+     {Stephanie}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Langhanke}{L.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Berg}{B.}%
+     {Kristian}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Elmentaler}{E.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Peters}{P.}%
+     {Jörg}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Olms}%
+  }
+  \strng{namehash}{LS1}
+  \strng{fullhash}{LS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{L}
+  \field{booktitle}{Niederdeutsche {Syntax}}
+  \field{number}{220}
+  \field{pages}{79\bibrangedash 100}
+  \field{series}{Germanistische {Linguistik}}
+  \field{title}{Zum {Pronominaladverb} in den hessischen {Dialekten}. {Eine}
+  {Untersuchung} zum {Verlauf} syntaktischer {Isoglossen}}
+  \list{location}{1}{%
+    {Hildesheim}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{markham_phonetic_1997}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Markham}{M.}%
+     {Duncan}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Lund University Press}%
+  }
+  \keyw{Imitative Acquisition and Function Model}
+  \strng{namehash}{MD1}
+  \strng{fullhash}{MD1}
+  \field{labelyear}{1997}
+  \field{sortinit}{M}
+  \field{series}{Travaux de l'{Institut} de linguistique de {Lund} ({Bd}. 33)}
+  \field{title}{Phonetic imitation, accent, and the learner}
+  \list{location}{1}{%
+    {Lund}%
+  }
+  \field{year}{1997}
+\endentry
+
+\entry{markham_listeners_1999}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Markham}{M.}%
+     {Duncan}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MD1}
+  \strng{fullhash}{MD1}
+  \field{labelyear}{1999}
+  \field{sortinit}{M}
+  \field{number}{2}
+  \field{pages}{289\bibrangedash 299}
+  \field{title}{Listeners and disguised voices: {T}he imitation and perception
+  of dialectal accent}
+  \field{volume}{6}
+  \field{journaltitle}{Forensic Linguistics}
+  \field{year}{1999}
+\endentry
+
+\entry{mayer_mia_2009}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mayer}{M.}%
+     {Benedikt}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zimmerer}{Z.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Kanz}{K.}%
+     {Ulrich}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wildfeuer}{W.}%
+     {Alfred}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zehetner}{Z.}%
+     {Ludwig}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {edition vulpes}%
+  }
+  \strng{namehash}{MBZP1}
+  \strng{fullhash}{MBZP1}
+  \field{labelyear}{2009}
+  \field{sortinit}{M}
+  \field{booktitle}{Mundart und {Medien}. {Beiträge} zum 3.
+  {D}ialektologischen {Symposium} im {Bayerischen} {Wald}, {Walderbach}, {Mai}
+  2008}
+  \field{number}{16}
+  \field{pages}{233\bibrangedash 242}
+  \field{series}{Regensburger {Dialektforum}}
+  \field{title}{{\textgreater}{\textgreater}{Mia} san
+  daily{\textless}{\textless} – {Versuch} einer {Messung} von
+  {Dialektalität} in der {Fernsehserie} {\textgreater}{\textgreater}{Dahoam}
+  is {Dahoam}{\textless}{\textless} im {Bayerischen} {Fernsehen}}
+  \list{location}{1}{%
+    {Regensburg}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{mayer_language_2012}{incollection}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Mayer}{M.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cysouw}{C.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Association for Computational Linguistics}%
+  }
+  \strng{namehash}{MTCM1}
+  \strng{fullhash}{MTCM1}
+  \field{labelyear}{2012}
+  \field{sortinit}{M}
+  \field{booktitle}{Proceedings of the {EACL} 2012 {Joint} {Workshop} of
+  {LINGVIS} \& {UNCLH}}
+  \field{pages}{54\bibrangedash 62}
+  \field{title}{Language comparison through sparse multilingual word alignment}
+  \list{location}{1}{%
+    {Avignon}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{meltzoff_imitation_1977}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Meltzoff}{M.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Moore}{M.}%
+     {M.~Keith}{M.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MAMMK1}
+  \strng{fullhash}{MAMMK1}
+  \field{labelyear}{1977}
+  \field{sortinit}{M}
+  \field{pages}{75\bibrangedash 78}
+  \field{title}{Imitation of facial and manual gestures by human neonates}
+  \field{volume}{198}
+  \field{journaltitle}{Science}
+  \field{year}{1977}
+\endentry
+
+\entry{meltzoff_imitative_2002}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Meltzoff}{M.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Prinz}{P.}%
+     {Wolfgang}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{MAPW1}
+  \strng{fullhash}{MAPW1}
+  \field{labelyear}{2002}
+  \field{sortinit}{M}
+  \field{title}{The imitative mind. {Development}, evolution, and brain bases}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{myers-scotton_duelling_1993}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Myers-Scotton}{M.-S.}%
+     {Carol}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MSC1}
+  \strng{fullhash}{MSC1}
+  \field{labelyear}{1993}
+  \field{sortinit}{M}
+  \field{title}{Duelling Languages: {Grammatical} structure in codeswitching}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{1993}
+\endentry
+
+\entry{myers-scotton_contact_2002}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Myers-Scotton}{M.-S.}%
+     {Carol}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{MSC1}
+  \strng{fullhash}{MSC1}
+  \field{labelyear}{2002}
+  \field{sortinit}{M}
+  \field{title}{Contact linguistics: {Bilingual} encounters and grammatical
+  outcomes}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{2002}
+\endentry
+
+\entry{neuhauser_phonetische_2012}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Neuhauser}{N.}%
+     {Sara}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Narr}%
+  }
+  \strng{namehash}{NS1}
+  \strng{fullhash}{NS1}
+  \field{labelyear}{2012}
+  \field{sortinit}{N}
+  \field{series}{Tübinger {Beiträge} zur {Linguistik} (529)}
+  \field{title}{Phonetische und linguistische {Aspekte} der {Akzentimitation}
+  im forensischen {Kontext}: {Produktion} und {Perzeption}}
+  \list{location}{1}{%
+    {Tübingen}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{petkov_birds_2012}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Petkov}{P.}%
+     {C.~I.}{C.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jarvis}{J.}%
+     {E.~D.}{E.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PCIJED1}
+  \strng{fullhash}{PCIJED1}
+  \field{labelyear}{2012}
+  \field{sortinit}{P}
+  \field{number}{12}
+  \field{title}{Birds, primates, and spoken language origins: {B}ehavioral
+  phenotypes and neurobiological substrates.}
+  \field{volume}{4}
+  \field{journaltitle}{Frontiers in Evolutionary Neuroscience}
+  \field{year}{2012}
+\endentry
+
+\entry{purschke_imitation_2010}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Purschke}{P.}%
+     {Christoph}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Anders}{A.}%
+     {Christina}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hundt}{H.}%
+     {Markus}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lasch}{L.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {de Gruyter}%
+  }
+  \strng{namehash}{PC1}
+  \strng{fullhash}{PC1}
+  \field{labelyear}{2010}
+  \field{sortinit}{P}
+  \field{booktitle}{Perceptual dialectology - {Neue} {Wege} der
+  {Dialektologie}}
+  \field{pages}{151\bibrangedash 178}
+  \field{title}{Imitation und {Hörerurteil} – {Kognitive}
+  {Dialekt}-{Pro\-to\-ty\-pen} am {Beispiel} des {Hessischen}}
+  \list{location}{1}{%
+    {Berlin/New York}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{richter_sprache_1995}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Richter}{R.}%
+     {Matthias}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Wallstein}%
+  }
+  \strng{namehash}{RM1}
+  \strng{fullhash}{RM1}
+  \field{labelyear}{1995}
+  \field{sortinit}{R}
+  \field{title}{Die {Sprache} jüdischer {Figuren} in der deutschen {Literatur}
+  (1750–1933). {Studien} zu {Form} und {Funktion}}
+  \list{location}{1}{%
+    {Göttingen}%
+  }
+  \field{year}{1995}
+\endentry
+
+\entry{riemann_neue_2009}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Riemann}{R.}%
+     {Andreas}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Kanz}{K.}%
+     {Ulrich}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wildfeuer}{W.}%
+     {Alfred}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zehetner}{Z.}%
+     {Ludwig}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {edition vulpes}%
+  }
+  \strng{namehash}{RA1}
+  \strng{fullhash}{RA1}
+  \field{labelyear}{2009}
+  \field{sortinit}{R}
+  \field{booktitle}{Mundart und {Medien}. {Beiträge} zum 3.
+  {D}ialektologischen {Symposium} im {Bayerischen} {Wald}, {Walderbach}, {Mai}
+  2008}
+  \field{number}{16}
+  \field{pages}{273\bibrangedash 287}
+  \field{series}{Regensburger {Dialektforum}}
+  \field{title}{Neue {\textgreater}{Sprache}{\textless}, neue
+  {\textgreater}{Heimat}{\textless}, neues {\textgreater}{Bayern}{\textless}?}
+  \list{location}{1}{%
+    {Regensburg}%
+  }
+  \field{year}{2009}
+\endentry
+
+\entry{chapters/schaf_etal}{incollection}{skipbib}
+  \name{author}{3}{}{%
+    {{}%
+     {Schäfer}{S.}%
+     {Lea}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leser}{L.}%
+     {Stephanie}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cysouw}{C.}%
+     {Michael}{M.}%
      {}{}%
      {}{}}%
   }
@@ -909,17 +762,102 @@
   \list{publisher}{1}{%
     {Language Science Press}%
   }
-  \strng{namehash}{SP2}
-  \strng{fullhash}{SP2}
+  \strng{namehash}{SLLSCM1}
+  \strng{fullhash}{SLLSCM1}
   \field{labelyear}{2015}
   \field{sortinit}{S}
   \field{booktitle}{The future of dialects}
-  \field{pages}{1\bibrangedash 21}
-  \field{title}{Horizontal and vertical variation in Swiss German morphosyntax}
+  \field{pages}{1\bibrangedash 17}
+  \field{title}{Imitating Closely Related Varieties}
   \list{location}{1}{%
     {Berlin}%
   }
   \field{year}{2015}
+\endentry
+
+\entry{segerup_imitation_1999}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Segerup}{S.}%
+     {My}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SM1}
+  \strng{fullhash}{SM1}
+  \field{labelyear}{1999}
+  \field{sortinit}{S}
+  \field{pages}{1253\bibrangedash 1256}
+  \field{series}{Gothenburg papers in theoretical linguistics 81}
+  \field{title}{Imitation of dialects: {F}rom {South} to {West}}
+  \field{volume}{99}
+  \field{journaltitle}{Fonetik}
+  \field{year}{1999}
+\endentry
+
+\entry{siegel_second_2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Siegel}{S.}%
+     {Jeff}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SJ1}
+  \strng{fullhash}{SJ1}
+  \field{labelyear}{2010}
+  \field{sortinit}{S}
+  \field{title}{Second dialect acquisition}
+  \list{location}{1}{%
+    {Cambridge}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{tomasello_shared_2007}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tomasello}{T.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carpenter}{C.}%
+     {Malinda}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TMCM1}
+  \strng{fullhash}{TMCM1}
+  \field{labelyear}{2007}
+  \field{sortinit}{T}
+  \field{pages}{121\bibrangedash 125}
+  \field{title}{Shared intentionality}
+  \field{volume}{10}
+  \field{journaltitle}{Developmental Science}
+  \field{year}{2007}
+\endentry
+
+\entry{uzgiris_two_1981}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {U{\v z}giris}{U.}%
+     {Ina~{\v C}ep{\.e}nait{\.e}}{I.~{\v C}.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{UIC1}
+  \strng{fullhash}{UIC1}
+  \field{labelyear}{1981}
+  \field{sortinit}{U}
+  \field{pages}{1\bibrangedash 12}
+  \field{title}{Two functions of imitation during infancy}
+  \field{volume}{4}
+  \field{journaltitle}{International Journal of Behavioral Development}
+  \field{year}{1981}
 \endentry
 
 \lossort
