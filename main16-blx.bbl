@@ -150,7 +150,7 @@
      {}{}}%
   }
   \list{publisher}{1}{%
-    {??upanijski muzej}%
+    {Županijski muzej}%
   }
   \strng{namehash}{FG1}
   \strng{fullhash}{FG1}
@@ -158,10 +158,10 @@
   \field{sortinit}{F}
   \field{isbn}{9539662524 9789539662521}
   \field{shorttitle}{Betinska brodogradnja}
-  \field{title}{Betinska brodogradnja: {E}timologijski rje??nik pu??kog
+  \field{title}{Betinska brodogradnja: {E}timologijski rječnik pučkog
   nazivlja}
   \list{location}{1}{%
-    {??ibenik}%
+    {Šibenik}%
   }
   \field{year}{1997}
 \endentry
@@ -191,19 +191,19 @@
 \entry{jutronic_spliski_2010}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Jutroni??}{J.}%
+     {Jutronić}{J.}%
      {Dunja}{D.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Naklada Bo??kovi??}%
+    {Naklada Bošković}%
   }
   \strng{namehash}{JD1}
   \strng{fullhash}{JD1}
   \field{labelyear}{2010}
   \field{sortinit}{J}
-  \field{title}{Spliski govor, od vapora do trajekta: {P}o ??emu ??e nas
+  \field{title}{Spliski govor, od vapora do trajekta: {P}o čemu će nas
   pripoznavat}
   \list{location}{1}{%
     {Split}%
@@ -214,13 +214,13 @@
 \entry{kulusic_murterski_1984}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Kulu??i??}{K.}%
+     {Kulušić}{K.}%
      {Sven}{S.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Dru??tveni centar}%
+    {Društveni centar}%
   }
   \strng{namehash}{KS1}
   \strng{fullhash}{KS1}
@@ -307,7 +307,7 @@
   \strng{fullhash}{MAA1}
   \field{labelyear}{1972}
   \field{sortinit}{M}
-  \field{title}{Th??orie des objets}
+  \field{title}{Théorie des objets}
   \list{location}{1}{%
     {Paris}%
   }
@@ -317,34 +317,34 @@
 \entry{skracic_otok_2010}{incollection}{}
   \name{author}{2}{}{%
     {{}%
-     {??uka}{?.}%
+     {Čuka}{�.}%
      {Anica}{A.}%
      {}{}%
      {}{}}%
     {{}%
-     {Lon??ar}{L.}%
+     {Lončar}{L.}%
      {Nina}{N.}%
      {}{}%
      {}{}}%
   }
   \name{editor}{1}{}{%
     {{}%
-     {Skra??i??}{S.}%
+     {Skračić}{S.}%
      {Vladimir}{V.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Sveu??ili??te : {C}entar za jadranska onomasti??ka istra??ivanja}%
+    {Sveučilište : {C}entar za jadranska onomastička istraživanja}%
   }
-  \strng{namehash}{?ALN1}
-  \strng{fullhash}{?ALN1}
+  \strng{namehash}{�ALN1}
+  \strng{fullhash}{�ALN1}
   \field{labelyear}{2010}
-  \field{sortinit}{?}
+  \field{sortinit}{�}
   \field{booktitle}{Toponimija otoka {Murtera}}
   \field{isbn}{9789537237721 9537237729}
   \field{pages}{5\bibrangedash 31}
-  \field{title}{Otok {Murter} ??? prirodne i dru??tvenogeografske zna??ajke}
+  \field{title}{Otok {Murter} – prirodne i društvenogeografske značajke}
   \list{location}{1}{%
     {Zadar}%
   }
@@ -354,16 +354,16 @@
 \entry{skevin_etimoloska_2010}{thesis}{}
   \name{author}{1}{}{%
     {{}%
-     {??kevin}{?.}%
+     {Škevin}{�.}%
      {Ivana}{I.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{?I1}
-  \strng{fullhash}{?I1}
+  \strng{namehash}{�I1}
+  \strng{fullhash}{�I1}
   \field{labelyear}{2010}
-  \field{sortinit}{?}
-  \field{title}{Etimolo??ka i leksikolo??ka obradba posu??enica romanskog
+  \field{sortinit}{�}
+  \field{title}{Etimološka i leksikološka obradba posuđenica romanskog
   podrijetla u govoru mjesta {Betina} na otoku {Murteru}}
   \list{location}{1}{%
     {Zadar}%
@@ -378,21 +378,21 @@
 \entry{skevin_izmedu_2012}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {??kevin}{?.}%
+     {Škevin}{�.}%
      {Ivana}{I.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{?I1}
-  \strng{fullhash}{?I1}
+  \strng{namehash}{�I1}
+  \strng{fullhash}{�I1}
   \field{labelyear}{2012}
-  \field{sortinit}{?}
+  \field{sortinit}{�}
   \field{pages}{171\bibrangedash 184}
-  \field{title}{Izme??u arhai??nog (romanskog) i standardnog (hrvatskog)
-  jezi??nog elementa: {K}oineizacija oto??nih varijeteta}
+  \field{title}{Između arhaičnog (romanskog) i standardnog (hrvatskog)
+  jezičnog elementa: {K}oineizacija otočnih varijeteta}
   \field{volume}{25}
-  \field{journaltitle}{Aktualna istra??ivanja u primijenjenoj lingvistici.
-  Hrvatsko dru??tvo za primijenjenu lingvistiku}
+  \field{journaltitle}{Aktualna istraživanja u primijenjenoj lingvistici.
+  Hrvatsko društvo za primijenjenu lingvistiku}
   \field{year}{2012}
 \endentry
 

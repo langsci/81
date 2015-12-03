@@ -26,7 +26,7 @@
   }
   \name{editor}{2}{}{%
     {{}%
-     {Di??moz}{D.}%
+     {Diémoz}{D.}%
      {F.}{F.}%
      {}{}%
      {}{}}%
@@ -43,11 +43,11 @@
   \strng{fullhash}{BTG1}
   \field{labelyear}{2014}
   \field{sortinit}{B}
-  \field{booktitle}{Toujours langue varie ... {M??langes} de linguistique
-  historique du fran??ais et de dialectologie galloromane offerts ?? {M}. {L}e
-  {Professeur} {Andres} {Kristol} par ses coll??gues et anciens ??l??ves}
+  \field{booktitle}{Toujours langue varie ... {Mélanges} de linguistique
+  historique du français et de dialectologie galloromane offerts à {M}. {L}e
+  {Professeur} {Andres} {Kristol} par ses collègues et anciens élèves}
   \field{pages}{127\bibrangedash 147}
-  \field{title}{Un usage particulier de l???algorithme de
+  \field{title}{Un usage particulier de l’algorithme de
   {Damerau}-{Levenshtein} dans le domaine occitan}
   \list{location}{1}{%
     {Geneva}%
@@ -67,13 +67,13 @@
   \strng{fullhash}{CD1}
   \field{labelyear}{1998}
   \field{sortinit}{C}
-  \field{title}{Le breton parl?? ?? {La} {For??t}-{Fouesnant} ({Finist??re}).
-  {Pratique} actuelle, probl??mes de phonologie et de syntaxe}
+  \field{title}{Le breton parlé à {La} {Forêt}-{Fouesnant} ({Finistère}).
+  {Pratique} actuelle, problèmes de phonologie et de syntaxe}
   \list{location}{1}{%
     {Paris}%
   }
   \list{institution}{1}{%
-    {Universit?? Paris 5}%
+    {Université Paris 5}%
   }
   \field{type}{{PhD} {Thesis}}
   \field{year}{1998}
@@ -103,8 +103,8 @@
 \entry{falchun_perspectives_1981}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Falc???hun}{F.}%
-     {Fran??ois}{F.}%
+     {Falc’hun}{F.}%
+     {François}{F.}%
      {}{}%
      {}{}}%
   }
@@ -134,12 +134,12 @@
   \strng{fullhash}{GG1}
   \field{labelyear}{1984}
   \field{sortinit}{G}
-  \field{title}{Une ??tude linguistique sur le breton de {Saint}-{Yvi}}
+  \field{title}{Une étude linguistique sur le breton de {Saint}-{Yvi}}
   \list{location}{1}{%
     {Brest}%
   }
   \list{institution}{1}{%
-    {Universit?? de Bretagne Occidentale}%
+    {Université de Bretagne Occidentale}%
   }
   \field{type}{{PhD} {Thesis}}
   \field{year}{1984}
@@ -158,8 +158,8 @@
   \field{labelyear}{1991}
   \field{sortinit}{G}
   \field{pages}{177\bibrangedash 213}
-  \field{title}{Une m??thode dialectom??trique (assist??e par ordinateur) pour
-  l???analyse des atlas linguistiques}
+  \field{title}{Une méthode dialectométrique (assistée par ordinateur) pour
+  l’analyse des atlas linguistiques}
   \field{volume}{7}
   \field{journaltitle}{La Bretagne linguistique}
   \field{year}{1991}
@@ -175,9 +175,9 @@
   }
   \name{editor}{3}{}{%
     {{}%
-     {P??rez}{P.}%
+     {Pérez}{P.}%
      {X.~A.}{X.~A.}%
-     {??lvarez}{?.}%
+     {Álvarez}{�.}%
      {}{}}%
     {{}%
      {Carrilho}{C.}%
@@ -191,7 +191,7 @@
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Centro de Lingu??stica da Universidade de Lisboa}%
+    {Centro de Linguística da Universidade de Lisboa}%
   }
   \strng{namehash}{GH1}
   \strng{fullhash}{GH1}
@@ -200,9 +200,9 @@
   \field{booktitle}{Proceedings of the International Symposium on Limits and
   Areas in Dialectology ({LimiAr}). {Lisbon} 2011}
   \field{pages}{117\bibrangedash 166}
-  \field{title}{Introduction aux probl??mes et m??thodes de l'?? ??cole
-  dialectom??trique de {Salzbourg} ?? (avec des exemples gallo-, italo- et
-  ib??roromans)}
+  \field{title}{Introduction aux problèmes et méthodes de l'« École
+  dialectométrique de {Salzbourg} » (avec des exemples gallo-, italo- et
+  ibéroromans)}
   \list{location}{1}{%
     {Lisbon}%
   }
@@ -230,16 +230,16 @@
      {}{}}%
   }
   \list{publisher}{1}{%
-    {??ditions du CNRS}%
+    {Éditions du CNRS}%
   }
   \strng{namehash}{GH2}
   \strng{fullhash}{GH2}
   \field{labelyear}{1973}
   \field{sortinit}{G}
-  \field{booktitle}{Les dialectes romans de la {France} ?? la lumi??re des
-  atlas r??gionaux}
+  \field{booktitle}{Les dialectes romans de la {France} à la lumière des
+  atlas régionaux}
   \field{pages}{61\bibrangedash 109}
-  \field{title}{Atlas et fronti??res linguistiques}
+  \field{title}{Atlas et frontières linguistiques}
   \list{location}{1}{%
     {Paris}%
   }
@@ -295,13 +295,13 @@
 \entry{le_du_nouvel_2001}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Le~D??}{L.~D.}%
+     {Le~Dû}{L.~D.}%
      {Jean}{J.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {Centre de recherche bretonne et celtique, Universit?? de Bretagne
+    {Centre de recherche bretonne et celtique, Université de Bretagne
   occidentale}%
   }
   \strng{namehash}{LDJ1}
@@ -342,19 +342,19 @@
   \name{author}{1}{}{%
     {{}%
      {Martinet}{M.}%
-     {Andr??}{A.}%
+     {André}{A.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
-    {??ditions A. Francke S. A.}%
+    {Éditions A. Francke S. A.}%
   }
   \strng{namehash}{MA1}
   \strng{fullhash}{MA1}
   \field{labelyear}{1955}
   \field{sortinit}{M}
-  \field{shorttitle}{??conomie des changements phon??tiques}
-  \field{title}{??conomie des changements phon??tiques. {Trait??} de phonologie
+  \field{shorttitle}{Économie des changements phonétiques}
+  \field{title}{Économie des changements phonétiques. {Traité} de phonologie
   diachronique}
   \list{location}{1}{%
     {Bern}%
@@ -429,7 +429,7 @@
   \name{editor}{2}{}{%
     {{}%
      {Schmidt}{S.}%
-     {J??rgen~Erich}{J.~E.}%
+     {Jürgen~Erich}{J.~E.}%
      {}{}%
      {}{}}%
     {{}%
@@ -467,15 +467,15 @@
   \strng{fullhash}{ST1}
   \field{labelyear}{2014}
   \field{sortinit}{S}
-  \field{title}{Dialectom??trie de la {Basse}-{Bretagne} : {E}njeux,
-  m??thodologie et applications. {Quantifier} et qualifier la variation
-  linguistique, vision symbolique de l'espace et ??cho du dynamisme
+  \field{title}{Dialectométrie de la {Basse}-{Bretagne} : {E}njeux,
+  méthodologie et applications. {Quantifier} et qualifier la variation
+  linguistique, vision symbolique de l'espace et écho du dynamisme
   synchronique en breton}
   \list{location}{1}{%
     {Brest}%
   }
   \list{institution}{1}{%
-    {Universit?? de Bretagne Occidentale}%
+    {Université de Bretagne Occidentale}%
   }
   \field{type}{{PhD} {Thesis}}
   \field{year}{2014}
@@ -484,7 +484,7 @@
 \entry{seguy_relation_1971}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {S??guy}{S.}%
+     {Séguy}{S.}%
      {Jean}{J.}%
      {}{}%
      {}{}}%
@@ -504,7 +504,7 @@
 \entry{seguy_dialectometrie_1973}{article}{}
   \name{author}{1}{}{%
     {{}%
-     {S??guy}{S.}%
+     {Séguy}{S.}%
      {Jean}{J.}%
      {}{}%
      {}{}}%
@@ -514,7 +514,7 @@
   \field{labelyear}{1973}
   \field{sortinit}{S}
   \field{pages}{1\bibrangedash 24}
-  \field{title}{La dialectom??trie dans l'{Atlas} linguistique de la
+  \field{title}{La dialectométrie dans l'{Atlas} linguistique de la
   {Gascogne}}
   \field{volume}{37}
   \field{journaltitle}{Revue de Linguistique Romane}

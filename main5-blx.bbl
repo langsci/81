@@ -1066,6 +1066,48 @@
   \field{year}{2014}
 \endentry
 
+\entry{chapters/pickl}{incollection}{skipbib}
+  \name{author}{1}{}{%
+    {{}%
+     {Pickl}{P.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{3}{}{%
+    {{}%
+     {Côté}{C.}%
+     {Marie-Hélène}{M.-H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knooihuizen}{K.}%
+     {Remco}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nerbonne}{N.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Language Science Press}%
+  }
+  \strng{namehash}{PS1}
+  \strng{fullhash}{PS1}
+  \field{labelyear}{2015}
+  \field{sortinit}{P}
+  \field{booktitle}{The future of dialects}
+  \field{pages}{33\bibrangedash 53}
+  \field{title}{Fuzzy dialect areas and prototype theory: {D}iscovering latent
+  patterns in geolinguistic variation}
+  \list{location}{1}{%
+    {Berlin}%
+  }
+  \field{year}{2015}
+\endentry
+
 \entry{preston_perceptual_1989}{book}{}
   \name{author}{1}{}{%
     {{}%

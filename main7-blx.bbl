@@ -356,43 +356,6 @@
   \field{year}{2009}
 \endentry
 
-\entry{chapters/monte_wiel}{incollection}{skipbib}
-  \name{author}{2}{}{%
-    {{}%
-     {Montemagni}{M.}%
-     {Simonetta}{S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Wieling}{W.}%
-     {Martijn}{M.}%
-     {}{}%
-     {}{}}%
-  }
-  \name{editor}{1}{}{%
-    {{}%
-     {Nerbonne}{N.}%
-     {Marie-Hélène Côté Remco Knooihuizen~John}{M.-H. C. R. K.~J.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Language Science Press}%
-  }
-  \strng{namehash}{MSWM1}
-  \strng{fullhash}{MSWM1}
-  \field{labelyear}{2015}
-  \field{sortinit}{M}
-  \field{booktitle}{The future of dialects}
-  \field{pages}{1\bibrangedash 19}
-  \field{title}{Tracking linguistic features underlying lexical variation
-  patterns: {A} case study on {T}uscan dialects}
-  \list{location}{1}{%
-    {Berlin}%
-  }
-  \field{year}{2015}
-\endentry
-
 \entry{montemagni_patterns_2012}{incollection}{}
   \name{author}{4}{}{%
     {{}%
