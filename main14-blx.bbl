@@ -154,7 +154,7 @@
   {Deutschen}: {E}ine {Untersuchung} zu {Preposition} {Stranding} und
   verwandten {Phänomenen}}
   \list{location}{1}{%
-    {Stuttgart/Wiesbaden}%
+    {Stuttgart, Wiesbaden}%
   }
   \field{year}{2002}
 \endentry
@@ -450,13 +450,6 @@
      {}{}%
      {}{}}%
   }
-  \name{editor}{1}{}{%
-    {{}%
-     {\biberror{no editor}}{b.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
   \list{publisher}{1}{%
     {Association for Computational Linguistics}%
   }
@@ -612,7 +605,6 @@
   \field{labelyear}{2012}
   \field{sortinit}{P}
   \field{number}{12}
-  \field{pages}{\biberror{no pages}}
   \field{title}{Birds, primates, and spoken language origins: {B}ehavioral
   phenotypes and neurobiological substrates.}
   \field{volume}{4}
@@ -656,7 +648,7 @@
   {Dialektologie}}
   \field{pages}{151\bibrangedash 178}
   \field{title}{Imitation und {Hörerurteil} – {Kognitive}
-  {Dialekt}-{Prototypen} am {Beispiel} des {Hessischen}}
+  {Dialekt}-{Pro\-to\-ty\-pen} am {Beispiel} des {Hessischen}}
   \list{location}{1}{%
     {Berlin/New York}%
   }
