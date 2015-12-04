@@ -9,3 +9,4 @@ Central German
 Hessian  
 Upper German 
 Alemannic
+Swiss German
