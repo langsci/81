@@ -162,11 +162,11 @@ We can test the influence of this factor by exploring the relationship between l
     \centering
     \includegraphics [keepaspectratio,width=.98\textwidth] {illustrations/wolk_multneg-gam.pdf}
 \end{minipage}
-\caption{Left: Correlation of minimum subcorpus size and linguistic distance (top down normalization-based approach; $R^2=0.61$) Right: Example \textsc{gam} for multiple negation (log scale). Lighter colors indicate higher frequency. Red lines indicate shape of the frequency gradient.} \label{fig:cor-ling}
+\caption{Left: Correlation of minimum subcorpus size and linguistic distance (top down normalization-based approach; $R^2=0.61$) Right: Example \textsc{gam} for multiple negation (log scale). Lighter colors indicate higher frequency. Red lines indicate shape of the frequency gradient.} \label{fig:wolk:cor-ling}
 \end{figure}
 
 
-The left-hand part of Figure \ref{fig:cor-ling} displays the linguistic distance between county pairings as a function of the smaller of the two subcorpus sizes; a smoother line is included to highlight the general trend.
+The left-hand part of Figure \ref{fig:wolk:cor-ling} displays the linguistic distance between county pairings as a function of the smaller of the two subcorpus sizes; a smoother line is included to highlight the general trend.
 Clearly, there is a strong relationship: distances involving the counties with the worst coverage are consistently too high. 
 At approximately 50,000 words, this relationship largely levels off.\footnote{The small uptick at the end is a combination of data sparsity (due to the small number of subcorpora of that size) and the somewhat atypical, but large Suffolk subcorpus.}
 The outliers in Figure \ref{clustermapsfig} fall below this threshold. For example, the subcorpus for Durham consists of 28,000 words, and that for Middlesex of 32,000.
@@ -190,7 +190,7 @@ Furthermore, features that represent binary alternations,\footnote{The selection
 Doing so removes potential bias resulting from base rate differences (e.g. differing frequencies of habitual or future contexts regardless of form) between speakers/counties, and makes the results more comparable to variationist research on these features, which typically utilizes \textsc{varbrul}-style modeling.
 This yields a list of 45 remaining features, and therefore the number of models included in the analysis is also 45.
 Each model contains a two-dimensional geographic smoother that allows the feature to vary by location in a gradient fashion.
-An example for this can be seen in the right-hand map in Figure \ref{fig:cor-ling}, displaying the smoother for multiple negation.
+An example for this can be seen in the right-hand map in Figure \ref{fig:wolk:cor-ling}, displaying the smoother for multiple negation.
 As expected, the feature is rare in Scotland and relatively frequent in the South of England, with the North forming a transition zone.
 This model is then used to predict the proportion of one realization, or the frequency to be expected in ten thousand words.
 From here on, the analysis proceeds as outlined above.
@@ -265,11 +265,11 @@ Details about the process can be found in \citet[64-74]{wolk_integrating_2014}.
     \centering
     \includegraphics [keepaspectratio,width=.98\textwidth] {illustrations/wolk_noisy_cluster_reli7-3groups.eps}
 \end{minipage}
-\caption{Cluster maps -- hierarchical agglomerative cluster analysis using Ward's method as clustering algorithm (displayed: 3-cluster solution). Left: Top-down normalization-based approach on \textsc{fred-s}. Center: Bottom-up normalized frequencies. Right: Bottom-up reliability scores.} \label{fig:bup-maps}\is{hierarchical clustering}
+\caption{Cluster maps -- hierarchical agglomerative cluster analysis using Ward's method as clustering algorithm (displayed: 3-cluster solution). Left: Top-down normalization-based approach on \textsc{fred-s}. Center: Bottom-up normalized frequencies. Right: Bottom-up reliability scores.} \label{fig:wolk:bup-maps}\is{hierarchical clustering}
 
 \end{sidewaysfigure}
 
-Figure \ref{fig:bup-maps} displays the results.
+Figure \ref{fig:wolk:bup-maps} displays the results.
 For comparison, the left-hand map displays the results of the normalization-based\footnote{This comparison is more appropriate than that to the model-based variant, as both do not employ geographic smoothing.} top-down approach on the texts that are available in \textsc{fred-s}.
 First, we note that the approach fares better here than on the complete data set: the clusters are spatially mostly coherent, geographic distance explains 27.6 percent of the variance in linguistic distances, and text size differences account for a slightly lower share of 48.5 percent. 
 This results from the removal of most counties with particularly restricted textual coverage.
