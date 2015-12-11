@@ -1,7 +1,6 @@
 Cantonese
 Faetar
-Swiss German
-West Germanic Languages  
+Swiss German 
 Eastern Yiddish  
 Western Yiddish 
 Low German  
@@ -10,3 +9,12 @@ Hessian
 Upper German 
 Alemannic
 Swiss German
+Korean
+Breton
+Dutch
+Hungarian
+Chinese
+Tuscan
+Croatian
+Venetian
+French
