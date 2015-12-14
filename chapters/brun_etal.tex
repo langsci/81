@@ -92,9 +92,9 @@ Until now very little quantitative work has been done on the \ili{Breton} langua
 
 We have deliberately chosen to investigate a restricted and quite homogeneous area for the following reasons: on the one hand, we do not want to confront this modified version of the LD algorithm, from a technical point of view, with an area where linguistic variation is very intense, as in the case of the \textit{Vannetais} dialect (South-East of Lower-Brittany). Moreover, as was shown by \citet{falchun_perspectives_1981}, innovations have been spreading across this region for centuries. It would then be interesting to compare them with sites from more conservative peripheral areas. Over the past few years, Solliec has been carrying out a project to describe and document local varieties in this area and is therefore aware of the local variation phenomena.
 
-On the methodological side, we have decided to use an inter-site approach: to do so, each location of the area is linked to its closest geographical neighbours in order to establish a comparison we called the ‘segment’. Doing so allows the researcher to detect spatial continuities and discontinuities (breaches) on the phonetic level \citep[137]{goebl_introduction_2012}. In this view we selected 23 investigation sites for 165 phonetic maps (i.e. using only one lexeme and its phonetic variations for each concept). We had not beforehand determined which variables to observe in our corpus: our objective was to consider the data as a whole and to observe which phenomena produce linguistic distance and at which frequencies.
+On the methodological side, we have decided to use an inter-site approach: to do so, each location of the area is linked to its closest geographical neighbours in order to establish a comparison we called the ``segment''. Doing so allows the researcher to detect spatial continuities and discontinuities (breaches) on the phonetic level \citep[137]{goebl_introduction_2012}. In this view we selected 23 investigation sites for 165 phonetic maps (i.e. using only one lexeme and its phonetic variations for each concept). We had not beforehand determined which variables to observe in our corpus: our objective was to consider the data as a whole and to observe which phenomena produce linguistic distance and at which frequencies.
 
-It led us to divide the area into a net of 53 "segments", each of which connect a site in the atlas with its neighbours on all sides. This brings us to a total of 8745 comparisons between strings of characters.
+It led us to divide the area into a net of 53 ``segments'', each of which connect a site in the atlas with its neighbours on all sides. This brings us to a total of 8745 comparisons between strings of characters.
 
 Our aim has been on the one hand to gather quantitative indicators and, on the other hand, to identify qualitatively the most common correspondences involved in phonetic variation. Even though the latter are well known \citep{falchun_perspectives_1981,jackson_historical_1967}, we do not know how frequently they occur.
 
@@ -108,20 +108,20 @@ In confronting LD with \ili{Breton} language data, we noticed difficulties: \tab
 segments & answ1 & answ2 & test Exact & FuzzyMatch & Levenshtein1 & Levenshtein2 & Levenshtein3 & Levenshtein4\\
 \midrule
 40 {\textgreater} 41 & { h\~{e}̝:s} & { h\~{e}̝:s} & TRUE & Not a match &  &  &  & \\
-32 {\textgreater} 80 & { 'e̝nes} & { 'e̝nnəs} & FALSE & 50\% (2) & { Rep. n by nn} & { Rep. e by ə} &  & \\
+32 {\textgreater} 80 & { ˈe̝nes} & { ˈe̝nnəs} & FALSE & 50\% (2) & { Rep. n by nn} & { Rep. e by ə} &  & \\
 %\hhline{~~~~~---~}
-32 {\textgreater} 33 & { 'e̝nes} & { 'he̝nnəs} & FALSE & {25\% (3)} & {\textbf{\#VALUE! (Ins. of h)}} & {\textbf{\#VALUE! (Rep. n by nn)}} & {\textbf{\#VALUE! (Rep. e by ə)}} & \\
+32 {\textgreater} 33 & { ˈe̝nes} & { ˈhe̝nnəs} & FALSE & {25\% (3)} & {\textbf{\#VALUE! (Ins. of h)}} & {\textbf{\#VALUE! (Rep. n by nn)}} & {\textbf{\#VALUE! (Rep. e by ə)}} & \\
 %\hhline{~~~-----~}
-33 {\textgreater} 39 & { 'he̝nnəs} & {{ h\~{e}̝:}} & {\textbf{FALSE}} & {\textbf{Not a match}} & Del. of s & Del. of ə & Del. of nn & {Rep. e̝ by \~{e}̝:}\\
+33 {\textgreater} 39 & { ˈhe̝nnəs} & {{ h\~{e}̝:}} & {\textbf{FALSE}} & {\textbf{Not a match}} & Del. of s & Del. of ə & Del. of nn & {Rep. e̝ by \~{e}̝:}\\
 %\hhline{~~~--~~~~}
 \lspbottomrule
 \end{tabular}
 }
-\caption{Examples of the difficulties encountered by LD for the concept 'that one (masc.)'}
+\caption{Examples of the difficulties encountered by LD for the concept `that one (masc.)'}
 \label{tab:brun:3}
 \end{table}
 
-Although we were careful to use a unique character for each phonetic segment and its diacritics (including diphthongs and geminates), it appears that our implementation of the Levenshtein algorithm experiences difficulties when treating languages like \ili{Breton} for which variation in the number of syllables is frequent (e.g., site 80 Berrien ['paro̝s] vs. site 81 Poullaouen [pa:ʀs] ‘parish’ (NALBB map 7)).
+Although we were careful to use a unique character for each phonetic segment and its diacritics (including diphthongs and geminates), it appears that our implementation of the Levenshtein algorithm experiences difficulties when treating languages like \ili{Breton} for which variation in the number of syllables is frequent (e.g., site 80 Berrien [ˈparo̝s] vs. site 81 Poullaouen [pa:ʀs] ‘parish’ (NALBB map 7)).
 
 Nevertheless, after checking and adjusting the function, we ended by incorporating most observations. On the one hand, the raw results obtained from the FuzzyMatch function produces the following distribution (see map in \figref{fig:3}):
 
@@ -133,7 +133,7 @@ Nevertheless, after checking and adjusting the function, we ended by incorporati
 
 The map shows several areas involving significant degrees of similarity, particularly in the North around sites 24 on the one hand and 39 on the other, and in the South around site 88. It is clear that the geographic distance between the surveyed localities often correlates with phonetic similarity; for example, there is high phonetic similarity between nearby sites 87 and 88 and low similarity between distant sites 83 and 93. However, there are some exceptions, for instance, between sites 22 and 24 or, vice versa, between 91 and 89. We will later see why they occurred.
 
-On the other hand, the results returned by the new function of the algorithm bring us to the following conclusions: first of all, amongst the 11,949 non-identical phonetic correspondences, "alternations" or "differences" according to our terminology, we had to manage an important dispersion of the distinctive correspondences (nearly 450). They were generated by the narrow phonetic transcription. With the consent of Le Dû, the author of the atlas, we grouped some alternations in order to have to deal with fewer details. This limited the number of the different kinds of alternations to 200. The most frequent ones are listed in \tabref{tab:brun:4}.
+On the other hand, the results returned by the new function of the algorithm bring us to the following conclusions: first of all, amongst the 11,949 non-identical phonetic correspondences, ``alternations'' or ``differences'' according to our terminology, we had to manage an important dispersion of the distinctive correspondences (nearly 450). They were generated by the narrow phonetic transcription. With the consent of Le Dû, the author of the atlas, we grouped some alternations in order to have to deal with fewer details. This limited the number of the different kinds of alternations to 200. The most frequent ones are listed in \tabref{tab:brun:4}.
 
 \begin{table}
 \begin{tabular}{lllll}
@@ -197,14 +197,14 @@ The realizations [a] or [ə] occur in the following phonetic contexts. Each one 
  \midrule
 a. Definite article’s initial vowel & 263 ‘the stable’ & (81) Poullaouen [ə hʀow] vs. (80) Berrien [a hʀow]\\
 \midrule
-b. Final unstressed syllables & 464 ‘clothes’ & (93) Lennon ['diʎət] vs. (89) Lannédern ['diʎat]\\
+b. Final unstressed syllables & 464 ‘clothes’ & (93) Lennon [ˈdiʎət] vs. (89) Lannédern [ˈdiʎat]\\
 \midrule
-c. Cluster of phones \mbox{/-uwar/} or /-uarn/ & 196 ‘blackberries’ & (87) Landeleau ['mu:wəʀ] vs. (93) Lennon ['muwaʁ]\\
-& 170 ‘iron’ & (32) Plounéour-Ménez ['u:aʁn] vs. (33) Plougonven ['u:ʀən]\\
+c. Cluster of phones \mbox{/-uwar/} or /-uarn/ & 196 ‘blackberries’ & (87) Landeleau [ˈmu:wəʀ] vs. (93) Lennon [ˈmuwaʁ]\\
+& 170 ‘iron’ & (32) Plounéour-Ménez [ˈu:aʁn] vs. (33) Plougonven [ˈu:ʀən]\\
 \midrule
-d. Epenthesis vowel & 301 ‘(a) scythe’ (literary form: [falx]) & (78) Locarn ['valax] vs. (82) Plounévézel ['vʰaləx]\\
+d. Epenthesis vowel & 301 ‘(a) scythe’ (literary form: [falx]) & (78) Locarn [ˈvalax] vs. (82) Plounévézel [ˈvʰaləx]\\
 \midrule
-e. Infinitive mark & 50 ‘to count’ & (90) Botmeur ['ko̝ntə] vs. (32) Plounéour-Ménez ['ko̝nta]\\
+e. Infinitive mark & 50 ‘to count’ & (90) Botmeur [ˈko̝ntə] vs. (32) Plounéour-Ménez [ˈko̝nta]\\
 \lspbottomrule
 \end{tabular}
 }

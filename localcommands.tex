@@ -6,8 +6,10 @@
 \newcommand{\biberror}[1]{\color{red}\bfseries #1}
 
 
-\newcommand{\qu}[1]{>>#1<<} % >> <<
-\newcommand{\quein}[1]{>#1<} %einfache > <
+% \newcommand{\qu}[1]{>>#1<<} % >> <<
+% \newcommand{\quein}[1]{>#1<} %einfache > <
+\newcommand{\qu}[1]{``#1''} % >> <<
+\newcommand{\quein}[1]{`#1'} %einfache > <
 \newcommand{\sem}[1]{\emph{#1}}  
 
 % Thanks to Martin Scharrer
@@ -243,3 +245,9 @@
 		\draw	(native.west) to (image.east);
 	\end{scope}
 \end{tikzpicture}}
+
+% Sorting keys for author index
+% http://tex.stackexchange.com/questions/282440/string-to-sort-index-of-authors-generated-with-biblatex
+\renewbibmacro*{index:name}[5]{%
+  \usebibmacro{index:entry}{#1}
+    {\iffieldundef{usera}{}{\thefield{usera}\actualoperator}\mkbibindexname{#2}{#3}{#4}{#5}}}
