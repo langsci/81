@@ -15,7 +15,7 @@ Using these methods, we are able to uncover significant geolinguistic structure 
 
 \section{Introduction}
 
-\il{British English|(}
+\il{English!British English|(}
 In this contribution, we sketch novel ways to conduct dialectometry. Let us set the scene by fixing some terminology first. \textsc{Linguistic corpora} are principled and broadly representative collections of naturalistic texts or speech. Linguistic corpora thus sample \textsc{usage data}, and as such are increasingly popular in dialectology (\citealt{anderwald_corpus_2009,grieve_corpus-based_2009}) and beyond (see the papers in \citealt{szmrecsanyi_aggregating_2014}). \textsc{corpus linguistics}, accordingly, is a methodology in linguistics that bases claims about language on corpora. Corpus linguistics is thus the methodological outgrowth of the usage-based turn in linguistics, in the spirit of, e.g.,  \citet{bybee_language_2010,tomasello_constructing_2003}. As is well known, \textsc{classical dialectometry} in the tradition of \citet{goebl_dialektometrische_1984,nerbonne_edit_1999} draws on atlas material to explore geolinguistic patterns using aggregation methodologies. By contrast, \textsc{corpus-based dialectometry}\is{corpus-based dialectometry|(} (henceforth: \textsc{cbdm}) utilizes aggregation methodologies to explore quantitative and distributional usage patterns extracted from dialect corpora.
 
 Why do we need \textsc{cbdm}? 
@@ -213,7 +213,7 @@ So far, we have covered methods that rely on a pre-specified feature list.
 In the following, we explore whether it is possible to eliminate such a list and go directly from the corpus to a distance measurement.
 Directly measuring corpus (dis)similarity is an important, yet somewhat underresearched, topic in corpus linguistics \citep{kilgarriff_comparing_2001}.
 This is especially true for morphosyntactic measures.\footnote{\citet{scherrer_recovering_2012} provides a method for deriving pronunciation distances between corpora automatically, but this approach is not straightforwardly generalizable to morphosyntax.}
-The method proposed here builds on an idea proposed by \citet{nerbonne_measure_2006}, who employ part-of-speech\is{parts-of-speech} \isi{\emph{n}-grams} to compare syntactic differences between two corpora.
+The method proposed here builds on an idea proposed by \citet{nerbonne_measure_2006}, who employ part-of-speech\is{parts-of-speech} \is{n-grams@\emph{n}-grams}\emph{n}-grams to compare syntactic differences between two corpora.
 The method makes use of \isi{permutation} tests to determine how reliable frequency differences between the corpora are, a technique that is gaining popularity in corpus linguistics \citep{lijffijt_computational_2013}.
 The first full dialectometric use of such an approach was by \citet{sanders_statistical_2010}, who used it to explore a Swedish dialect corpus.
 Let us exemplify the general idea starting with comparisons between county pairs.
@@ -227,27 +227,27 @@ Consider the following utterance from the Devon subcorpus of \textsc{fred-s}:
 Ignoring punctuation, we construct all overlapping sequences of length $n$ (always $n=2$ here, i.e, \emph{bigrams}), yielding the following result: \textsc{ppis2\_vvdi}, \textsc{vvd\_ii}, \textsc{ii\_mc}, \textsc{mc\_uh}. 
 This is done for all utterances in both subcorpora, and the resulting bigram counts are aggregated on the county level.
 A normalization procedure that redistributes probability point mass is applied to the resulting absolute frequencies.
-More specifically, this normalization process keeps the total number of tokens per \emph{n}-gram constant, but scales the per-county numbers according to the amount of \isi{\emph{n}-grams} in that county.\footnote{This method was chosen based on the process described in \citet{nerbonne_measure_2006}
-The difference to a more familiar normalization scheme seems to be marginal -- the \isi{correlation} between raw distances derived using this method and those from simple per 10,000 \isi{\emph{n}-grams} normalization is greater than $0.99$.}.
+More specifically, this normalization process keeps the total number of tokens per \emph{n}-gram constant, but scales the per-county numbers according to the amount of \is{n-grams@\emph{n}-grams}\emph{n}-grams in that county.\footnote{This method was chosen based on the process described in \citet{nerbonne_measure_2006}
+The difference to a more familiar normalization scheme seems to be marginal -- the \isi{correlation} between raw distances derived using this method and those from simple per 10,000 \is{n-grams@\emph{n}-grams}\emph{n}-grams normalization is greater than $0.99$.}.
 Then, the data is randomly resampled (without replacement) based on turns\footnote{\citet{nerbonne_measure_2006} resample based on sentences; in later work \citep{wiersma_automatically_2011}, this was changed to resampling based on speakers to increase the reliability of the result.
 This was not feasible for this study, as the number of speakers for some of the counties was low \citep[see also][]{sanders_statistical_2010}.}
 and the procedure is repeated on the new corpus.
 In other words, a new corpus is created, in which each county subcorpus contains the same amount of turns, but each turn is randomly assigned to a county.
-We can now, for each \emph{n}-gram\is{\emph{n}-grams}, calculate the difference in normalized values between the two counties both in the ``true'' (i.e. original) corpus and the randomly resampled one.
+We can now, for each \is{n-grams@\emph{n}-grams}\emph{n}-grams, calculate the difference in normalized values between the two counties both in the ``true'' (i.e. original) corpus and the randomly resampled one.
 If this difference is smaller in the original corpus, we can count this as evidence that the original difference may have occurred purely by chance - after all, a random process yielded a greater difference.
 Finding that the difference for the permuted corpus is smaller, however, would be consistent with the hypothesis that there is a genuine difference between the counties.
-If this process is not only done once, but a large number of times, the proportion of cases where the original difference was actually greater yields a probabilistic measure of how significant an \emph{n}-gram\is{\emph{n}-grams} frequency difference between the two counties is.
+If this process is not only done once, but a large number of times, the proportion of cases where the original difference was actually greater yields a probabilistic measure of how significant an \is{n-grams@\emph{n}-grams}\emph{n}-grams frequency difference between the two counties is.
 In a similar fashion, the overall distance (computed using a suitable distance metric, such as the Manhattan distance) can be evaluated.
 
 In addition, we can run the \isi{permutation} not only on county pairs, but over all counties at the same time.
 Instead of comparing differences between counties, we calculate the proportion of random corpora in which the normalized frequency exceeds that of the true corpus, counting runs where they are equal as one half.
-This yields a \emph{reliability matrix} that indicates how reliably this \emph{n}-gram\is{\emph{n}-grams} appears more (or less) frequently than expected by chance.
+This yields a \emph{reliability matrix} that indicates how reliably this \emph{n}-gram\is{n-grams@\emph{n}-grams} appears more (or less) frequently than expected by chance.
 Using either the pairwise number of significant differences or a measure of the extremeness of the distribution derived from the reliability matrix, we can evaluate particularly distinctive patterns.
 For example, consider \texttt{AT\_NN1}, the definite article followed by a singular noun, the most frequent pattern.
-This pattern was significantly different in 84 of all the 136 possible pairwise county combinations; this amounts to being the 29th most distinct \emph{n}-gram\is{\emph{n}-grams} according to this metric,
+This pattern was significantly different in 84 of all the 136 possible pairwise county combinations; this amounts to being the 29th most distinct \is{n-grams@\emph{n}-grams}\emph{n}-grams according to this metric,
 If, on the other hand, we use the number of divergences per \emph{n}-gram from maximally consistent whole-corpus \isi{permutation}s, we obtain a value of 2.42 percent.
 This is still one of the top patterns, but ranks quite a bit lower at number 83 on the corresponding list.
-In general, a similar pattern seems to hold: there is a strong \isi{correlation} between the two measures of distinctiveness, but the number of pairwise significant differences is more strongly influenced by \emph{n}-gram\is{\emph{n}-grams} frequency.
+In general, a similar pattern seems to hold: there is a strong \isi{correlation} between the two measures of distinctiveness, but the number of pairwise significant differences is more strongly influenced by \is{n-grams@\emph{n}-grams}\emph{n}-grams frequency.
 Both the normalized frequency matrix and the reliability matrix are suitable for distance calculations.
 Details about the process can be found in \citet[64-74]{wolk_integrating_2014}.
 
@@ -279,7 +279,7 @@ Here, the match between geographic and linguistic distances is almost as good as
 Qualitatively, we find that contiguous regions emerge. 
 This analysis finds a division between Scotland and the North of England only at a position of lower importance, and instead emphasizes a transition area between the North and South of England.
 Finally, we add that both measures of distinctiveness identify dialectologically meaningful patterns.
-Among the ten most distinctive \emph{n}-grams\is{\emph{n}-grams}, for example, we find many known features of British dialect grammar: several bigrams related to \emph{was/were} variation (\textsc{pph1/pphs1/pphs2\_vbdr}, \emph{it/(he/she)/they were}, and \textsc{pphs2\_vbdz}, \emph{they was}), \emph{them} as a determiner (in particular after temporal nouns, as in \emph{them days}), \emph{used to} as a marker of habituality (in particular following nouns), and \emph{is n't/not}, which competes with the non-standard form \emph{ain't}.
+Among the ten most distinctive \is{n-grams@\emph{n}-grams}\emph{n}-grams, for example, we find many known features of British dialect grammar: several bigrams related to \emph{was/were} variation (\textsc{pph1/pphs1/pphs2\_vbdr}, \emph{it/(he/she)/they were}, and \textsc{pphs2\_vbdz}, \emph{they was}), \emph{them} as a determiner (in particular after temporal nouns, as in \emph{them days}), \emph{used to} as a marker of habituality (in particular following nouns), and \emph{is n't/not}, which competes with the non-standard form \emph{ain't}.
 
 In short, then, our results suggest that bottom-up \textsc{cbdm} is practicable and worthwhile; the best method yielded results comparable to those for the manually selected feature set. 
 The normalized frequencies, however, fared rather badly, and only after the \isi{permutation} process smoothed off the rough edges did the areal signal emerge.
@@ -295,7 +295,7 @@ In this contribution, we have sketched some recent advances in corpus-based dial
 Early studies in \textsc{cbdm} (e.g. \citealt{szmrecsanyi_corpus-based_2011}) aggregate normalized text frequencies of features in an a-prioristically defined feature catalogue.
 This approach we have called the normalization-based top-down \textsc{cbdm} approach (see \sectref{topdownnormalized}).
 What we have shown is that top-down \textsc{cbdm} profits from the probabilistic modeling of usage frequencies prior to aggregation.
-The other major advance we have dwelt on in this contribution is bottom-up \textsc{cbdm}, which does not draw on a pre-defined feature catalogue but lets the features to be aggregated emerge in a data-driven fashion through the identification of significant and/or distinctive part-of-speech\is{parts-of-speech} \emph{n}-grams.\is{\emph{n}-grams}
+The other major advance we have dwelt on in this contribution is bottom-up \textsc{cbdm}, which does not draw on a pre-defined feature catalogue but lets the features to be aggregated emerge in a data-driven fashion through the identification of significant and/or distinctive part-of-speech\is{parts-of-speech} \is{n-grams@\emph{n}-grams}\emph{n}-grams.
 Both probabilistically enhanced top-down \textsc{cbdm} and bottom-up \textsc{cbdm} are valuable additions to the \isi{dialectometry} toolbox.
 
 With regard to the theme of the present volume, \emph{The Future of Dialects}, we have discussed in this contribution new ways of analyzing dialect data.
@@ -311,7 +311,7 @@ We wish to thank Peter Kleiweg for creating and maintaining the \isi{RuG/L04} pa
 %\printbibliography[heading=subbibliography,notkeyword=this]
 % The following inserted by BS
 %\bibliography{diam}
-\il{British English|)}
+\il{English!British English|)}
 
 \printbibliography[heading=subbibliography,notkeyword=this]
 \end{document}
